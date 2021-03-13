@@ -1,4 +1,6 @@
-If you're interested in developing server side Fabric mods, check out the [Fabric Server-side Development](https://discord.gg/PEg2ueH) discord, and ping me (comp500#7396) if you find a server side Fabric mod not listed here.
+# Fabric Server-side Mods
+
+If you're interested in developing server side Fabric mods, check out the [Fabric Server-side Development](https://discord.gg/PEg2ueH) discord, and submit a Pull Request if you find a server side Fabric mod not listed here.
 
 Also see [Optifine alternatives on Fabric](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754) for a few useful client side only mods!
 
@@ -415,5 +417,3 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 
 ## Cursed
 - [PacketIgnore](https://modrinth.com/mod/packetignore)
-
-To do: Make this into a proper webpage, maybe using Modrinth code?
