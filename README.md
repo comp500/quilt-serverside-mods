@@ -155,6 +155,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Context-Specific Immunity](https://www.curseforge.com/minecraft/mc-mods/context-specific-immunity)
 - [FabricNoMobGrief](https://modrinth.com/mod/FabricNoMobGrief)
 - [QuickCarpet](https://www.curseforge.com/minecraft/mc-mods/quickcarpet)
+- [Disable Portals](https://modrinth.com/mod/disable-portals)
 
 ### New Game Mechanics
 - [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric)
