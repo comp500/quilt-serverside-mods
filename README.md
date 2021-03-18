@@ -80,6 +80,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [YouCantDamageMe](https://www.modrinth.com/mod/YouCantDamageMe)
 - [PvP toggle](https://github.com/manyrandomthings/pvp-toggle)
 - [AttackSpeedPlus](https://www.curseforge.com/minecraft/mc-mods/attackspeedplus-fabric)
+- [Axes Are Weapons](https://modrinth.com/mod/axes-are-weapons)
 
 ### Game Mechanics Tweaks
 - [Fluid Physics](https://www.curseforge.com/minecraft/mc-mods/fluid-physics)
@@ -156,6 +157,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [FabricNoMobGrief](https://modrinth.com/mod/FabricNoMobGrief)
 - [QuickCarpet](https://www.curseforge.com/minecraft/mc-mods/quickcarpet)
 - [Disable Portals](https://modrinth.com/mod/disable-portals)
+- [Spawner Config](https://www.curseforge.com/minecraft/mc-mods/spawner-config)
 
 ### New Game Mechanics
 - [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric)
@@ -197,6 +199,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Wandering Collector](https://modrinth.com/mod/wandering-collector)
 - [Compostable Rotten Flesh](https://www.curseforge.com/minecraft/mc-mods/compostable-rotten-flesh)
 - [QuickCarpet](https://www.curseforge.com/minecraft/mc-mods/quickcarpet)
+- [SlimyFloor](https://www.curseforge.com/minecraft/mc-mods/slimyfloor)
 
 ### Crafting
 - [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes)
@@ -396,6 +399,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Upstream](https://www.curseforge.com/minecraft/mc-mods/upstream-fabric) (untested)
 - [SecureSeed](https://www.curseforge.com/minecraft/mc-mods/secureseed)
 - [Terra](https://modrinth.com/mod/terra)
+- [Structure World](https://www.curseforge.com/minecraft/mc-mods/structure-world)
+- [Tatters Skyblock](https://www.curseforge.com/minecraft/mc-mods/tatters-skyblock)
 
 ## Economy/Shops
 - [Gunpowder Market](https://www.curseforge.com/minecraft/mc-mods/gunpowder-market)
