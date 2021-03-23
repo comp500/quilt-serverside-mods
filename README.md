@@ -8,6 +8,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 
 ## Building
 - [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
+- [Shapes Edit](https://www.curseforge.com/minecraft/mc-mods/shapes-edit)
 
 ## Performance
 - [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)
@@ -23,6 +24,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Hydrogen](https://modrinth.com/mod/hydrogen) (experimental)
 - [World Specific View Distance](https://modrinth.com/mod/worldspecificviewdistance)
 - [DimensionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading) (experimental)
+- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 
 ## Bugfixes
 - [Dispenser Portal Fix](https://modrinth.com/mod/dispenser-portal-fix) or [DFASCF](https://github.com/alkyaly/DFASCF) (fixed by 1.16.5)
@@ -122,6 +124,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Always Drop Loot](https://www.curseforge.com/minecraft/mc-mods/always-drop-loot)
 - [Project: Save the Pets!](https://www.curseforge.com/minecraft/mc-mods/project-save-the-pets)
 - [Lucid](https://www.modrinth.com/mod/lucid)
+- [Lucid-lite](https://modrinth.com/mod/lucid-lite)
 - [playerless](https://www.curseforge.com/minecraft/mc-mods/playerless)
 - [Lightning Prevention](https://www.curseforge.com/minecraft/mc-mods/lightning-prevention)
 - [Fire's Survival Tweaks](https://www.curseforge.com/minecraft/mc-mods/fires-survival-tweaks)
@@ -287,6 +290,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Server Simplified](https://github.com/yitzy299/server-simplified)
 - [Chunky Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator)
 - [TBPlugin](https://www.curseforge.com/minecraft/mc-mods/tbplugin)
+- [BanHammer](https://modrinth.com/mod/banhammer)
+- [Defibrillator](https://modrinth.com/mod/defibrillator)
 
 ### Datapacks
 - [Packie](https://www.curseforge.com/minecraft/mc-mods/packie-fabric)
@@ -401,6 +406,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Terra](https://modrinth.com/mod/terra)
 - [Structure World](https://www.curseforge.com/minecraft/mc-mods/structure-world)
 - [Tatters Skyblock](https://www.curseforge.com/minecraft/mc-mods/tatters-skyblock)
+- [Stoneholm](https://modrinth.com/mod/stoneholm)
 
 ## Economy/Shops
 - [Gunpowder Market](https://www.curseforge.com/minecraft/mc-mods/gunpowder-market)
