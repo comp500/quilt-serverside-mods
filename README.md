@@ -25,6 +25,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [World Specific View Distance](https://modrinth.com/mod/worldspecificviewdistance)
 - [DimensionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading) (experimental)
 - [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
+- [Custom Item Range Combination](https://modrinth.com/mod/custom-item-range-combination)
 
 ## Bugfixes
 - [Dispenser Portal Fix](https://modrinth.com/mod/dispenser-portal-fix) or [DFASCF](https://github.com/alkyaly/DFASCF) (fixed by 1.16.5)
@@ -203,6 +204,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Compostable Rotten Flesh](https://www.curseforge.com/minecraft/mc-mods/compostable-rotten-flesh)
 - [QuickCarpet](https://www.curseforge.com/minecraft/mc-mods/quickcarpet)
 - [SlimyFloor](https://www.curseforge.com/minecraft/mc-mods/slimyfloor)
+- [EasyAutoCrafting](https://modrinth.com/mod/easyautocrafting)
 
 ### Crafting
 - [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes)
@@ -223,7 +225,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Player Roles](https://www.curseforge.com/minecraft/mc-mods/player-roles-fabric)
 - [Rich Chat](https://github.com/Ashley1227/rich-chat)
 - [SetPlayerData](https://www.curseforge.com/minecraft/mc-mods/setplayerdata)
-- [keepinventory-command](https://www.curseforge.com/minecraft/mc-mods/keepinventory-command)
 - [FabricTailor](https://www.curseforge.com/minecraft/mc-mods/fabrictailor)
 - [Gestus](https://www.curseforge.com/minecraft/mc-mods/gestus)
 - [Join Messages](https://www.curseforge.com/minecraft/mc-mods/join-messages)
@@ -264,6 +265,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Flan](https://www.curseforge.com/minecraft/mc-mods/flan)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
 - [Leukocyte](https://github.com/NucleoidMC/leukocyte/releases)
+- [Hey That's Mine](https://modrinth.com/mod/htm)
 
 ## Inventory
 - [Lootstrap](https://www.curseforge.com/minecraft/mc-mods/lootstrap)
@@ -271,6 +273,9 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Game Start](https://www.curseforge.com/minecraft/mc-mods/game-start)
 - [Starting Notes](https://www.curseforge.com/minecraft/mc-mods/starting-notes)
 - [Configured Keep Inventory](https://www.curseforge.com/minecraft/mc-mods/configured-keep-inventory)
+- [Inv View](https://www.curseforge.com/minecraft/mc-mods/inv-view)
+- [keepinventory-command](https://www.curseforge.com/minecraft/mc-mods/keepinventory-command)
+- [InvSync](https://modrinth.com/mod/invsync)
 
 ## Server Management
 - [PathWatcher](https://www.curseforge.com/minecraft/mc-mods/pathwatcher) (outdated)
@@ -280,7 +285,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Badlion Client Disabler](https://www.modrinth.com/mod/TAH3qgEe)
 - [ModUpdater](https://www.curseforge.com/minecraft/mc-mods/modupdater)
 - [DynRes](https://www.curseforge.com/minecraft/mc-mods/dynres)
-- [Inv View](https://www.curseforge.com/minecraft/mc-mods/inv-view)
 - [Username Remap](https://www.curseforge.com/minecraft/mc-mods/username-remap)
 - [Erroring Entity Remover](https://www.curseforge.com/minecraft/mc-mods/erroring-entity-remover)
 - [Servux](https://www.curseforge.com/minecraft/mc-mods/servux)
@@ -315,7 +319,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 
 ### Anticheat/Anti X-ray
 - [Simple Anti X-ray (SAX)](https://modrinth.com/mod/sax)
-- [GolfIV](https://github.com/samolego/GolfIV)
+- [GolfIV](https://modrinth.com/mod/golfiv)
 - [CheaterDeleter](https://github.com/CoolMineman/CheaterDeleter)
 
 ### Server List modifications
