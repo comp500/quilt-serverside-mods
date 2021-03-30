@@ -296,6 +296,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [TBPlugin](https://www.curseforge.com/minecraft/mc-mods/tbplugin)
 - [BanHammer](https://modrinth.com/mod/banhammer)
 - [Defibrillator](https://modrinth.com/mod/defibrillator)
+- [server-launcher](https://github.com/Geek202/server-launcher) and [restarter](https://github.com/Geek202/server-restarter)
 
 ### Datapacks
 - [Packie](https://www.curseforge.com/minecraft/mc-mods/packie-fabric)
