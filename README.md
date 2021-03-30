@@ -354,8 +354,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [CrossStitch](https://www.curseforge.com/minecraft/mc-mods/crossstitch)
 - [Fabric Forwarding](https://www.curseforge.com/minecraft/mc-mods/fabric-forwarding)
 - [Trampoline](https://www.curseforge.com/minecraft/mc-mods/trampoline)
-- [FabricProxy](https://modrinth.com/mod/fabricproxy)
-- [FabricProxy-Lite](https://modrinth.com/mod/fabricproxy-lite)
+- [FabricProxy-Lite](https://modrinth.com/mod/fabricproxy-lite) (supersedes FabricProxy)
 
 ### Protocol tricks - Cross-version/edition compatibility, resource packs for client-required mods
 - [ViaFabric](https://viaversion.com/fabric)
