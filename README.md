@@ -311,7 +311,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 
 ### Logging/auditing
 - [DeltaLogger](https://www.curseforge.com/minecraft/mc-mods/deltalogger) (supersedes WatchTower and BlockLogger)
-- [Command Logger](https://www.curseforge.com/minecraft/mc-mods/command-logger)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
 - [CommandSpy](https://www.curseforge.com/minecraft/mc-mods/commandspy)
 - [Ban Trigger](https://modrinth.com/mod/xbRmRCv2)
