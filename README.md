@@ -53,6 +53,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Crowmap](https://modrinth.com/mod/crowmap) (untested)
 - [Creative One-Punch](https://modrinth.com/mod/creative-one-punch)
 - [Fat Experience Orbs](https://www.curseforge.com/minecraft/mc-mods/fat-experience-orbs)
+- [HealthCare](https://github.com/samolego/HealthCare)
 
 ### Cosmetic
 - [MAmbience](https://www.curseforge.com/minecraft/mc-mods/mambience) (with resource pack)
