@@ -33,7 +33,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Carpet Extra](https://www.curseforge.com/minecraft/mc-mods/carpet-extra)
 - [Dimension Mutability](https://www.curseforge.com/minecraft/mc-mods/dimension-mutability) (untested)
 - [Carpet TIS Addition](https://www.curseforge.com/minecraft/mc-mods/carpet-tis-addition)
-- [MC-198678 Fix](https://github.com/Fallen-Breath/mc-198678-fix)
+- [MC-198678 Fix](https://github.com/Fallen-Breath/mc-198678-fix) (fixed by 1.16.3)
 - [Wither Cage Fix](https://www.curseforge.com/minecraft/mc-mods/wither-cage-fix)
 - [Fabrication](https://www.curseforge.com/minecraft/mc-mods/fabrication)
 - [Dimension Update Fixer](https://www.curseforge.com/minecraft/mc-mods/dimension-update-fixer)
