@@ -26,6 +26,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [DimensionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading) (experimental)
 - [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 - [Custom Item Range Combination](https://modrinth.com/mod/custom-item-range-combination)
+- [Fast Redstone](https://modrinth.com/mod/fast-redstone) (changes behaviour)
 
 ## Bugfixes
 - [Dispenser Portal Fix](https://modrinth.com/mod/dispenser-portal-fix) or [DFASCF](https://github.com/alkyaly/DFASCF) (fixed by 1.16.5)
@@ -53,7 +54,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Crowmap](https://modrinth.com/mod/crowmap) (untested)
 - [Creative One-Punch](https://modrinth.com/mod/creative-one-punch)
 - [Fat Experience Orbs](https://www.curseforge.com/minecraft/mc-mods/fat-experience-orbs)
-- [HealthCare](https://github.com/samolego/HealthCare)
+- [HealthCare](https://modrinth.com/mod/healthcare)
 
 ### Cosmetic
 - [MAmbience](https://www.curseforge.com/minecraft/mc-mods/mambience) (with resource pack)
@@ -74,6 +75,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Hypnos](https://www.curseforge.com/minecraft/mc-mods/hypnos)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
 - [BetterSleepPlus](https://www.curseforge.com/minecraft/mc-mods/bettersleepplus)
+- [SleepPunisher](https://www.curseforge.com/minecraft/mc-mods/sleeppunisher)
 
 ## Tweaks
 
@@ -206,6 +208,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [QuickCarpet](https://www.curseforge.com/minecraft/mc-mods/quickcarpet)
 - [SlimyFloor](https://www.curseforge.com/minecraft/mc-mods/slimyfloor)
 - [EasyAutoCrafting](https://modrinth.com/mod/easyautocrafting)
+- [PlayerPig](https://www.curseforge.com/minecraft/mc-mods/playerpig)
 
 ### Crafting
 - [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes)
@@ -261,6 +264,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [TBPlugin](https://www.curseforge.com/minecraft/mc-mods/tbplugin)
 - [Roll](https://www.curseforge.com/minecraft/mc-mods/roll-fabric)
 - [The Warp Mod](https://www.curseforge.com/minecraft/mc-mods/the-warp-mod-fabric)
+- [Slapmap](https://www.curseforge.com/minecraft/mc-mods/slapmap)
+- [Armor Stand Editor](https://modrinth.com/mod/armorstandeditor)
 
 ## Claims/World Protection
 - [Flan](https://www.curseforge.com/minecraft/mc-mods/flan)
