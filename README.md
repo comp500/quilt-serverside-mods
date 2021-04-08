@@ -39,6 +39,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Fabrication](https://www.curseforge.com/minecraft/mc-mods/fabrication)
 - [Dimension Update Fixer](https://www.curseforge.com/minecraft/mc-mods/dimension-update-fixer)
 - [Keep Head Names](https://modrinth.com/mod/keepheadnames)
+- [Head Name Fix](https://github.com/manyrandomthings/head-name-fix)
 - [WorldBorderFix](https://modrinth.com/mod/WorldBorderFix)
 - [FabricCrossDimTPFix](https://modrinth.com/mod/FabricCrossDimTPFix)
 
@@ -165,6 +166,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [QuickCarpet](https://www.curseforge.com/minecraft/mc-mods/quickcarpet)
 - [Disable Portals](https://modrinth.com/mod/disable-portals)
 - [Spawner Config](https://www.curseforge.com/minecraft/mc-mods/spawner-config)
+- [Overpowered Mending](https://www.curseforge.com/minecraft/mc-mods/overpowered-mending)
 
 ### New Game Mechanics
 - [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric)
@@ -209,6 +211,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [SlimyFloor](https://www.curseforge.com/minecraft/mc-mods/slimyfloor)
 - [EasyAutoCrafting](https://modrinth.com/mod/easyautocrafting)
 - [PlayerPig](https://www.curseforge.com/minecraft/mc-mods/playerpig)
+- [Infinity Water Bucker](https://www.curseforge.com/minecraft/mc-mods/infinity-water-bucket)
 
 ### Crafting
 - [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes)
@@ -266,6 +269,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [The Warp Mod](https://www.curseforge.com/minecraft/mc-mods/the-warp-mod-fabric)
 - [Slapmap](https://www.curseforge.com/minecraft/mc-mods/slapmap)
 - [Armor Stand Editor](https://modrinth.com/mod/armorstandeditor)
+- [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)
 
 ## Claims/World Protection
 - [Flan](https://www.curseforge.com/minecraft/mc-mods/flan)
