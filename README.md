@@ -55,6 +55,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Creative One-Punch](https://modrinth.com/mod/creative-one-punch)
 - [Fat Experience Orbs](https://www.curseforge.com/minecraft/mc-mods/fat-experience-orbs)
 - [HealthCare](https://modrinth.com/mod/healthcare)
+- [Playtime Tracker](https://github.com/SpaceClouds42/PlaytimeTracker)
 
 ### Cosmetic
 - [MAmbience](https://www.curseforge.com/minecraft/mc-mods/mambience) (with resource pack)
@@ -354,7 +355,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [TeamPerms](https://www.curseforge.com/minecraft/mc-mods/teamperms)
 - [Server Simplified](https://github.com/yitzy299/server-simplified)
 - [LuckPerms](https://modrinth.com/mod/luckperms)
-- [Better Op](https://github.com/The-Tiny-Taters/Better-Op)
+- [Better Op](https://modrinth.com/mod/better-op)
 
 ### Proxy forwarding (BungeeCord/Waterfall/Velocity)
 - [CrossStitch](https://www.curseforge.com/minecraft/mc-mods/crossstitch)
