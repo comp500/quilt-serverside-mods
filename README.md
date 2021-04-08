@@ -269,7 +269,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [The Warp Mod](https://www.curseforge.com/minecraft/mc-mods/the-warp-mod-fabric)
 - [Slapmap](https://www.curseforge.com/minecraft/mc-mods/slapmap)
 - [Armor Stand Editor](https://modrinth.com/mod/armorstandeditor)
-- [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
 
 ## Claims/World Protection
 - [Flan](https://www.curseforge.com/minecraft/mc-mods/flan)
@@ -286,6 +285,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Inv View](https://www.curseforge.com/minecraft/mc-mods/inv-view)
 - [keepinventory-command](https://www.curseforge.com/minecraft/mc-mods/keepinventory-command)
 - [InvSync](https://modrinth.com/mod/invsync)
+- [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
 
 ## Server Management
 - [PathWatcher](https://www.curseforge.com/minecraft/mc-mods/pathwatcher) (outdated)
