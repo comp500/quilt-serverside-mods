@@ -211,7 +211,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [SlimyFloor](https://www.curseforge.com/minecraft/mc-mods/slimyfloor)
 - [EasyAutoCrafting](https://modrinth.com/mod/easyautocrafting)
 - [PlayerPig](https://www.curseforge.com/minecraft/mc-mods/playerpig)
-- [Infinity Water Bucker](https://www.curseforge.com/minecraft/mc-mods/infinity-water-bucket)
+- [Infinity Water Bucket](https://www.curseforge.com/minecraft/mc-mods/infinity-water-bucket)
 
 ### Crafting
 - [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes)
