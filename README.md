@@ -269,7 +269,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [The Warp Mod](https://www.curseforge.com/minecraft/mc-mods/the-warp-mod-fabric)
 - [Slapmap](https://www.curseforge.com/minecraft/mc-mods/slapmap)
 - [Armor Stand Editor](https://modrinth.com/mod/armorstandeditor)
-- [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)
+- [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
 
 ## Claims/World Protection
 - [Flan](https://www.curseforge.com/minecraft/mc-mods/flan)
