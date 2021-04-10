@@ -24,7 +24,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Hydrogen](https://modrinth.com/mod/hydrogen) (experimental)
 - [World Specific View Distance](https://modrinth.com/mod/worldspecificviewdistance)
 - [DimensionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading) (experimental)
-- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
+- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)
 - [Custom Item Range Combination](https://modrinth.com/mod/custom-item-range-combination)
 - [Fast Redstone](https://modrinth.com/mod/fast-redstone) (changes behaviour)
 
