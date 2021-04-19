@@ -26,7 +26,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [DimensionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading) (experimental)
 - [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)
 - [Custom Item Range Combination](https://modrinth.com/mod/custom-item-range-combination)
-- [Fast Redstone](https://modrinth.com/mod/fast-redstone) (changes behaviour)
+- [Alternate Current](https://modrinth.com/mod/alternate-current) (changes behaviour)
+- [Recipe Cache](https://www.curseforge.com/minecraft/mc-mods/recipe-cache)
 
 ## Bugfixes
 - [Dispenser Portal Fix](https://modrinth.com/mod/dispenser-portal-fix) or [DFASCF](https://github.com/alkyaly/DFASCF) (fixed by 1.16.5)
@@ -56,7 +57,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Creative One-Punch](https://modrinth.com/mod/creative-one-punch)
 - [Fat Experience Orbs](https://www.curseforge.com/minecraft/mc-mods/fat-experience-orbs)
 - [HealthCare](https://modrinth.com/mod/healthcare)
-- [Playtime Tracker](https://github.com/SpaceClouds42/PlaytimeTracker)
+- [Playtime Tracker](https://modrinth.com/mod/playtime-tracker)
+- [EditSign](https://modrinth.com/mod/editsign)
 
 ### Cosmetic
 - [MAmbience](https://www.curseforge.com/minecraft/mc-mods/mambience) (with resource pack)
@@ -72,7 +74,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Falling Tree](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
 
 ### Sleep Voting/Acceleration
-- [Gunpowder SleepVote](https://www.curseforge.com/minecraft/mc-mods/gunpowder-sleepvote)
 - [BetterSleeping](https://www.curseforge.com/minecraft/mc-mods/bettersleeping)
 - [Hypnos](https://www.curseforge.com/minecraft/mc-mods/hypnos)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
@@ -89,6 +90,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [PvP toggle](https://github.com/manyrandomthings/pvp-toggle)
 - [AttackSpeedPlus](https://www.curseforge.com/minecraft/mc-mods/attackspeedplus-fabric)
 - [Axes Are Weapons](https://modrinth.com/mod/axes-are-weapons)
+- [Perfect Accuracy](https://modrinth.com/mod/perfect-accuracy)
 
 ### Game Mechanics Tweaks
 - [Fluid Physics](https://www.curseforge.com/minecraft/mc-mods/fluid-physics)
@@ -168,6 +170,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Disable Portals](https://modrinth.com/mod/disable-portals)
 - [Spawner Config](https://www.curseforge.com/minecraft/mc-mods/spawner-config)
 - [Overpowered Mending](https://www.curseforge.com/minecraft/mc-mods/overpowered-mending)
+- [Per Player Spawns](https://www.curseforge.com/minecraft/mc-mods/fabric-per-player-spawns)
+- [Proper Mobcap Modifier](https://www.curseforge.com/minecraft/mc-mods/proper-mobcap-modifier-fabric)
 
 ### New Game Mechanics
 - [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric)
@@ -221,8 +225,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 
 ## Commands/Chat
 - [EasyMOTD](https://www.curseforge.com/minecraft/mc-mods/easymotd)
-- [Gunpowder Utilities](https://www.curseforge.com/minecraft/mc-mods/gunpowder-utilities)
-- [Gunpowder Teleport](https://www.curseforge.com/minecraft/mc-mods/gunpowder-teleport)
 - [simplechat.](https://www.curseforge.com/minecraft/mc-mods/simplechat) (outdated)
 - [Text Coloriser Plugin](https://www.curseforge.com/minecraft/mc-mods/text-coloriser-plugin)
 - [MaskOfLoki's Fabric Tweaks](https://www.curseforge.com/minecraft/mc-mods/maskoflokis-fabric-tweaks) (outdated)
@@ -270,6 +272,11 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [The Warp Mod](https://www.curseforge.com/minecraft/mc-mods/the-warp-mod-fabric)
 - [Slapmap](https://www.curseforge.com/minecraft/mc-mods/slapmap)
 - [Armor Stand Editor](https://modrinth.com/mod/armorstandeditor)
+- [Mods Command](https://modrinth.com/mod/mods-command)
+- [Mod Info Command](https://modrinth.com/mod/mod-info-cmd)
+- [Cyan](https://modrinth.com/mod/cyan)
+- [Command Alias Creator](https://www.curseforge.com/minecraft/mc-mods/command-alias-creator)
+- [Default Spawn Points](https://modrinth.com/mod/defaultspawnpoints)
 
 ## Claims/World Protection
 - [Flan](https://www.curseforge.com/minecraft/mc-mods/flan)
@@ -424,9 +431,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Stoneholm](https://modrinth.com/mod/stoneholm)
 
 ## Economy/Shops
-- [Gunpowder Market](https://www.curseforge.com/minecraft/mc-mods/gunpowder-market)
-- [Gunpowder Currency](https://www.curseforge.com/minecraft/mc-mods/gunpowder-currency)
-- [Gunpowder Signshop](https://www.curseforge.com/minecraft/mc-mods/gunpowder-signshop)
 - [Grand Economy](https://www.curseforge.com/minecraft/mc-mods/grand-economy)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
 
