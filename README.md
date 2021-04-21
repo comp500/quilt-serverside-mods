@@ -239,6 +239,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Gestus](https://www.curseforge.com/minecraft/mc-mods/gestus)
 - [Join Messages](https://www.curseforge.com/minecraft/mc-mods/join-messages)
 - [CustomJoinMessagesFabric](https://www.curseforge.com/minecraft/mc-mods/customjoinmessagesfabric)
+- [DisableJoinLeaveMessage](https://github.com/voruti/DisableJoinLeaveMessage)
 - [Image2Map](https://www.curseforge.com/minecraft/mc-mods/image2map)
 - [Chat History](https://www.curseforge.com/minecraft/mc-mods/chat-history)
 - [Command Aliases](https://www.curseforge.com/minecraft/mc-mods/commandaliases)
