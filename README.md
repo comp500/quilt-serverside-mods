@@ -107,7 +107,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [CartLoaders](https://www.curseforge.com/minecraft/mc-mods/cartloaders)
 - [Piston Control](https://www.curseforge.com/minecraft/mc-mods/piston-control) (works best with client mod installed)
 - [MobCapped](https://www.curseforge.com/minecraft/mc-mods/mobcapped)
-- [Hot Furnace](https://www.curseforge.com/minecraft/mc-mods/hot-furnace)
 - [Daylight Mobs](https://www.curseforge.com/minecraft/mc-mods/daylight-mobs) (untested)
 - [Beacons For All](https://www.curseforge.com/minecraft/mc-mods/beacons-for-all-fabric)
 - [Unlimited Dragon Eggs](https://www.curseforge.com/minecraft/mc-mods/unlimited-dragon-eggs-fabric)
