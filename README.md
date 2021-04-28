@@ -216,6 +216,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [EasyAutoCrafting](https://modrinth.com/mod/easyautocrafting)
 - [PlayerPig](https://www.curseforge.com/minecraft/mc-mods/playerpig)
 - [Infinity Water Bucket](https://www.curseforge.com/minecraft/mc-mods/infinity-water-bucket)
+- [Lapis Warps](https://www.curseforge.com/minecraft/mc-mods/lapis-warps)
 
 ### Crafting
 - [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes)
@@ -294,6 +295,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [keepinventory-command](https://www.curseforge.com/minecraft/mc-mods/keepinventory-command)
 - [InvSync](https://modrinth.com/mod/invsync)
 - [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
+- [GVault](https://modrinth.com/mod/gvault) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/gvault))
 
 ## Server Management
 - [PathWatcher](https://www.curseforge.com/minecraft/mc-mods/pathwatcher) (outdated)
@@ -433,6 +435,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 ## Economy/Shops
 - [Grand Economy](https://www.curseforge.com/minecraft/mc-mods/grand-economy)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
+- [GShop](https://modrinth.com/mod/gshop) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/gshop))
 
 ## Maps
 - [Dynmap](https://www.curseforge.com/minecraft/mc-mods/dynmapforge/files/all)
