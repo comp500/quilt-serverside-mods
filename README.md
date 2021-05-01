@@ -180,7 +180,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Mob Rebirth](https://www.curseforge.com/minecraft/mc-mods/mob-rebirth)
 - [BeaconFlight](https://www.curseforge.com/minecraft/mc-mods/beaconflight) (outdated)
 - [VanillaEndervators](https://www.curseforge.com/minecraft/mc-mods/vanillaendervators) (outdated)
-- [VanillaDeathChest](https://www.curseforge.com/minecraft/mc-mods/vanilladeathchest)
+- [VanillaDeathChest](https://www.curseforge.com/minecraft/mc-mods/vanilladeathchest-fabric)
 - [Hauling Hogs](https://www.curseforge.com/minecraft/mc-mods/hauling-hogs)
 - [FastGrowth](https://www.curseforge.com/minecraft/mc-mods/fastgrowth)
 - [Better Dispensers](https://www.curseforge.com/minecraft/mc-mods/better-dispensers)
