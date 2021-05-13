@@ -80,6 +80,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
 - [BetterSleepPlus](https://www.curseforge.com/minecraft/mc-mods/bettersleepplus)
 - [SleepPunisher](https://www.curseforge.com/minecraft/mc-mods/sleeppunisher)
+- [Day Dream](https://www.curseforge.com/minecraft/mc-mods/day-dream)
 
 ## Tweaks
 
@@ -92,6 +93,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [AttackSpeedPlus](https://www.curseforge.com/minecraft/mc-mods/attackspeedplus-fabric)
 - [Axes Are Weapons](https://modrinth.com/mod/axes-are-weapons)
 - [Perfect Accuracy](https://modrinth.com/mod/perfect-accuracy)
+- [FabricPvP](https://modrinth.com/mod/fabricpvp)
 
 ### Game Mechanics Tweaks
 - [Fluid Physics](https://www.curseforge.com/minecraft/mc-mods/fluid-physics)
@@ -108,7 +110,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [CartLoaders](https://www.curseforge.com/minecraft/mc-mods/cartloaders)
 - [Piston Control](https://www.curseforge.com/minecraft/mc-mods/piston-control) (works best with client mod installed)
 - [MobCapped](https://www.curseforge.com/minecraft/mc-mods/mobcapped)
-- [Daylight Mobs](https://www.curseforge.com/minecraft/mc-mods/daylight-mobs) (untested)
+- [Daylight Mobs](https://www.curseforge.com/minecraft/mc-mods/daylight-mobs)
+- [Daylight Mobs Reborn](https://www.curseforge.com/minecraft/mc-mods/daylight-mobs-reborn)
 - [Beacons For All](https://www.curseforge.com/minecraft/mc-mods/beacons-for-all-fabric)
 - [Unlimited Dragon Eggs](https://www.curseforge.com/minecraft/mc-mods/unlimited-dragon-eggs-fabric)
 - [VillagerFix](https://www.curseforge.com/minecraft/mc-mods/villagerfix)
@@ -172,6 +175,9 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Overpowered Mending](https://www.curseforge.com/minecraft/mc-mods/overpowered-mending)
 - [Per Player Spawns](https://www.curseforge.com/minecraft/mc-mods/fabric-per-player-spawns)
 - [Proper Mobcap Modifier](https://www.curseforge.com/minecraft/mc-mods/proper-mobcap-modifier-fabric)
+- [Disable Riptide](https://www.curseforge.com/minecraft/mc-mods/disable-riptide)
+- [Disable Elytra Flight](https://www.curseforge.com/minecraft/mc-mods/disable-elytra-flight)
+- [Bedrock Destroyer](https://www.curseforge.com/minecraft/mc-mods/bedrock-destroyer)
 
 ### New Game Mechanics
 - [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric)
@@ -218,6 +224,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [PlayerPig](https://www.curseforge.com/minecraft/mc-mods/playerpig)
 - [Infinity Water Bucket](https://www.curseforge.com/minecraft/mc-mods/infinity-water-bucket)
 - [Lapis Warps](https://www.curseforge.com/minecraft/mc-mods/lapis-warps)
+- [Cauldron Concrete](https://modrinth.com/mod/cauldronconcrete)
+- [FabricSit](https://modrinth.com/mod/sit)
 
 ### Crafting
 - [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes)
@@ -279,6 +287,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Cyan](https://modrinth.com/mod/cyan)
 - [Command Alias Creator](https://www.curseforge.com/minecraft/mc-mods/command-alias-creator)
 - [Default Spawn Points](https://modrinth.com/mod/defaultspawnpoints)
+- [EqualNBT](https://modrinth.com/mod/equalnbt)
+- [MobDisguises](https://modrinth.com/mod/mobdisguises)
 
 ## Claims/World Protection
 - [Flan](https://www.curseforge.com/minecraft/mc-mods/flan)
@@ -318,6 +328,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [BanHammer](https://modrinth.com/mod/banhammer)
 - [Defibrillator](https://modrinth.com/mod/defibrillator)
 - [server-launcher](https://github.com/Geek202/server-launcher) and [restarter](https://github.com/Geek202/server-restarter)
+- [Wires](https://modrinth.com/mod/wires)
 
 ### Datapacks
 - [Packie](https://www.curseforge.com/minecraft/mc-mods/packie-fabric)
@@ -363,6 +374,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Spark](https://www.curseforge.com/minecraft/mc-mods/spark)
 - [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
 - [MixinTrace](https://modrinth.com/mod/mixintrace)
+- [Blame](https://modrinth.com/mod/blame-fabric)
 
 ### Permissions/Roles
 - [Player Roles](https://www.curseforge.com/minecraft/mc-mods/player-roles-fabric)
@@ -393,6 +405,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [fabric-discord-integration](https://github.com/hkva/fabric-discord-integration)
 - [Discord Fabric Whitelister](https://www.curseforge.com/minecraft/mc-mods/discord-fabric-whitelister)
 - [TomsServerUtils](https://modrinth.com/mod/ul4zTWk4)
+- [DiscordMinecraftFabric](https://modrinth.com/mod/dmf)
 
 ### Matterbridge
 - [MatterLink](https://www.curseforge.com/minecraft/mc-mods/matterlink)
@@ -400,10 +413,13 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 ### Twitch
 - [Stream Participation](https://www.curseforge.com/minecraft/mc-mods/stream-participation) (links bit donations to mcfunctions)
 
-## Minigames
+## Gamemodes/Minigames
 - [BattleMod](https://www.curseforge.com/minecraft/mc-mods/battlemod)
 - [Nucleoid](https://github.com/NucleoidMC)
 - [Manhunt](https://www.curseforge.com/minecraft/mc-mods/manhunt-fabric)
+- [SoulSplit (ThirdLife)](https://www.curseforge.com/minecraft/mc-mods/thirdlife-soulsplit)
+- [Solar Apocalypse: Refabricated](https://www.curseforge.com/minecraft/mc-mods/solar-apocalypse-refabricated)
+- [Fabric Observer Gamemode](https://github.com/aws404/Fabric-ObserverMode)
 
 ## Statistics
 - [RPGStats](https://www.curseforge.com/minecraft/mc-mods/rpgstats)
@@ -432,6 +448,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Structure World](https://www.curseforge.com/minecraft/mc-mods/structure-world)
 - [Tatters Skyblock](https://www.curseforge.com/minecraft/mc-mods/tatters-skyblock)
 - [Stoneholm](https://modrinth.com/mod/stoneholm)
+- [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric)
 
 ## Economy/Shops
 - [Grand Economy](https://www.curseforge.com/minecraft/mc-mods/grand-economy)
