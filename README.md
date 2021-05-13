@@ -28,6 +28,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Custom Item Range Combination](https://modrinth.com/mod/custom-item-range-combination)
 - [Alternate Current](https://modrinth.com/mod/alternate-current) (changes behaviour)
 - [Recipe Cache](https://www.curseforge.com/minecraft/mc-mods/recipe-cache)
+- [hopperOptimizations](https://github.com/2No2Name/hopperOptimizations) (requires lithium fork)
 
 ## Bugfixes
 - [Dispenser Portal Fix](https://modrinth.com/mod/dispenser-portal-fix) or [DFASCF](https://github.com/alkyaly/DFASCF) (fixed by 1.16.5)
