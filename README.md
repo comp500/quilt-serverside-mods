@@ -94,6 +94,11 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Axes Are Weapons](https://modrinth.com/mod/axes-are-weapons)
 - [Perfect Accuracy](https://modrinth.com/mod/perfect-accuracy)
 - [FabricPvP](https://modrinth.com/mod/fabricpvp)
+- [Expanded Axe Enchanting](https://modrinth.com/mod/expanded-axe-enchanting)
+- [Expanded Armor Enchanting](https://modrinth.com/mod/expanded-armor-enchanting)
+- [Expanded Weapon Enchanting](https://modrinth.com/mod/expanded-weapon-enchanting)
+- [Expanded Trident Enchanting](https://modrinth.com/mod/expanded-trident-enchanting)
+- [Infinity Fix](https://modrinth.com/mod/infinity_fix)
 
 ### Game Mechanics Tweaks
 - [Fluid Physics](https://www.curseforge.com/minecraft/mc-mods/fluid-physics)
@@ -226,11 +231,28 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Lapis Warps](https://www.curseforge.com/minecraft/mc-mods/lapis-warps)
 - [Cauldron Concrete](https://modrinth.com/mod/cauldronconcrete)
 - [FabricSit](https://modrinth.com/mod/sit)
+- [Carpet Without /player](https://modrinth.com/mod/carpet-without-player)
+- [Neutral Animals](https://modrinth.com/mod/neutral-animals)
+- [Neutral Mobs](https://modrinth.com/mod/neutral-mobs)
+- [No Teleport Cooldown](https://modrinth.com/mod/no-teleport-cooldown)
+- [Eternal Eats](https://modrinth.com/mod/eternal-eats)
+- [Grind Enchantments](https://modrinth.com/mod/WC4UgDcZ)
+- [ParadoxSlabs](https://modrinth.com/mod/paradox-slabs)
+- [Powershot](https://modrinth.com/mod/powershot)
+- [Better Beacon](https://modrinth.com/mod/better-beacon)
+- [Spice of Fabric](https://modrinth.com/mod/spice-of-fabric)
+- [The Toast Mod](https://modrinth.com/mod/the-toast-mod)
+- [Good Ol' Regen](https://modrinth.com/mod/good-ol-regen)
+- [Extension](https://modrinth.com/mod/ext)
+- [You can't damage me!](https://modrinth.com/mod/YouCantDamageMe)
 
 ### Crafting
 - [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes)
 - [NBT Crafting](https://www.curseforge.com/minecraft/mc-mods/nbt-crafting)
 - [Anvil Crushing Recipes](https://www.curseforge.com/minecraft/mc-mods/anvil-crushing-recipes)
+- [Craftable Enchanted Golden Apple](https://modrinth.com/mod/craftable-enchanted-golden-apple)
+- [Rotten Flesh to Feather](https://modrinth.com/mod/rottenfleshtofeather)
+- [Glowing Potion](https://modrinth.com/mod/glowpot)
 
 ## Commands/Chat
 - [EasyMOTD](https://www.curseforge.com/minecraft/mc-mods/easymotd)
@@ -289,12 +311,17 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Default Spawn Points](https://modrinth.com/mod/defaultspawnpoints)
 - [EqualNBT](https://modrinth.com/mod/equalnbt)
 - [MobDisguises](https://modrinth.com/mod/mobdisguises)
+- [Fabric Death Messages](https://modrinth.com/mod/death-messages)
+- [Server Tick](https://modrinth.com/mod/servertick)
+- [SimpleChat - Chat mod for Fabric servers](https://modrinth.com/mod/simplechat)
+- [Head Index](https://modrinth.com/mod/headindex)
 
 ## Claims/World Protection
 - [Flan](https://www.curseforge.com/minecraft/mc-mods/flan)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
 - [Leukocyte](https://github.com/NucleoidMC/leukocyte/releases)
 - [Hey That's Mine](https://modrinth.com/mod/htm)
+- [BineClaims](https://modrinth.com/mod/bineclaims)
 
 ## Inventory
 - [Lootstrap](https://www.curseforge.com/minecraft/mc-mods/lootstrap)
@@ -329,10 +356,13 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Defibrillator](https://modrinth.com/mod/defibrillator)
 - [server-launcher](https://github.com/Geek202/server-launcher) and [restarter](https://github.com/Geek202/server-restarter)
 - [Wires](https://modrinth.com/mod/wires)
+- [FabricExporter](https://modrinth.com/mod/fabricexporter)
+- [Scarpet Os Utils](https://modrinth.com/mod/scarpet-os-utils)
 
 ### Datapacks
 - [Packie](https://www.curseforge.com/minecraft/mc-mods/packie-fabric)
 - [Data Loader](https://www.curseforge.com/minecraft/mc-mods/data-loader)
+- [Datapack Easy](https://modrinth.com/mod/datapack-easy)
 
 ### Console/Logs
 - [Anonymize](https://github.com/NucleoidMC/anonymize/releases/)
@@ -353,6 +383,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Simple Anti X-ray (SAX)](https://modrinth.com/mod/sax)
 - [GolfIV](https://modrinth.com/mod/golfiv)
 - [CheaterDeleter](https://github.com/CoolMineman/CheaterDeleter)
+- [Anti X-ray](https://modrinth.com/mod/antixray)
 
 ### Server List modifications
 - [Random Server Icon](https://github.com/Amb0s/random-server-icon/releases)
@@ -406,6 +437,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Discord Fabric Whitelister](https://www.curseforge.com/minecraft/mc-mods/discord-fabric-whitelister)
 - [TomsServerUtils](https://modrinth.com/mod/ul4zTWk4)
 - [DiscordMinecraftFabric](https://modrinth.com/mod/dmf)
+- [BlockBot](https://modrinth.com/mod/blockbot)
 
 ### Matterbridge
 - [MatterLink](https://www.curseforge.com/minecraft/mc-mods/matterlink)
@@ -449,6 +481,9 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Tatters Skyblock](https://www.curseforge.com/minecraft/mc-mods/tatters-skyblock)
 - [Stoneholm](https://modrinth.com/mod/stoneholm)
 - [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric)
+- [Struct Plus](https://modrinth.com/mod/structplus)
+- [SmoothBedrock By Blayyke](https://modrinth.com/mod/smoothbedrock-by-blayyke)
+- [Swamp Oak Redux](https://modrinth.com/mod/swamp-oak-redux)
 
 ## Economy/Shops
 - [Grand Economy](https://www.curseforge.com/minecraft/mc-mods/grand-economy)
@@ -465,3 +500,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 
 ## Cursed
 - [PacketIgnore](https://modrinth.com/mod/packetignore)
+- [Ore-Readout](https://modrinth.com/mod/ore-readout)
+- [Volatile Entity Cramming](https://modrinth.com/mod/volatile-entity-cramming)
+- [Bedrock Breaking](https://modrinth.com/mod/bedrockbreaking)
+- [Memento Mori](https://modrinth.com/mod/memento-mori/)
+- [BetterLeads](https://modrinth.com/mod/betterleads)
