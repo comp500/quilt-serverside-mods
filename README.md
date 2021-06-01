@@ -438,6 +438,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [TomsServerUtils](https://modrinth.com/mod/ul4zTWk4)
 - [DiscordMinecraftFabric](https://modrinth.com/mod/dmf)
 - [BlockBot](https://modrinth.com/mod/blockbot)
+- [Discord Integration (Mod)](https://modrinth.com/mod/dcintegration)
 
 ### Matterbridge
 - [MatterLink](https://www.curseforge.com/minecraft/mc-mods/matterlink)
