@@ -406,6 +406,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Discord Fabric Whitelister](https://www.curseforge.com/minecraft/mc-mods/discord-fabric-whitelister)
 - [TomsServerUtils](https://modrinth.com/mod/ul4zTWk4)
 - [DiscordMinecraftFabric](https://modrinth.com/mod/dmf)
+- [Discord Integration (Mod)](https://modrinth.com/mod/dcintegration)
 
 ### Matterbridge
 - [MatterLink](https://www.curseforge.com/minecraft/mc-mods/matterlink)
