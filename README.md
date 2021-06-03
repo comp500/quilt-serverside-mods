@@ -60,6 +60,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [HealthCare](https://modrinth.com/mod/healthcare)
 - [Playtime Tracker](https://modrinth.com/mod/playtime-tracker)
 - [EditSign](https://modrinth.com/mod/editsign)
+- [Egg Of Capitalism](https://modrinth.com/mod/egg-of-capitalism)
 
 ### Cosmetic
 - [MAmbience](https://www.curseforge.com/minecraft/mc-mods/mambience) (with resource pack)
