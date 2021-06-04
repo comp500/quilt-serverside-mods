@@ -184,6 +184,12 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Disable Riptide](https://www.curseforge.com/minecraft/mc-mods/disable-riptide)
 - [Disable Elytra Flight](https://www.curseforge.com/minecraft/mc-mods/disable-elytra-flight)
 - [Bedrock Destroyer](https://www.curseforge.com/minecraft/mc-mods/bedrock-destroyer)
+- [Grind Enchantments](https://modrinth.com/mod/WC4UgDcZ)
+- [ParadoxSlabs](https://modrinth.com/mod/paradox-slabs)
+- [Powershot](https://modrinth.com/mod/powershot)
+- [Better Beacon](https://modrinth.com/mod/better-beacon)
+- [Spice of Fabric](https://modrinth.com/mod/spice-of-fabric)
+- [No Teleport Cooldown](https://modrinth.com/mod/no-teleport-cooldown)
 
 ### New Game Mechanics
 - [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric)
@@ -232,17 +238,9 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Lapis Warps](https://www.curseforge.com/minecraft/mc-mods/lapis-warps)
 - [Cauldron Concrete](https://modrinth.com/mod/cauldronconcrete)
 - [FabricSit](https://modrinth.com/mod/sit)
-- [Carpet Without /player](https://modrinth.com/mod/carpet-without-player)
 - [Neutral Animals](https://modrinth.com/mod/neutral-animals)
 - [Neutral Mobs](https://modrinth.com/mod/neutral-mobs)
-- [No Teleport Cooldown](https://modrinth.com/mod/no-teleport-cooldown)
 - [Eternal Eats](https://modrinth.com/mod/eternal-eats)
-- [Grind Enchantments](https://modrinth.com/mod/WC4UgDcZ)
-- [ParadoxSlabs](https://modrinth.com/mod/paradox-slabs)
-- [Powershot](https://modrinth.com/mod/powershot)
-- [Better Beacon](https://modrinth.com/mod/better-beacon)
-- [Spice of Fabric](https://modrinth.com/mod/spice-of-fabric)
-- [The Toast Mod](https://modrinth.com/mod/the-toast-mod)
 - [Good Ol' Regen](https://modrinth.com/mod/good-ol-regen)
 - [Extension](https://modrinth.com/mod/ext)
 - [You can't damage me!](https://modrinth.com/mod/YouCantDamageMe)
@@ -313,7 +311,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [EqualNBT](https://modrinth.com/mod/equalnbt)
 - [MobDisguises](https://modrinth.com/mod/mobdisguises)
 - [Fabric Death Messages](https://modrinth.com/mod/death-messages)
-- [Server Tick](https://modrinth.com/mod/servertick)
 - [SimpleChat - Chat mod for Fabric servers](https://modrinth.com/mod/simplechat)
 - [Head Index](https://modrinth.com/mod/headindex)
 
@@ -384,7 +381,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Simple Anti X-ray (SAX)](https://modrinth.com/mod/sax)
 - [GolfIV](https://modrinth.com/mod/golfiv)
 - [CheaterDeleter](https://github.com/CoolMineman/CheaterDeleter)
-- [Anti X-ray](https://modrinth.com/mod/antixray)
 
 ### Server List modifications
 - [Random Server Icon](https://github.com/Amb0s/random-server-icon/releases)
@@ -504,5 +500,4 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Ore-Readout](https://modrinth.com/mod/ore-readout)
 - [Volatile Entity Cramming](https://modrinth.com/mod/volatile-entity-cramming)
 - [Bedrock Breaking](https://modrinth.com/mod/bedrockbreaking)
-- [Memento Mori](https://modrinth.com/mod/memento-mori/)
 - [BetterLeads](https://modrinth.com/mod/betterleads)
