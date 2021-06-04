@@ -44,6 +44,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Head Name Fix](https://github.com/manyrandomthings/head-name-fix)
 - [WorldBorderFix](https://modrinth.com/mod/WorldBorderFix)
 - [FabricCrossDimTPFix](https://modrinth.com/mod/FabricCrossDimTPFix)
+- [Illegal Stack Fixer](https://www.curseforge.com/minecraft/mc-mods/illegal-stack-fixer)
 
 ## Utility / Quality of Life
 - [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) (works best with client mod installed)
@@ -82,6 +83,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [BetterSleepPlus](https://www.curseforge.com/minecraft/mc-mods/bettersleepplus)
 - [SleepPunisher](https://www.curseforge.com/minecraft/mc-mods/sleeppunisher)
 - [Day Dream](https://www.curseforge.com/minecraft/mc-mods/day-dream)
+- [Better Respawn](https://www.curseforge.com/minecraft/mc-mods/better-respawn-fabric) (untested)
 
 ## Tweaks
 
@@ -191,6 +193,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Spice of Fabric](https://modrinth.com/mod/spice-of-fabric)
 - [No Teleport Cooldown](https://modrinth.com/mod/no-teleport-cooldown)
 - [BetterLeads](https://modrinth.com/mod/betterleads)
+- [No Creeper Holes!](https://www.curseforge.com/minecraft/mc-mods/no-creeper-holes)
+- [Better Safe Bed](https://www.curseforge.com/minecraft/mc-mods/better-safe-bed)
 
 ### New Game Mechanics
 - [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric)
@@ -314,6 +318,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Fabric Death Messages](https://modrinth.com/mod/death-messages)
 - [SimpleChat - Chat mod for Fabric servers](https://modrinth.com/mod/simplechat)
 - [Head Index](https://modrinth.com/mod/headindex)
+- [More Commands Mod](https://www.curseforge.com/minecraft/mc-mods/morecmds)
 
 ## Claims/World Protection
 - [Flan](https://www.curseforge.com/minecraft/mc-mods/flan)
@@ -357,6 +362,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Wires](https://modrinth.com/mod/wires)
 - [FabricExporter](https://modrinth.com/mod/fabricexporter)
 - [Scarpet Os Utils](https://modrinth.com/mod/scarpet-os-utils)
+- [Fabric Restart](https://www.curseforge.com/minecraft/mc-mods/fabric-restart)
 
 ### Datapacks
 - [Packie](https://www.curseforge.com/minecraft/mc-mods/packie-fabric)
@@ -482,6 +488,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Struct Plus](https://modrinth.com/mod/structplus)
 - [SmoothBedrock By Blayyke](https://modrinth.com/mod/smoothbedrock-by-blayyke)
 - [Swamp Oak Redux](https://modrinth.com/mod/swamp-oak-redux)
+- [Simply Improved Terrain](https://www.curseforge.com/minecraft/mc-mods/simply-improved-terrain-fabric)
 
 ## Economy/Shops
 - [Grand Economy](https://www.curseforge.com/minecraft/mc-mods/grand-economy)
