@@ -190,6 +190,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Better Beacon](https://modrinth.com/mod/better-beacon)
 - [Spice of Fabric](https://modrinth.com/mod/spice-of-fabric)
 - [No Teleport Cooldown](https://modrinth.com/mod/no-teleport-cooldown)
+- [BetterLeads](https://modrinth.com/mod/betterleads)
 
 ### New Game Mechanics
 - [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric)
@@ -497,7 +498,5 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 
 ## Cursed
 - [PacketIgnore](https://modrinth.com/mod/packetignore)
-- [Ore-Readout](https://modrinth.com/mod/ore-readout)
 - [Volatile Entity Cramming](https://modrinth.com/mod/volatile-entity-cramming)
 - [Bedrock Breaking](https://modrinth.com/mod/bedrockbreaking)
-- [BetterLeads](https://modrinth.com/mod/betterleads)
