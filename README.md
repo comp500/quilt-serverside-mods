@@ -62,6 +62,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Playtime Tracker](https://modrinth.com/mod/playtime-tracker)
 - [EditSign](https://modrinth.com/mod/editsign)
 - [Egg Of Capitalism](https://modrinth.com/mod/egg-of-capitalism)
+- [Easy Painter](https://modrinth.com/mod/easy_painter)
 
 ### Cosmetic
 - [MAmbience](https://www.curseforge.com/minecraft/mc-mods/mambience) (with resource pack)
@@ -194,6 +195,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [BetterLeads](https://modrinth.com/mod/betterleads)
 - [No Creeper Holes!](https://www.curseforge.com/minecraft/mc-mods/no-creeper-holes)
 - [Better Safe Bed](https://www.curseforge.com/minecraft/mc-mods/better-safe-bed)
+- [Difficulty Tweaker](https://modrinth.com/mod/difficultytweaker)
 
 ### New Game Mechanics
 - [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric)
@@ -248,6 +250,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Good Ol' Regen](https://modrinth.com/mod/good-ol-regen)
 - [Extension](https://modrinth.com/mod/ext)
 - [You can't damage me!](https://modrinth.com/mod/YouCantDamageMe)
+- [Unsaddleeeee](https://modrinth.com/mod/unsaddleeeee)
+- [Farmable Shulkers](https://modrinth.com/mod/farmable-shulkers)
 
 ### Crafting
 - [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes)
@@ -318,6 +322,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [SimpleChat - Chat mod for Fabric servers](https://modrinth.com/mod/simplechat)
 - [Head Index](https://modrinth.com/mod/headindex)
 - [More Commands Mod](https://www.curseforge.com/minecraft/mc-mods/morecmds)
+- [Extension](https://modrinth.com/mod/ext)
+- [Styled Chat](https://modrinth.com/mod/styled-chat)
 
 ## Claims/World Protection
 - [Flan](https://www.curseforge.com/minecraft/mc-mods/flan)
@@ -377,6 +383,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [mclo.gs](https://www.curseforge.com/minecraft/mc-mods/mclo-gs)
 
 ### Logging/auditing
+- [Ledger](https://modrinth.com/mod/ledger) (supersedes DeltaLogger)
 - [DeltaLogger](https://www.curseforge.com/minecraft/mc-mods/deltalogger) (supersedes WatchTower and BlockLogger)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
 - [CommandSpy](https://www.curseforge.com/minecraft/mc-mods/commandspy)
@@ -393,6 +400,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Server Ping](https://www.curseforge.com/minecraft/mc-mods/serverping)
 - [MiniMOTD](https://www.curseforge.com/minecraft/mc-mods/minimotd-fabric)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
+- [TabPing](https://www.curseforge.com/minecraft/mc-mods/tabping-for-fabric)
 
 ### Tab List modifications
 - [Fabric Tab List](https://modrinth.com/mod/tab)
@@ -422,6 +430,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Fabric Forwarding](https://www.curseforge.com/minecraft/mc-mods/fabric-forwarding)
 - [Trampoline](https://www.curseforge.com/minecraft/mc-mods/trampoline)
 - [FabricProxy-Lite](https://modrinth.com/mod/fabricproxy-lite) (supersedes FabricProxy)
+- [Foxy](https://modrinth.com/mod/foxy)
 
 ### Protocol tricks - Cross-version/edition compatibility, resource packs for client-required mods
 - [ViaFabric](https://viaversion.com/fabric)
