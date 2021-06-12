@@ -105,7 +105,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 
 ### Game Mechanics Tweaks
 - [Fluid Physics](https://www.curseforge.com/minecraft/mc-mods/fluid-physics)
-- [Dihydrogen Monoxide Reloaded](https://www.curseforge.com/minecraft/mc-mods/dihydrogen-monoxide-reloaded)
 - [Realistic Fire Spread](https://www.curseforge.com/minecraft/mc-mods/realistic-fire-spread)
 - [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
 - [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
@@ -507,3 +506,4 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [PacketIgnore](https://modrinth.com/mod/packetignore)
 - [Volatile Entity Cramming](https://modrinth.com/mod/volatile-entity-cramming)
 - [Bedrock Breaking](https://modrinth.com/mod/bedrockbreaking)
+- [Dihydrogen Monoxide Reloaded](https://www.curseforge.com/minecraft/mc-mods/dihydrogen-monoxide-reloaded)
