@@ -324,6 +324,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [More Commands Mod](https://www.curseforge.com/minecraft/mc-mods/morecmds)
 - [Extension](https://modrinth.com/mod/ext)
 - [Styled Chat](https://modrinth.com/mod/styled-chat)
+- [Essential Commands](https://github.com/John-Paul-R/Essential-Commands)
 
 ## Claims/World Protection
 - [Flan](https://www.curseforge.com/minecraft/mc-mods/flan)
