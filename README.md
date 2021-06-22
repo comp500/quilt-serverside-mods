@@ -29,6 +29,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Alternate Current](https://modrinth.com/mod/alternate-current) (changes behaviour)
 - [Recipe Cache](https://www.curseforge.com/minecraft/mc-mods/recipe-cache)
 - [hopperOptimizations](https://github.com/2No2Name/hopperOptimizations) (requires lithium fork)
+- [TickTools](https://modrinth.com/mod/ticktools)
 
 ## Bugfixes
 - [Dispenser Portal Fix](https://modrinth.com/mod/dispenser-portal-fix) or [DFASCF](https://github.com/alkyaly/DFASCF) (fixed by 1.16.5)
@@ -49,7 +50,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 ## Utility / Quality of Life
 - [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) (works best with client mod installed)
   - Unofficial updated version [here](https://www.curseforge.com/minecraft/mc-mods/couplings-for-fabric-updated)
-- [SimpleHarvest](https://www.curseforge.com/minecraft/mc-mods/simpleharvest)
+- [SimpleHarvest](https://www.curseforge.com/minecraft/mc-mods/simpleharvest) (updated fork [SimplerHarvest](https://www.curseforge.com/minecraft/mc-mods/simplerharvest/))
 - [Better Signs & Frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames)
 - [Baila](https://github.com/TheEpicBlock/baila)
 - [Suitably Stackable Stew](https://www.curseforge.com/minecraft/mc-mods/suitably-stackable-stew)
@@ -196,6 +197,9 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [No Creeper Holes!](https://www.curseforge.com/minecraft/mc-mods/no-creeper-holes)
 - [Better Safe Bed](https://www.curseforge.com/minecraft/mc-mods/better-safe-bed)
 - [Difficulty Tweaker](https://modrinth.com/mod/difficultytweaker)
+- [Better Nether Map](https://modrinth.com/mod/better-nether-map)
+- [Grindstone Is Made Of Stone](https://modrinth.com/mod/grindstone-is-made-of-stone)
+- [Extra Succ Hopper](https://www.curseforge.com/minecraft/mc-mods/extra-succ-hopper)
 
 ### New Game Mechanics
 - [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric)
@@ -252,6 +256,9 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [You can't damage me!](https://modrinth.com/mod/YouCantDamageMe)
 - [Unsaddleeeee](https://modrinth.com/mod/unsaddleeeee)
 - [Farmable Shulkers](https://modrinth.com/mod/farmable-shulkers)
+- [Fishy Bears](https://modrinth.com/mod/fishy-bears)
+- [Villagers Follow Emeralds](https://modrinth.com/mod/villagers-follow-emeralds-fabric)
+- [Ueaj's Graves](https://www.curseforge.com/minecraft/mc-mods/ueajs-graves)
 
 ### Crafting
 - [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes)
@@ -260,6 +267,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Craftable Enchanted Golden Apple](https://modrinth.com/mod/craftable-enchanted-golden-apple)
 - [Rotten Flesh to Feather](https://modrinth.com/mod/rottenfleshtofeather)
 - [Glowing Potion](https://modrinth.com/mod/glowpot)
+- [Gimme bundles!](https://www.curseforge.com/minecraft/mc-mods/gimme-bundles)
 
 ## Commands/Chat
 - [EasyMOTD](https://www.curseforge.com/minecraft/mc-mods/easymotd)
@@ -369,6 +377,10 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [FabricExporter](https://modrinth.com/mod/fabricexporter)
 - [Scarpet Os Utils](https://modrinth.com/mod/scarpet-os-utils)
 - [Fabric Restart](https://www.curseforge.com/minecraft/mc-mods/fabric-restart)
+- [Holograms](https://modrinth.com/mod/holograms)
+- [Autocomplete Command Blacklist](https://modrinth.com/mod/fabric-acb)
+- [Gastrolimital Bypass](https://modrinth.com/mod/no_player_limit)
+- ["Player has moved too fast!" Server Warning Fix/Patch](https://www.curseforge.com/minecraft/mc-mods/player-has-moved-too-fast-server-warning-fix-patch)
 
 ### Datapacks
 - [Packie](https://www.curseforge.com/minecraft/mc-mods/packie-fabric)
@@ -382,6 +394,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Shut Up Console](https://www.curseforge.com/minecraft/mc-mods/shut-up-console)
 - [Translated Server Log](https://www.curseforge.com/minecraft/mc-mods/translated-server-log)
 - [mclo.gs](https://www.curseforge.com/minecraft/mc-mods/mclo-gs)
+- [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
 
 ### Logging/auditing
 - [Ledger](https://modrinth.com/mod/ledger) (supersedes DeltaLogger)
@@ -498,6 +511,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [SmoothBedrock By Blayyke](https://modrinth.com/mod/smoothbedrock-by-blayyke)
 - [Swamp Oak Redux](https://modrinth.com/mod/swamp-oak-redux)
 - [Simply Improved Terrain](https://www.curseforge.com/minecraft/mc-mods/simply-improved-terrain-fabric)
+- [Castle Dungeons](https://www.curseforge.com/minecraft/mc-mods/castle-dungeons)
+- [Cavenabler](https://www.curseforge.com/minecraft/mc-mods/cavenabler)
 
 ## Economy/Shops
 - [Grand Economy](https://www.curseforge.com/minecraft/mc-mods/grand-economy)
