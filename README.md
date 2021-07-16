@@ -290,7 +290,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Universal Graves](https://modrinth.com/mod/universal-graves)
 
 ## Commands/Chat
-- [EasyMOTD](https://www.curseforge.com/minecraft/mc-mods/easymotd)
 - [simplechat.](https://www.curseforge.com/minecraft/mc-mods/simplechat) (outdated)
 - [Text Coloriser Plugin](https://www.curseforge.com/minecraft/mc-mods/text-coloriser-plugin)
 - [MaskOfLoki's Fabric Tweaks](https://www.curseforge.com/minecraft/mc-mods/maskoflokis-fabric-tweaks) (outdated)
@@ -302,9 +301,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [SetPlayerData](https://www.curseforge.com/minecraft/mc-mods/setplayerdata)
 - [FabricTailor](https://www.curseforge.com/minecraft/mc-mods/fabrictailor)
 - [Gestus](https://www.curseforge.com/minecraft/mc-mods/gestus)
-- [Join Messages](https://www.curseforge.com/minecraft/mc-mods/join-messages)
-- [CustomJoinMessagesFabric](https://www.curseforge.com/minecraft/mc-mods/customjoinmessagesfabric)
-- [DisableJoinLeaveMessage](https://github.com/voruti/DisableJoinLeaveMessage)
 - [Image2Map](https://www.curseforge.com/minecraft/mc-mods/image2map)
 - [Chat History](https://www.curseforge.com/minecraft/mc-mods/chat-history)
 - [Command Aliases](https://www.curseforge.com/minecraft/mc-mods/commandaliases)
@@ -313,7 +309,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Fabrication](https://www.curseforge.com/minecraft/mc-mods/fabrication)
 - [Walaryne's Fly Mod](https://www.curseforge.com/minecraft/mc-mods/walarynes-flymod)
 - [ItemFlexer](https://www.curseforge.com/minecraft/mc-mods/itemflexer)
-- [Player Events](https://modrinth.com/mod/NLx6lJPJ)
 - [Tagboard](https://www.curseforge.com/minecraft/mc-mods/tagboard)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
 - [Connected](https://github.com/CodersInABarrel/Connected)
@@ -329,7 +324,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [DisguiseLib](https://modrinth.com/mod/disguiselib)
 - [GraphiX](https://modrinth.com/mod/graphix)
 - [Pingspam](https://modrinth.com/mod/pingspam)
-- [TBPlugin](https://www.curseforge.com/minecraft/mc-mods/tbplugin)
 - [Roll](https://www.curseforge.com/minecraft/mc-mods/roll-fabric)
 - [Slapmap](https://www.curseforge.com/minecraft/mc-mods/slapmap)
 - [Armor Stand Editor](https://modrinth.com/mod/armorstandeditor)
@@ -348,6 +342,12 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Styled Chat](https://modrinth.com/mod/styled-chat)
 - [Essential Commands](https://github.com/John-Paul-R/Essential-Commands)
 - [capit_alists' gameplay commands](https://www.curseforge.com/minecraft/mc-mods/useful-commands)
+
+### Join Messages/MOTD
+- [EasyMOTD](https://www.curseforge.com/minecraft/mc-mods/easymotd)
+- [Player Events](https://modrinth.com/mod/NLx6lJPJ)
+- [CustomJoinMessagesFabric](https://www.curseforge.com/minecraft/mc-mods/customjoinmessagesfabric)
+- [DisableJoinLeaveMessage](https://github.com/voruti/DisableJoinLeaveMessage)
 
 ### Teleportation/Homes
 - [Random Teleport](https://www.curseforge.com/minecraft/mc-mods/random-teleport)
