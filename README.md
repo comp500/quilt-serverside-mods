@@ -78,7 +78,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Trees Do Not Float](https://www.curseforge.com/minecraft/mc-mods/trees-do-not-float)
 - [Falling Tree](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
 
-### Sleep Voting/Acceleration
+### Sleep (Voting/Acceleration/etc)
 - [BetterSleeping](https://www.curseforge.com/minecraft/mc-mods/bettersleeping)
 - [Hypnos](https://www.curseforge.com/minecraft/mc-mods/hypnos)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
@@ -86,6 +86,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [SleepPunisher](https://www.curseforge.com/minecraft/mc-mods/sleeppunisher)
 - [Day Dream](https://www.curseforge.com/minecraft/mc-mods/day-dream)
 - [Better Respawn](https://www.curseforge.com/minecraft/mc-mods/better-respawn-fabric) (untested)
+- [Lucid](https://www.modrinth.com/mod/lucid)
+- [Lucid-lite](https://modrinth.com/mod/lucid-lite)
 
 ## Tweaks
 
@@ -143,8 +145,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Silky Spawners](https://www.curseforge.com/minecraft/mc-mods/silky-spawners)
 - [Always Drop Loot](https://www.curseforge.com/minecraft/mc-mods/always-drop-loot)
 - [Project: Save the Pets!](https://www.curseforge.com/minecraft/mc-mods/project-save-the-pets)
-- [Lucid](https://www.modrinth.com/mod/lucid)
-- [Lucid-lite](https://modrinth.com/mod/lucid-lite)
 - [playerless](https://www.curseforge.com/minecraft/mc-mods/playerless)
 - [Lightning Prevention](https://www.curseforge.com/minecraft/mc-mods/lightning-prevention)
 - [Fire's Survival Tweaks](https://www.curseforge.com/minecraft/mc-mods/fires-survival-tweaks)
@@ -209,7 +209,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Mob Rebirth](https://www.curseforge.com/minecraft/mc-mods/mob-rebirth)
 - [BeaconFlight](https://www.curseforge.com/minecraft/mc-mods/beaconflight) (outdated)
 - [VanillaEndervators](https://www.curseforge.com/minecraft/mc-mods/vanillaendervators) (outdated)
-- [VanillaDeathChest](https://www.curseforge.com/minecraft/mc-mods/vanilladeathchest-fabric)
 - [Hauling Hogs](https://www.curseforge.com/minecraft/mc-mods/hauling-hogs)
 - [FastGrowth](https://www.curseforge.com/minecraft/mc-mods/fastgrowth)
 - [Better Dispensers](https://www.curseforge.com/minecraft/mc-mods/better-dispensers)
@@ -258,7 +257,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Farmable Shulkers](https://modrinth.com/mod/farmable-shulkers)
 - [Fishy Bears](https://modrinth.com/mod/fishy-bears)
 - [Villagers Follow Emeralds](https://modrinth.com/mod/villagers-follow-emeralds-fabric)
-- [Ueaj's Graves](https://www.curseforge.com/minecraft/mc-mods/ueajs-graves)
 
 ### Crafting
 - [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes)
@@ -268,6 +266,10 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Rotten Flesh to Feather](https://modrinth.com/mod/rottenfleshtofeather)
 - [Glowing Potion](https://modrinth.com/mod/glowpot)
 - [Gimme bundles!](https://www.curseforge.com/minecraft/mc-mods/gimme-bundles)
+
+### Graves/Death
+- [VanillaDeathChest](https://www.curseforge.com/minecraft/mc-mods/vanilladeathchest-fabric)
+- [Ueaj's Graves](https://www.curseforge.com/minecraft/mc-mods/ueajs-graves)
 
 ## Commands/Chat
 - [EasyMOTD](https://www.curseforge.com/minecraft/mc-mods/easymotd)
@@ -355,8 +357,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 
 ## Server Management
 - [PathWatcher](https://www.curseforge.com/minecraft/mc-mods/pathwatcher) (outdated)
-- [SimpleAuth](https://www.curseforge.com/minecraft/mc-mods/simpleauth)
-- [Gatekeeper](https://github.com/vini2003/Gatekeeper) (abandoned)
 - [Chunk Pregenerator (Fabric)](https://www.curseforge.com/minecraft/mc-mods/chunk-pregenerator-fabric)
 - [Badlion Client Disabler](https://www.modrinth.com/mod/TAH3qgEe)
 - [ModUpdater](https://www.curseforge.com/minecraft/mc-mods/modupdater)
