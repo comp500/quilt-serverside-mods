@@ -46,11 +46,13 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [WorldBorderFix](https://modrinth.com/mod/WorldBorderFix)
 - [FabricCrossDimTPFix](https://modrinth.com/mod/FabricCrossDimTPFix)
 - [Illegal Stack Fixer](https://www.curseforge.com/minecraft/mc-mods/illegal-stack-fixer)
+- [Chunk Saving Fix](https://www.curseforge.com/minecraft/mc-mods/chunk-saving-fix)
 
 ## Utility / Quality of Life
 - [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) (works best with client mod installed)
   - Unofficial updated version [here](https://www.curseforge.com/minecraft/mc-mods/couplings-for-fabric-updated)
 - [SimpleHarvest](https://www.curseforge.com/minecraft/mc-mods/simpleharvest) (updated fork [SimplerHarvest](https://www.curseforge.com/minecraft/mc-mods/simplerharvest/))
+- [Simple Right Click Harvest](https://modrinth.com/mod/rch)
 - [Better Signs & Frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames)
 - [Baila](https://github.com/TheEpicBlock/baila)
 - [Suitably Stackable Stew](https://www.curseforge.com/minecraft/mc-mods/suitably-stackable-stew)
@@ -70,6 +72,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-for-fabric) (untested)
 - [Immersive Cursedness](https://modrinth.com/mod/lyiXgXNm)
 - [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/)
+- [Invisible Armor Stands](https://modrinth.com/mod/invisible-armor-stands)
 
 ### Tree/Leaf removal/decay
 - [Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/leaf-decay)
@@ -77,6 +80,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Fabric Tree Chopper](https://www.curseforge.com/minecraft/mc-mods/fabric-tree-chopper)
 - [Trees Do Not Float](https://www.curseforge.com/minecraft/mc-mods/trees-do-not-float)
 - [Falling Tree](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
+- [FastDecay](https://modrinth.com/mod/fastdecay)
+- [TreeFeller](https://modrinth.com/mod/treefeller)
 
 ### Sleep (Voting/Acceleration/etc)
 - [BetterSleeping](https://www.curseforge.com/minecraft/mc-mods/bettersleeping)
@@ -88,6 +93,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Better Respawn](https://www.curseforge.com/minecraft/mc-mods/better-respawn-fabric) (untested)
 - [Lucid](https://www.modrinth.com/mod/lucid)
 - [Lucid-lite](https://modrinth.com/mod/lucid-lite)
+- [Wake Up](https://www.curseforge.com/minecraft/mc-mods/wake-up)
 
 ## Tweaks
 
@@ -106,6 +112,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Expanded Weapon Enchanting](https://modrinth.com/mod/expanded-weapon-enchanting)
 - [Expanded Trident Enchanting](https://modrinth.com/mod/expanded-trident-enchanting)
 - [Infinity Fix](https://modrinth.com/mod/infinity_fix)
+- [Snowballs Hit Players](https://modrinth.com/mod/snowballs-hit-players)
+- [Snowball and Egg Knockback](https://www.curseforge.com/minecraft/mc-mods/snowball-and-egg-knockback-fabric)
 
 ### Game Mechanics Tweaks
 - [Fluid Physics](https://www.curseforge.com/minecraft/mc-mods/fluid-physics)
@@ -199,7 +207,11 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Difficulty Tweaker](https://modrinth.com/mod/difficultytweaker)
 - [Better Nether Map](https://modrinth.com/mod/better-nether-map)
 - [Grindstone Is Made Of Stone](https://modrinth.com/mod/grindstone-is-made-of-stone)
-- [Extra Succ Hopper](https://www.curseforge.com/minecraft/mc-mods/extra-succ-hopper)
+- [Apathy](https://modrinth.com/mod/apathy)
+- [Horse Stonks](https://modrinth.com/mod/horse-stonks)
+- [Subspace Bubble Burster](https://modrinth.com/mod/subspace-bubble-burster)
+- [Scaffold Forever](https://www.curseforge.com/minecraft/mc-mods/scaffold-forever)
+- [Survival Flight](https://www.curseforge.com/minecraft/mc-mods/survival-flight)
 
 ### New Game Mechanics
 - [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric)
@@ -241,7 +253,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Compostable Rotten Flesh](https://www.curseforge.com/minecraft/mc-mods/compostable-rotten-flesh)
 - [QuickCarpet](https://www.curseforge.com/minecraft/mc-mods/quickcarpet)
 - [SlimyFloor](https://www.curseforge.com/minecraft/mc-mods/slimyfloor)
-- [EasyAutoCrafting](https://modrinth.com/mod/easyautocrafting)
 - [PlayerPig](https://www.curseforge.com/minecraft/mc-mods/playerpig)
 - [Infinity Water Bucket](https://www.curseforge.com/minecraft/mc-mods/infinity-water-bucket)
 - [Lapis Warps](https://www.curseforge.com/minecraft/mc-mods/lapis-warps)
@@ -257,6 +268,12 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Farmable Shulkers](https://modrinth.com/mod/farmable-shulkers)
 - [Fishy Bears](https://modrinth.com/mod/fishy-bears)
 - [Villagers Follow Emeralds](https://modrinth.com/mod/villagers-follow-emeralds-fabric)
+- [Cauldron Fix](https://modrinth.com/mod/cauldron-fix)
+- [Vanessence](https://modrinth.com/mod/vanessence)
+- [Mob proof crystals](https://modrinth.com/mod/mobproofcrystals)
+- [No More Magic Milk](https://modrinth.com/mod/no-magic-milk)
+- [Victorian Gewgaws](https://modrinth.com/mod/victorian-gewgaws)
+- [Snow Under Trees](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees-fabric)
 
 ### Crafting
 - [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes)
@@ -270,6 +287,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 ### Graves/Death
 - [VanillaDeathChest](https://www.curseforge.com/minecraft/mc-mods/vanilladeathchest-fabric)
 - [Ueaj's Graves](https://www.curseforge.com/minecraft/mc-mods/ueajs-graves)
+- [Universal Graves](https://modrinth.com/mod/universal-graves)
 
 ## Commands/Chat
 - [EasyMOTD](https://www.curseforge.com/minecraft/mc-mods/easymotd)
@@ -279,7 +297,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [pride](https://www.curseforge.com/minecraft/mc-mods/pride) (outdated)
 - [Handy Structures](https://www.curseforge.com/minecraft/mc-mods/handy-structures)
 - [Impersonate](https://www.curseforge.com/minecraft/mc-mods/impersonate)
-- [Random Teleport](https://www.curseforge.com/minecraft/mc-mods/random-teleport)
 - [Player Roles](https://www.curseforge.com/minecraft/mc-mods/player-roles-fabric)
 - [Rich Chat](https://github.com/Ashley1227/rich-chat)
 - [SetPlayerData](https://www.curseforge.com/minecraft/mc-mods/setplayerdata)
@@ -294,22 +311,18 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Drogtor the Nickinator](https://www.curseforge.com/minecraft/mc-mods/drogtor)
 - [Hewo](https://www.curseforge.com/minecraft/mc-mods/hewo)
 - [Fabrication](https://www.curseforge.com/minecraft/mc-mods/fabrication)
-- [FabriKommander](https://www.curseforge.com/minecraft/mc-mods/fabrikommander)
 - [Walaryne's Fly Mod](https://www.curseforge.com/minecraft/mc-mods/walarynes-flymod)
 - [ItemFlexer](https://www.curseforge.com/minecraft/mc-mods/itemflexer)
 - [Player Events](https://modrinth.com/mod/NLx6lJPJ)
 - [Tagboard](https://www.curseforge.com/minecraft/mc-mods/tagboard)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
 - [Connected](https://github.com/CodersInABarrel/Connected)
-- [FabricTPA](https://www.curseforge.com/minecraft/mc-mods/fabrictpa)
-- [Server Simplified](https://www.curseforge.com/minecraft/mc-mods/server-simplified)
+- [Wires](https://www.curseforge.com/minecraft/mc-mods/wires) (previously Server Simplified)
 - [GlobalSpawn](https://www.curseforge.com/minecraft/mc-mods/globalspawn)
 - [Vanish](https://www.curseforge.com/minecraft/mc-mods/vanish)
-- [Personal Spaces](https://modrinth.com/mod/personal-spaces)
-- [FabricWarps](https://www.curseforge.com/minecraft/mc-mods/fabricwarps)
+- [Personal Spaces](https://modrinth.com/mod/personal-spaces) (abandoned)
 - [Chat+](https://www.curseforge.com/minecraft/mc-mods/chat)
 - [simplehat](https://github.com/PotatoPresident/simplehat)
-- [FabricHomes](https://www.curseforge.com/minecraft/mc-mods/fabrichomes)
 - [Block Quantity Scanner](https://modrinth.com/mod/block-quantity-scanner)
 - [Who's pet is this?](https://www.curseforge.com/minecraft/mc-mods/whos-pet-is-this)
 - [TabTPS](https://modrinth.com/mod/tabtps)
@@ -318,7 +331,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Pingspam](https://modrinth.com/mod/pingspam)
 - [TBPlugin](https://www.curseforge.com/minecraft/mc-mods/tbplugin)
 - [Roll](https://www.curseforge.com/minecraft/mc-mods/roll-fabric)
-- [The Warp Mod](https://www.curseforge.com/minecraft/mc-mods/the-warp-mod-fabric)
 - [Slapmap](https://www.curseforge.com/minecraft/mc-mods/slapmap)
 - [Armor Stand Editor](https://modrinth.com/mod/armorstandeditor)
 - [Mods Command](https://modrinth.com/mod/mods-command)
@@ -335,6 +347,17 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Extension](https://modrinth.com/mod/ext)
 - [Styled Chat](https://modrinth.com/mod/styled-chat)
 - [Essential Commands](https://github.com/John-Paul-R/Essential-Commands)
+- [capit_alists' gameplay commands](https://www.curseforge.com/minecraft/mc-mods/useful-commands)
+
+### Teleportation/Homes
+- [Random Teleport](https://www.curseforge.com/minecraft/mc-mods/random-teleport)
+- [FabriKommander](https://www.curseforge.com/minecraft/mc-mods/fabrikommander)
+- [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
+- [FabricTPA](https://www.curseforge.com/minecraft/mc-mods/fabrictpa)
+- [FabricWarps](https://www.curseforge.com/minecraft/mc-mods/fabricwarps)
+- [FabricHomes](https://www.curseforge.com/minecraft/mc-mods/fabrichomes)
+- [The Warp Mod](https://www.curseforge.com/minecraft/mc-mods/the-warp-mod-fabric)
+- [CyanSetHome](https://modrinth.com/mod/cyansethome)
 
 ## Claims/World Protection
 - [Flan](https://www.curseforge.com/minecraft/mc-mods/flan)
@@ -342,6 +365,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Leukocyte](https://github.com/NucleoidMC/leukocyte/releases)
 - [Hey That's Mine](https://modrinth.com/mod/htm)
 - [BineClaims](https://modrinth.com/mod/bineclaims)
+- [Factions](https://modrinth.com/mod/factions)
 
 ## Inventory
 - [Lootstrap](https://www.curseforge.com/minecraft/mc-mods/lootstrap)
@@ -367,7 +391,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [ReloadAnnouncer](https://www.curseforge.com/minecraft/mc-mods/reloadannouncer)
 - [TellMe](https://www.curseforge.com/minecraft/mc-mods/tellme)
 - [Fabric-Votifier](https://github.com/DrexHD/Fabric-Votifier)
-- [Server Simplified](https://github.com/yitzy299/server-simplified)
+- [Wires](https://www.curseforge.com/minecraft/mc-mods/wires) (previously Server Simplified)
 - [Chunky Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator)
 - [TBPlugin](https://www.curseforge.com/minecraft/mc-mods/tbplugin)
 - [BanHammer](https://modrinth.com/mod/banhammer)
@@ -381,6 +405,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Autocomplete Command Blacklist](https://modrinth.com/mod/fabric-acb)
 - [Gastrolimital Bypass](https://modrinth.com/mod/no_player_limit)
 - ["Player has moved too fast!" Server Warning Fix/Patch](https://www.curseforge.com/minecraft/mc-mods/player-has-moved-too-fast-server-warning-fix-patch)
+- [FlashFreeze](https://modrinth.com/mod/flashfreeze)
+- [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater)
 
 ### Datapacks
 - [Packie](https://www.curseforge.com/minecraft/mc-mods/packie-fabric)
@@ -431,11 +457,12 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
 - [MixinTrace](https://modrinth.com/mod/mixintrace)
 - [Blame](https://modrinth.com/mod/blame-fabric)
+- [Schwarz](https://modrinth.com/mod/schwarz)
 
 ### Permissions/Roles
 - [Player Roles](https://www.curseforge.com/minecraft/mc-mods/player-roles-fabric)
 - [TeamPerms](https://www.curseforge.com/minecraft/mc-mods/teamperms)
-- [Server Simplified](https://github.com/yitzy299/server-simplified)
+- [Wires](https://www.curseforge.com/minecraft/mc-mods/wires) (previously Server Simplified)
 - [LuckPerms](https://modrinth.com/mod/luckperms)
 - [Better Op](https://modrinth.com/mod/better-op)
 
@@ -450,6 +477,10 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [ViaFabric](https://viaversion.com/fabric)
 - [Geyser-Fabric](https://github.com/GeyserMC/Geyser/wiki/Geyser-Fabric)
 - [PolyMc](https://github.com/TheEpicBlock/PolyMc)
+
+### Statistics
+- [RPGStats](https://www.curseforge.com/minecraft/mc-mods/rpgstats)
+- [ServerStats](https://modrinth.com/mod/serverstats)
 
 ## Chat Linking
 ### Discord
@@ -478,9 +509,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [SoulSplit (ThirdLife)](https://www.curseforge.com/minecraft/mc-mods/thirdlife-soulsplit)
 - [Solar Apocalypse: Refabricated](https://www.curseforge.com/minecraft/mc-mods/solar-apocalypse-refabricated)
 - [Fabric Observer Gamemode](https://github.com/aws404/Fabric-ObserverMode)
-
-## Statistics
-- [RPGStats](https://www.curseforge.com/minecraft/mc-mods/rpgstats)
+- [Factions](https://modrinth.com/mod/factions)
 
 ## Worldgen
 - [Simplex Terrain Generation](https://www.curseforge.com/minecraft/mc-mods/simplex-terrain-generation)
@@ -513,6 +542,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Simply Improved Terrain](https://www.curseforge.com/minecraft/mc-mods/simply-improved-terrain-fabric)
 - [Castle Dungeons](https://www.curseforge.com/minecraft/mc-mods/castle-dungeons)
 - [Cavenabler](https://www.curseforge.com/minecraft/mc-mods/cavenabler)
+- [Stonevaults, Dungeons & Towers](https://www.curseforge.com/minecraft/mc-mods/stonevaults-dungeons-towers)
 
 ## Economy/Shops
 - [Grand Economy](https://www.curseforge.com/minecraft/mc-mods/grand-economy)
