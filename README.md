@@ -234,6 +234,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Grindstone Is Made Of Stone](https://modrinth.com/mod/grindstone-is-made-of-stone)
 - [Subspace Bubble Burster](https://modrinth.com/mod/subspace-bubble-burster)
 - [Scaffold Forever](https://www.curseforge.com/minecraft/mc-mods/scaffold-forever)
+- [Oak's Seed Drops Mod](https://modrinth.com/mod/oaks-seed-drops)
 
 ### New Game Mechanics
 - [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric)
@@ -288,6 +289,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Rotten Flesh to Feather](https://modrinth.com/mod/rottenfleshtofeather)
 - [Glowing Potion](https://modrinth.com/mod/glowpot)
 - [Gimme bundles!](https://www.curseforge.com/minecraft/mc-mods/gimme-bundles)
+- [DeepslateCutting Fabric](https://modrinth.com/mod/deepslatecutting)
 
 ### Graves/Death
 - [VanillaDeathChest](https://www.curseforge.com/minecraft/mc-mods/vanilladeathchest-fabric)
@@ -413,6 +415,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - ["Player has moved too fast!" Server Warning Fix/Patch](https://www.curseforge.com/minecraft/mc-mods/player-has-moved-too-fast-server-warning-fix-patch)
 - [FlashFreeze](https://modrinth.com/mod/flashfreeze)
 - [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater)
+- [Carpet Gamerules](https://www.curseforge.com/minecraft/mc-mods/carpetgamerules)
 
 ### Datapacks
 - [Packie](https://www.curseforge.com/minecraft/mc-mods/packie-fabric)
