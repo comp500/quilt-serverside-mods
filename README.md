@@ -49,6 +49,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Chunk Saving Fix](https://www.curseforge.com/minecraft/mc-mods/chunk-saving-fix)
 
 ## Utility / Quality of Life
+- [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) (works best with client mod installed)
 - [SimpleHarvest](https://www.curseforge.com/minecraft/mc-mods/simpleharvest) (updated fork [SimplerHarvest](https://www.curseforge.com/minecraft/mc-mods/simplerharvest/))
 - [Simple Right Click Harvest](https://modrinth.com/mod/rch)
 - [Better Signs & Frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames)
