@@ -81,6 +81,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Falling Tree](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
 - [FastDecay](https://modrinth.com/mod/fastdecay)
 - [TreeFeller](https://modrinth.com/mod/treefeller)
+- [Tree Felling](https://modrinth.com/mod/treefelling)
 
 ### Sleep (Voting/Acceleration/etc)
 - [BetterSleeping](https://www.curseforge.com/minecraft/mc-mods/bettersleeping)
@@ -157,6 +158,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Farmable Shulkers](https://modrinth.com/mod/farmable-shulkers)
 - [Fishy Bears](https://modrinth.com/mod/fishy-bears)
 - [Mob proof crystals](https://modrinth.com/mod/mobproofcrystals)
+- [Independent Pets](https://modrinth.com/mod/indypets)
 
 ### Villagers
 - [VillagerFix](https://www.curseforge.com/minecraft/mc-mods/villagerfix)
@@ -166,6 +168,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Villager See, Villager Do](https://www.curseforge.com/minecraft/mc-mods/villager-see-villager-do)
 - [Wandering Collector](https://modrinth.com/mod/wandering-collector)
 - [Villagers Follow Emeralds](https://modrinth.com/mod/villagers-follow-emeralds-fabric)
+- [VillagerTradeFix](https://www.curseforge.com/minecraft/mc-mods/villagertradefix)
 
 ### Flight
 - [Totally Balanced Creative Flying](https://www.curseforge.com/minecraft/mc-mods/totallybalancedcreativeflying)
@@ -234,6 +237,9 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Subspace Bubble Burster](https://modrinth.com/mod/subspace-bubble-burster)
 - [Scaffold Forever](https://www.curseforge.com/minecraft/mc-mods/scaffold-forever)
 - [Oak's Seed Drops Mod](https://modrinth.com/mod/oaks-seed-drops)
+- [Sticky Elytra](https://modrinth.com/mod/sticky-elytra)
+- [No Cap](https://modrinth.com/mod/nocap)
+- [Speed Carts](https://www.curseforge.com/minecraft/mc-mods/speed-carts)
 
 ### New Game Mechanics
 - [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric)
@@ -280,6 +286,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [No More Magic Milk](https://modrinth.com/mod/no-magic-milk)
 - [Victorian Gewgaws](https://modrinth.com/mod/victorian-gewgaws)
 - [Snow Under Trees](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees-fabric)
+- [ServShred](https://modrinth.com/mod/servshred)
 
 ### Crafting
 - [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes)
@@ -296,6 +303,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Ueaj's Graves](https://www.curseforge.com/minecraft/mc-mods/ueajs-graves)
 - [Universal Graves](https://modrinth.com/mod/universal-graves)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
+- [Lenient Death](https://modrinth.com/mod/lenient-death)
 
 ## Commands/Chat
 - [simplechat.](https://www.curseforge.com/minecraft/mc-mods/simplechat) (outdated)
@@ -350,6 +358,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Styled Chat](https://modrinth.com/mod/styled-chat)
 - [Essential Commands](https://github.com/John-Paul-R/Essential-Commands)
 - [capit_alists' gameplay commands](https://www.curseforge.com/minecraft/mc-mods/useful-commands)
+- [Player Pronouns](https://modrinth.com/mod/player-pronouns)
+- [SimpleHomes](https://modrinth.com/mod/simplehomes)
 
 ### Join Messages/MOTD
 - [EasyMOTD](https://www.curseforge.com/minecraft/mc-mods/easymotd)
@@ -386,6 +396,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [InvSync](https://modrinth.com/mod/invsync)
 - [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
 - [GVault](https://modrinth.com/mod/gvault) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/gvault))
+- [Kits](https://modrinth.com/mod/kits)
 
 ## Server Management
 - [PathWatcher](https://www.curseforge.com/minecraft/mc-mods/pathwatcher) (outdated)
@@ -417,6 +428,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater)
 - [Carpet Gamerules](https://www.curseforge.com/minecraft/mc-mods/carpetgamerules)
 - [Semblance](https://modrinth.com/mod/semblance)
+- [ServerStop](https://www.curseforge.com/minecraft/mc-mods/serverstop-fabric)
 
 ### Datapacks
 - [Packie](https://www.curseforge.com/minecraft/mc-mods/packie-fabric)
@@ -431,6 +443,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Translated Server Log](https://www.curseforge.com/minecraft/mc-mods/translated-server-log)
 - [mclo.gs](https://www.curseforge.com/minecraft/mc-mods/mclo-gs)
 - [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
+- [BadStdOut](https://modrinth.com/mod/badstdout)
 
 ### Logging/auditing
 - [Ledger](https://modrinth.com/mod/ledger) (supersedes DeltaLogger)
