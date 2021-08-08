@@ -287,6 +287,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Victorian Gewgaws](https://modrinth.com/mod/victorian-gewgaws)
 - [Snow Under Trees](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees-fabric)
 - [ServShred](https://modrinth.com/mod/servshred)
+- [Luckyblocks](https://www.curseforge.com/minecraft/mc-mods/luckyblock-fabric)
 
 ### Crafting
 - [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes)
@@ -429,6 +430,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Carpet Gamerules](https://www.curseforge.com/minecraft/mc-mods/carpetgamerules)
 - [Semblance](https://modrinth.com/mod/semblance)
 - [ServerStop](https://www.curseforge.com/minecraft/mc-mods/serverstop-fabric)
+- [Multiworld](https://modrinth.com/mod/multiworld)
 
 ### Datapacks
 - [Packie](https://www.curseforge.com/minecraft/mc-mods/packie-fabric)
@@ -488,6 +490,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Wires](https://www.curseforge.com/minecraft/mc-mods/wires) (previously Server Simplified)
 - [LuckPerms](https://modrinth.com/mod/luckperms)
 - [Better Op](https://modrinth.com/mod/better-op)
+- [CyberPermissions](https://modrinth.com/mod/permissions-fabric)
 
 ### Proxy forwarding (BungeeCord/Waterfall/Velocity)
 - [CrossStitch](https://www.curseforge.com/minecraft/mc-mods/crossstitch)
@@ -586,3 +589,4 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Volatile Entity Cramming](https://modrinth.com/mod/volatile-entity-cramming)
 - [Bedrock Breaking](https://modrinth.com/mod/bedrockbreaking)
 - [Dihydrogen Monoxide Reloaded](https://www.curseforge.com/minecraft/mc-mods/dihydrogen-monoxide-reloaded)
+- [Cardboard](https://modrinth.com/mod/cardboard)
