@@ -202,7 +202,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Silky Spawners](https://www.curseforge.com/minecraft/mc-mods/silky-spawners)
 - [Lightning Prevention](https://www.curseforge.com/minecraft/mc-mods/lightning-prevention)
 - [Fire's Survival Tweaks](https://modrinth.com/mod/fires-survival-tweaks) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/fires-survival-tweaks))
-- [SlipperyWalls](www.curseforge.com/minecraft/mc-mods/slipperywalls)
+- [SlipperyWalls](https://www.curseforge.com/minecraft/mc-mods/slipperywalls)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
 - [Dispenser Configurator](https://www.curseforge.com/minecraft/mc-mods/dispenser-configurator)
 - [Mini Tweaks](https://github.com/manyrandomthings/minitweaks)
