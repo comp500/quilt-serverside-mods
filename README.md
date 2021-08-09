@@ -289,6 +289,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Victorian Gewgaws](https://modrinth.com/mod/victorian-gewgaws)
 - [Snow Under Trees](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees-fabric)
 - [ServShred](https://modrinth.com/mod/servshred)
+- [Strains of Ascension](https://github.com/StoneLabs/strains-of-ascension)
 
 ### Crafting
 - [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes)
