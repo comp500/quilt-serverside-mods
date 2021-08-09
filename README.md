@@ -240,6 +240,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Sticky Elytra](https://modrinth.com/mod/sticky-elytra)
 - [No Cap](https://modrinth.com/mod/nocap)
 - [Speed Carts](https://www.curseforge.com/minecraft/mc-mods/speed-carts)
+- [GolemF](https://github.com/StoneLabs/golemf)
 - [Delayed Respawn](https://github.com/StoneLabs/delayed-respawn)
 
 ### New Game Mechanics
