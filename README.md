@@ -241,6 +241,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [No Cap](https://modrinth.com/mod/nocap)
 - [Speed Carts](https://www.curseforge.com/minecraft/mc-mods/speed-carts)
 - [GolemF](https://github.com/StoneLabs/golemf)
+- [Delayed Respawn](https://github.com/StoneLabs/delayed-respawn)
 
 ### New Game Mechanics
 - [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric)
