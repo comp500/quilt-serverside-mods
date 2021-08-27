@@ -480,7 +480,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Server Ping](https://www.curseforge.com/minecraft/mc-mods/serverping)
 - [MiniMOTD](https://www.curseforge.com/minecraft/mc-mods/minimotd-fabric)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
-- [TabPing](https://www.curseforge.com/minecraft/mc-mods/tabping-for-fabric)
 
 ### Tab List modifications
 - [Fabric Tab List](https://modrinth.com/mod/tab)
