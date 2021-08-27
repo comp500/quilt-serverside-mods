@@ -387,6 +387,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Hey That's Mine](https://modrinth.com/mod/htm)
 - [BineClaims](https://modrinth.com/mod/bineclaims)
 - [Factions](https://modrinth.com/mod/factions)
+- [SpawnProtectionTweaks](https://modrinth.com/mod/spawn-protection-tweaks)
 
 ## Inventory
 - [Lootstrap](https://www.curseforge.com/minecraft/mc-mods/lootstrap)
