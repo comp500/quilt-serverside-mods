@@ -48,7 +48,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Illegal Stack Fixer](https://www.curseforge.com/minecraft/mc-mods/illegal-stack-fixer)
 - [Chunk Saving Fix](https://www.curseforge.com/minecraft/mc-mods/chunk-saving-fix)
 - [TimeOut Out](https://github.com/PotatoPresident/TimeOutOut)
-- ["Player has moved too fast!" Server Warning Fix/Patch](https://www.curseforge.com/minecraft/mc-mods/player-has-moved-too-fast-server-warning-fix-patch)
 - [Boat Fall](https://modrinth.com/mod/boat-fall)
 
 ## Utility / Quality of Life
