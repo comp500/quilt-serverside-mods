@@ -380,6 +380,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Player Events](https://modrinth.com/mod/NLx6lJPJ)
 - [CustomJoinMessagesFabric](https://www.curseforge.com/minecraft/mc-mods/customjoinmessagesfabric)
 - [DisableJoinLeaveMessage](https://github.com/voruti/DisableJoinLeaveMessage)
+- [Spawnbook](https://github.com/maxheyn/spawnbook)
 
 ### Teleportation/Homes
 - [Random Teleport](https://www.curseforge.com/minecraft/mc-mods/random-teleport)
@@ -444,6 +445,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Semblance](https://modrinth.com/mod/semblance)
 - [ServerStop](https://www.curseforge.com/minecraft/mc-mods/serverstop-fabric)
 - [BrandBlock](https://modrinth.com/mod/brandblock)
+- [Progression](https://github.com/maxheyn/progression)
 
 ### Datapacks
 - [Packie](https://www.curseforge.com/minecraft/mc-mods/packie-fabric)
