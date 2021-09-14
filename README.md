@@ -51,6 +51,10 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Boat Fall](https://modrinth.com/mod/boat-fall)
 
 ## Utility / Quality of Life
+- [SlipperyWalls](https://www.curseforge.com/minecraft/mc-mods/slipperywalls)
+- [NoWaterCaves](https://www.curseforge.com/minecraft/mc-mods/nowatercaves)
+- [SetPlayerData](https://www.curseforge.com/minecraft/mc-mods/setplayerdata)
+- [ToggleBlockUpdates](https://www.curseforge.com/minecraft/mc-mods/toggleblockupdates)
 - [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) (works best with client mod installed)
 - [SimpleHarvest](https://www.curseforge.com/minecraft/mc-mods/simpleharvest) (updated fork [SimplerHarvest](https://www.curseforge.com/minecraft/mc-mods/simplerharvest/))
 - [Simple Right Click Harvest](https://modrinth.com/mod/rch)
@@ -86,6 +90,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Tree Felling](https://modrinth.com/mod/treefelling)
 
 ### Sleep (Voting/Acceleration/etc)
+- [Gunpowder SleepVote](https://www.curseforge.com/minecraft/mc-mods/gunpowder-sleepvote)
 - [BetterSleeping](https://www.curseforge.com/minecraft/mc-mods/bettersleeping)
 - [Hypnos](https://www.curseforge.com/minecraft/mc-mods/hypnos)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
@@ -172,6 +177,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [More Mob Drops](https://modrinth.com/mod/more_mob_drops)
 
 ### Villagers
+- [sɹǝƃɐllᴉΛ](https://www.curseforge.com/minecraft/mc-mods/sll)
 - [VillagerFix](https://www.curseforge.com/minecraft/mc-mods/villagerfix)
 - [InfiniteVillagerTrading](https://www.curseforge.com/minecraft/mc-mods/infinitevillagertrading)
 - [Economical Villager Trading](https://www.curseforge.com/minecraft/mc-mods/economical-villager-trading)
@@ -183,12 +189,14 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Roundaround's Villager Converting](https://modrinth.com/mod/roundaround-villager-converting)
 
 ### Flight
+- [Gunpowder Utilities](https://www.curseforge.com/minecraft/mc-mods/gunpowder-utilities)
 - [Totally Balanced Creative Flying](https://www.curseforge.com/minecraft/mc-mods/totallybalancedcreativeflying)
 - [Disable Elytra Flight](https://www.curseforge.com/minecraft/mc-mods/disable-elytra-flight)
 - [Survival Flight](https://www.curseforge.com/minecraft/mc-mods/survival-flight)
 - [BeaconFlight](https://www.curseforge.com/minecraft/mc-mods/beaconflight) (outdated)
 
 ### Minecarts
+- [CartLoaders](https://www.curseforge.com/minecraft/mc-mods/cartloaders)
 - [Speed Carts](https://www.curseforge.com/minecraft/mc-mods/speed-carts)
 - [TaterCart](https://modrinth.com/mod/tatercart)
 - [Audaki Cart Engine](https://www.curseforge.com/minecraft/mc-mods/audaki-cart-engine)
@@ -393,6 +401,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Spawnbook](https://github.com/maxheyn/spawnbook)
 
 ### Teleportation/Homes
+- [Gunpowder Teleport](https://www.curseforge.com/minecraft/mc-mods/gunpowder-teleport)
 - [Random Teleport](https://www.curseforge.com/minecraft/mc-mods/random-teleport)
 - [FabriKommander](https://www.curseforge.com/minecraft/mc-mods/fabrikommander)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
@@ -429,6 +438,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Conditional Keep Inventory](https://modrinth.com/mod/conditional_keep_inventory)
 
 ## Server Management
+- [Gunpowder](https://www.curseforge.com/minecraft/mc-mods/gunpowder-mc)
 - [PathWatcher](https://www.curseforge.com/minecraft/mc-mods/pathwatcher) (outdated)
 - [Chunk Pregenerator (Fabric)](https://www.curseforge.com/minecraft/mc-mods/chunk-pregenerator-fabric)
 - [Badlion Client Disabler](https://www.modrinth.com/mod/TAH3qgEe)
@@ -517,6 +527,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Schwarz](https://modrinth.com/mod/schwarz)
 
 ### Permissions/Roles
+- [Gunpowder Permissions](https://www.curseforge.com/minecraft/mc-mods/gunpowder-permissions)
 - [Player Roles](https://www.curseforge.com/minecraft/mc-mods/player-roles-fabric)
 - [TeamPerms](https://www.curseforge.com/minecraft/mc-mods/teamperms)
 - [Wires](https://www.curseforge.com/minecraft/mc-mods/wires) (previously Server Simplified)
@@ -541,6 +552,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 
 ## Chat Linking
 ### Discord
+- [Gunpowder Discord Whitelist](https://www.curseforge.com/minecraft/mc-mods/gunpowder-discord-whitelist)
 - [Fabric-Discord Link](https://www.curseforge.com/minecraft/mc-mods/fabric-discord-link)
 - [Interweave](https://www.curseforge.com/minecraft/mc-mods/interweave)
 - [ModFest Utilities](https://github.com/ModFest/modfest-utilities)
@@ -608,6 +620,9 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [ProtoSky](https://modrinth.com/mod/protosky)
 
 ## Economy/Shops
+- [Gunpowder Currency](https://www.curseforge.com/minecraft/mc-mods/gunpowder-currency)
+- [Gunpowder SignShop](https://www.curseforge.com/minecraft/mc-mods/gunpowder-signshop)
+- [Gunpowder Market](https://www.curseforge.com/minecraft/mc-mods/gunpowder-market)
 - [Grand Economy](https://www.curseforge.com/minecraft/mc-mods/grand-economy)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
 - [GShop](https://modrinth.com/mod/gshop) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/gshop))
