@@ -18,8 +18,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
 - [Overworld Two](https://www.curseforge.com/minecraft/mc-mods/overworld-two)
 - [Krypton](https://github.com/astei/krypton)
-- [Tic-TACS](https://github.com/Gegy/tic-tacs) (experimental)
-- [Starlight](https://github.com/Spottedleaf/Starlight) (experimental)
+- [Tic-TACS](https://github.com/Gegy/tic-tacs) (experimental, abandoned)
+- [Starlight](https://modrinth.com/mod/starlight)
 - [LazyDFU](https://modrinth.com/mod/lazydfu)
 - [Hydrogen](https://modrinth.com/mod/hydrogen) (experimental)
 - [World Specific View Distance](https://modrinth.com/mod/worldspecificviewdistance)
@@ -97,6 +97,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Lucid-lite](https://modrinth.com/mod/lucid-lite)
 - [Wake Up](https://www.curseforge.com/minecraft/mc-mods/wake-up)
 - [Better Safe Bed](https://www.curseforge.com/minecraft/mc-mods/better-safe-bed)
+- [Freedom of Insomnia](https://modrinth.com/mod/freedomofinsomnia)
+- [Bed Benefits](https://modrinth.com/mod/bed-benefits-fabric)
 
 ## Tweaks
 
@@ -119,6 +121,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Snowball and Egg Knockback](https://www.curseforge.com/minecraft/mc-mods/snowball-and-egg-knockback-fabric)
 - [You can't damage me!](https://modrinth.com/mod/YouCantDamageMe)
 - [Freezma](https://www.curseforge.com/minecraft/mc-mods/freezma)
+- [Set Bonuses](https://modrinth.com/mod/set-bonuses)
+- [LifeSteal](https://modrinth.com/mod/lifesteal)
 
 ### Mobs
 - [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
@@ -164,6 +168,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Independent Pets](https://modrinth.com/mod/indypets)
 - [E-Literate-Chainsaw](https://modrinth.com/mod/e-literate-chainsaw-fabric)
 - [Fatal Blow](https://modrinth.com/mod/fatal-blow)
+- [mobgrief](https://modrinth.com/mod/mobgrief)
+- [More Mob Drops](https://modrinth.com/mod/more_mob_drops)
 
 ### Villagers
 - [VillagerFix](https://www.curseforge.com/minecraft/mc-mods/villagerfix)
@@ -182,6 +188,12 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Survival Flight](https://www.curseforge.com/minecraft/mc-mods/survival-flight)
 - [BeaconFlight](https://www.curseforge.com/minecraft/mc-mods/beaconflight) (outdated)
 
+### Minecarts
+- [Speed Carts](https://www.curseforge.com/minecraft/mc-mods/speed-carts)
+- [TaterCart](https://modrinth.com/mod/tatercart)
+- [Audaki Cart Engine](https://www.curseforge.com/minecraft/mc-mods/audaki-cart-engine)
+- [Cart Boosts](https://www.curseforge.com/minecraft/mc-mods/cart-boosts)
+
 ### Game Mechanics Tweaks
 - [Fluid Physics](https://www.curseforge.com/minecraft/mc-mods/fluid-physics)
 - [Realistic Fire Spread](https://www.curseforge.com/minecraft/mc-mods/realistic-fire-spread)
@@ -191,7 +203,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [MaskOfLoki's Fabric Tweaks](https://www.curseforge.com/minecraft/mc-mods/maskoflokis-fabric-tweaks) (outdated)
 - [Old Fish Farm](https://www.curseforge.com/minecraft/mc-mods/old-fish-farm)
 - [Anvil Fix](https://www.curseforge.com/minecraft/mc-mods/anvil-fix) (works best with client mod installed)
-- [CartLoaders](https://www.curseforge.com/minecraft/mc-mods/cartloaders)
 - [Piston Control](https://www.curseforge.com/minecraft/mc-mods/piston-control) (works best with client mod installed)
 - [Unlimited Dragon Eggs](https://www.curseforge.com/minecraft/mc-mods/unlimited-dragon-eggs-fabric)
 - [Push To Craft](https://www.curseforge.com/minecraft/mc-mods/push-to-craft)
@@ -245,12 +256,11 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Oak's Seed Drops Mod](https://modrinth.com/mod/oaks-seed-drops)
 - [Sticky Elytra](https://modrinth.com/mod/sticky-elytra)
 - [No Cap](https://modrinth.com/mod/nocap)
-- [Speed Carts](https://www.curseforge.com/minecraft/mc-mods/speed-carts)
 - [GolemF](https://github.com/StoneLabs/golemf)
 - [Delayed Respawn](https://github.com/StoneLabs/delayed-respawn)
 - [High Level Enchants](https://modrinth.com/mod/highlevelenchants)
 - [Piston push limit](https://www.curseforge.com/minecraft/mc-mods/piston-push-limit)
-- [Audaki Cart Engine](https://www.curseforge.com/minecraft/mc-mods/audaki-cart-engine)
+- [Interdimensional Map Markers](https://www.curseforge.com/minecraft/mc-mods/interdimensional-map-markers)
 
 ### New Game Mechanics
 - [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric)
@@ -265,7 +275,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Chain Suspension](https://www.curseforge.com/minecraft/mc-mods/chain-suspension)
 - [Harmful Stonecutters](https://www.curseforge.com/minecraft/mc-mods/harmful-stonecutters)
 - [Splash Concrete](https://www.curseforge.com/minecraft/mc-mods/splash-concrete)
-- [Cart Boosts](https://www.curseforge.com/minecraft/mc-mods/cart-boosts)
 - [Imbued Torches](https://www.curseforge.com/minecraft/mc-mods/imbued-torches)
 - [Punch2Prime](https://www.curseforge.com/minecraft/mc-mods/punch2prime)
 - [Olifantenpad](https://www.curseforge.com/minecraft/mc-mods/olifantenpad-fabric) (abandoned)
@@ -286,7 +295,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [SlimyFloor](https://www.curseforge.com/minecraft/mc-mods/slimyfloor)
 - [PlayerPig](https://www.curseforge.com/minecraft/mc-mods/playerpig)
 - [Infinity Water Bucket](https://www.curseforge.com/minecraft/mc-mods/infinity-water-bucket)
-- [Lapis Warps](https://www.curseforge.com/minecraft/mc-mods/lapis-warps)
 - [Cauldron Concrete](https://modrinth.com/mod/cauldronconcrete)
 - [FabricSit](https://modrinth.com/mod/sit)
 - [Eternal Eats](https://modrinth.com/mod/eternal-eats)
@@ -372,8 +380,10 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Essential Commands](https://github.com/John-Paul-R/Essential-Commands)
 - [capit_alists' gameplay commands](https://www.curseforge.com/minecraft/mc-mods/useful-commands)
 - [Player Pronouns](https://modrinth.com/mod/player-pronouns)
-- [SimpleHomes](https://modrinth.com/mod/simplehomes)
 - [Editable Player NBT Hack](https://modrinth.com/mod/editableplayernbthack)
+- [SwitchableResourcepacks](https://modrinth.com/mod/switchableresourcepacks)
+- [Damage Function](https://modrinth.com/mod/damagefunction)
+- [Styled Nicknames](https://modrinth.com/mod/styled-nicknames)
 
 ### Join Messages/MOTD
 - [EasyMOTD](https://www.curseforge.com/minecraft/mc-mods/easymotd)
@@ -391,6 +401,9 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [FabricHomes](https://www.curseforge.com/minecraft/mc-mods/fabrichomes)
 - [The Warp Mod](https://www.curseforge.com/minecraft/mc-mods/the-warp-mod-fabric)
 - [CyanSetHome](https://modrinth.com/mod/cyansethome)
+- [Lapis Warps](https://www.curseforge.com/minecraft/mc-mods/lapis-warps)
+- [SimpleHomes](https://modrinth.com/mod/simplehomes)
+- [Interdimensional](https://modrinth.com/mod/interdimensional)
 
 ## Claims/World Protection
 - [Flan](https://www.curseforge.com/minecraft/mc-mods/flan)
@@ -413,6 +426,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
 - [GVault](https://modrinth.com/mod/gvault) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/gvault))
 - [Kits](https://modrinth.com/mod/kits)
+- [Conditional Keep Inventory](https://modrinth.com/mod/conditional_keep_inventory)
 
 ## Server Management
 - [PathWatcher](https://www.curseforge.com/minecraft/mc-mods/pathwatcher) (outdated)
@@ -446,6 +460,9 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [ServerStop](https://www.curseforge.com/minecraft/mc-mods/serverstop-fabric)
 - [BrandBlock](https://modrinth.com/mod/brandblock)
 - [Progression](https://github.com/maxheyn/progression)
+- [Interdimensional](https://modrinth.com/mod/interdimensional)
+- [Boring Default Game Rules](https://modrinth.com/mod/boring-default-game-rules)
+- [UPeeNPiss](https://www.curseforge.com/minecraft/mc-mods/upeenpiss)
 
 ### Datapacks
 - [Packie](https://www.curseforge.com/minecraft/mc-mods/packie-fabric)
@@ -550,6 +567,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Solar Apocalypse: Refabricated](https://www.curseforge.com/minecraft/mc-mods/solar-apocalypse-refabricated)
 - [Fabric Observer Gamemode](https://github.com/aws404/Fabric-ObserverMode)
 - [Factions](https://modrinth.com/mod/factions)
+- [Server Side Tetris](https://modrinth.com/mod/serversidetetris)
+- [Chest Games](https://modrinth.com/mod/chest-games)
 
 ## Worldgen
 - [Simplex Terrain Generation](https://www.curseforge.com/minecraft/mc-mods/simplex-terrain-generation)
@@ -586,16 +605,17 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Stonevaults, Dungeons & Towers](https://www.curseforge.com/minecraft/mc-mods/stonevaults-dungeons-towers)
 - [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric)
 - [Terralith ~ Overworld Evolved](https://www.curseforge.com/minecraft/mc-mods/terralith)
+- [ProtoSky](https://modrinth.com/mod/protosky)
 
 ## Economy/Shops
 - [Grand Economy](https://www.curseforge.com/minecraft/mc-mods/grand-economy)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
 - [GShop](https://modrinth.com/mod/gshop) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/gshop))
 
-## Maps
+## Web Maps
 - [Dynmap](https://www.curseforge.com/minecraft/mc-mods/dynmapforge/files/all)
 - [BlueMap](https://www.curseforge.com/minecraft/mc-mods/bluemap)
-- [TinyMap](https://github.com/comp500/tinymap/) (beta, yell at me if it breaks thanks)
+- [TinyMap](https://github.com/comp500/tinymap/)
 
 ## NPCs
 - [Taterzens](https://modrinth.com/mod/Taterzens)
