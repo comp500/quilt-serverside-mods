@@ -325,6 +325,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Universal Graves](https://modrinth.com/mod/universal-graves)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
 - [Lenient Death](https://modrinth.com/mod/lenient-death)
+- [Working Graves](https://github.com/StoneLabs/working-graves)
 
 ## Commands/Chat
 - [simplechat.](https://www.curseforge.com/minecraft/mc-mods/simplechat) (outdated)
