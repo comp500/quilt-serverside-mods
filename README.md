@@ -11,11 +11,11 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Shapes Edit](https://www.curseforge.com/minecraft/mc-mods/shapes-edit)
 
 ## Performance
-- [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)
-- [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
+- [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) ([GitHub](https://github.com/CaffeineMC/phosphor-fabric))
+- [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) ([GitHub](https://github.com/CaffeineMC/lithium-fabric))
 - [Fast Furnace for Fabric](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric)
 - [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric)
-- [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
+- [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) ([GitHub](https://github.com/gnembon/fabric-carpet))
 - [Overworld Two](https://www.curseforge.com/minecraft/mc-mods/overworld-two)
 - [Krypton](https://github.com/astei/krypton)
 - [Tic-TACS](https://github.com/Gegy/tic-tacs) (experimental, abandoned)
@@ -33,8 +33,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 
 ## Bugfixes
 - [Dispenser Portal Fix](https://modrinth.com/mod/dispenser-portal-fix) or [DFASCF](https://github.com/alkyaly/DFASCF) (fixed by 1.16.5)
-- [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
-- [Carpet Extra](https://www.curseforge.com/minecraft/mc-mods/carpet-extra)
+- [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) ([GitHub](https://github.com/gnembon/fabric-carpet))
+- [Carpet Extra](https://www.curseforge.com/minecraft/mc-mods/carpet-extra) ([GitHub](https://github.com/gnembon/carpet-extra))
 - [Dimension Mutability](https://www.curseforge.com/minecraft/mc-mods/dimension-mutability) (untested)
 - [Carpet TIS Addition](https://www.curseforge.com/minecraft/mc-mods/carpet-tis-addition)
 - [MC-198678 Fix](https://github.com/Fallen-Breath/mc-198678-fix) (fixed by 1.16.3)
@@ -197,8 +197,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 ### Game Mechanics Tweaks
 - [Fluid Physics](https://www.curseforge.com/minecraft/mc-mods/fluid-physics)
 - [Realistic Fire Spread](https://www.curseforge.com/minecraft/mc-mods/realistic-fire-spread)
-- [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
-- [Carpet Extra](https://www.curseforge.com/minecraft/mc-mods/carpet-extra)
+- [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) ([GitHub](https://github.com/gnembon/fabric-carpet))
+- [Carpet Extra](https://www.curseforge.com/minecraft/mc-mods/carpet-extra) ([GitHub](https://github.com/gnembon/carpet-extra))
 - [Carpet TIS Addition](https://www.curseforge.com/minecraft/mc-mods/carpet-tis-addition)
 - [MaskOfLoki's Fabric Tweaks](https://www.curseforge.com/minecraft/mc-mods/maskoflokis-fabric-tweaks) (outdated)
 - [Old Fish Farm](https://www.curseforge.com/minecraft/mc-mods/old-fish-farm)
@@ -264,8 +264,8 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 
 ### New Game Mechanics
 - [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric)
-- [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
-- [Carpet Extra](https://www.curseforge.com/minecraft/mc-mods/carpet-extra)
+- [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) ([GitHub](https://github.com/gnembon/fabric-carpet))
+- [Carpet Extra](https://www.curseforge.com/minecraft/mc-mods/carpet-extra) ([GitHub](https://github.com/gnembon/carpet-extra))
 - [Carpet TIS Addition](https://www.curseforge.com/minecraft/mc-mods/carpet-tis-addition)
 - [Carpet EssentialsAddons](https://github.com/Super-Santa/EssentialAddons) (untested) 
 - [VanillaEndervators](https://www.curseforge.com/minecraft/mc-mods/vanillaendervators) (outdated)
@@ -358,7 +358,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Block Quantity Scanner](https://modrinth.com/mod/block-quantity-scanner)
 - [Who's pet is this?](https://www.curseforge.com/minecraft/mc-mods/whos-pet-is-this)
 - [TabTPS](https://modrinth.com/mod/tabtps)
-- [DisguiseLib](https://modrinth.com/mod/disguiselib)
+- [DisguiseLib](https://modrinth.com/mod/disguiselib) ([GitHub](https://github.com/NucleoidMC/DisguiseLib))
 - [GraphiX](https://modrinth.com/mod/graphix)
 - [Pingspam](https://modrinth.com/mod/pingspam)
 - [Roll](https://www.curseforge.com/minecraft/mc-mods/roll-fabric)
@@ -397,7 +397,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [FabriKommander](https://www.curseforge.com/minecraft/mc-mods/fabrikommander)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
 - [FabricTPA](https://www.curseforge.com/minecraft/mc-mods/fabrictpa)
-- [FabricWarps](https://www.curseforge.com/minecraft/mc-mods/fabricwarps)
+- [FabricWarps](https://www.curseforge.com/minecraft/mc-mods/fabricwarps) ([GitHub](https://github.com/CodedSakura/FabricWarps))
 - [FabricHomes](https://www.curseforge.com/minecraft/mc-mods/fabrichomes)
 - [The Warp Mod](https://www.curseforge.com/minecraft/mc-mods/the-warp-mod-fabric)
 - [CyanSetHome](https://modrinth.com/mod/cyansethome)
@@ -511,7 +511,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 
 ### Profiling/Debugging
 - [Spark](https://www.curseforge.com/minecraft/mc-mods/spark)
-- [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
+- [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) ([GitHub](https://github.com/gnembon/fabric-carpet))
 - [MixinTrace](https://modrinth.com/mod/mixintrace)
 - [Blame](https://modrinth.com/mod/blame-fabric)
 - [Schwarz](https://modrinth.com/mod/schwarz)
@@ -613,7 +613,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [GShop](https://modrinth.com/mod/gshop) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/gshop))
 
 ## Web Maps
-- [Dynmap](https://www.curseforge.com/minecraft/mc-mods/dynmapforge/files/all)
+- [Dynmap](https://www.curseforge.com/minecraft/mc-mods/dynmapforge/files/all) ([GitHub](https://github.com/webbukkit/dynmap))
 - [BlueMap](https://www.curseforge.com/minecraft/mc-mods/bluemap)
 - [TinyMap](https://github.com/comp500/tinymap/)
 
