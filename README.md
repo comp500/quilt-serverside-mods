@@ -356,6 +356,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Personal Spaces](https://modrinth.com/mod/personal-spaces) (abandoned)
 - [Chat+](https://www.curseforge.com/minecraft/mc-mods/chat)
 - [simplehat](https://github.com/PotatoPresident/simplehat)
+- [Hat command](https://github.com/AquUpd/hat-command)
 - [Block Quantity Scanner](https://modrinth.com/mod/block-quantity-scanner)
 - [Who's pet is this?](https://www.curseforge.com/minecraft/mc-mods/whos-pet-is-this)
 - [TabTPS](https://modrinth.com/mod/tabtps)
