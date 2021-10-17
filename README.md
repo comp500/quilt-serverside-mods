@@ -52,6 +52,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 
 ## Utility / Quality of Life
 - [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) (works best with client mod installed)
+- [ChestRefill](https://modrinth.com/mod/chestrefill) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/chest-refill))
 - [SimpleHarvest](https://www.curseforge.com/minecraft/mc-mods/simpleharvest) (updated fork [SimplerHarvest](https://www.curseforge.com/minecraft/mc-mods/simplerharvest/))
 - [Simple Right Click Harvest](https://modrinth.com/mod/rch)
 - [Better Signs & Frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames)
