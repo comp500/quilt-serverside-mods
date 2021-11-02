@@ -26,7 +26,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [hopperOptimizations](https://github.com/2No2Name/hopperOptimizations) (requires lithium fork)
 
 ### Affects behaviour
-These mods make significant changes that may impact behaviour in-game, or reduce the work done (e.g. ticking) by the server. Technical servers may not want to use these.
+These mods make significant changes that may impact behaviour in-game, or reduce the work done (e.g. ticking, chunk loading) by the server. Technical servers may not want to use these.
 
 - [World Specific View Distance](https://modrinth.com/mod/worldspecificviewdistance)
 - [Custom Item Range Combination](https://modrinth.com/mod/custom-item-range-combination)
@@ -34,6 +34,9 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [TickTools](https://modrinth.com/mod/ticktools)
 - [Tic-TACS](https://github.com/Gegy/tic-tacs) (experimental, abandoned)
 - [DimensionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading) (experimental)
+- [ServerCore](https://modrinth.com/mod/servercore)
+- [Ksyxis](https://modrinth.com/mod/ksyxis)
+- [Entity View Distance](https://modrinth.com/mod/entity-view-distance)
 
 ## Bugfixes
 - [Dispenser Portal Fix](https://modrinth.com/mod/dispenser-portal-fix) or [DFASCF](https://github.com/alkyaly/DFASCF) (fixed by 1.16.5)
@@ -53,6 +56,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Chunk Saving Fix](https://www.curseforge.com/minecraft/mc-mods/chunk-saving-fix)
 - [TimeOut Out](https://github.com/PotatoPresident/TimeOutOut)
 - [Boat Fall](https://modrinth.com/mod/boat-fall)
+- [AntiShulkerDupe](https://modrinth.com/mod/antishulkerdupe)
 
 ## Utility / Quality of Life
 - [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) (works best with client mod installed)
@@ -104,6 +108,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Better Safe Bed](https://www.curseforge.com/minecraft/mc-mods/better-safe-bed)
 - [Freedom of Insomnia](https://modrinth.com/mod/freedomofinsomnia)
 - [Bed Benefits](https://modrinth.com/mod/bed-benefits-fabric)
+- [Keep The Rain](https://modrinth.com/mod/keeptherain)
 
 ## Tweaks
 
@@ -175,6 +180,11 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Fatal Blow](https://modrinth.com/mod/fatal-blow)
 - [mobgrief](https://modrinth.com/mod/mobgrief)
 - [More Mob Drops](https://modrinth.com/mod/more_mob_drops)
+- [No More Bleeding Sheep](https://modrinth.com/mod/nmbs)
+- [No Angy Fwom Looky Wooky UwU](https://modrinth.com/mod/naflwu)
+- [Damage Incorporated](https://modrinth.com/mod/damage-incorporated)
+- [Mob Spawning Light Level](https://modrinth.com/mod/mob-spawning-light-level)
+- [FabricHealthDisplay](https://modrinth.com/mod/healthdisplay)
 
 ### Villagers
 - [VillagerFix](https://www.curseforge.com/minecraft/mc-mods/villagerfix)
@@ -198,6 +208,8 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [TaterCart](https://modrinth.com/mod/tatercart)
 - [Audaki Cart Engine](https://www.curseforge.com/minecraft/mc-mods/audaki-cart-engine)
 - [Cart Boosts](https://www.curseforge.com/minecraft/mc-mods/cart-boosts)
+- [Subspace train](https://modrinth.com/mod/subspace-train)
+- [Block Under Fast Minecart](https://www.curseforge.com/minecraft/mc-mods/block-under-fast-minecart)
 
 ### Game Mechanics Tweaks
 - [Fluid Physics](https://www.curseforge.com/minecraft/mc-mods/fluid-physics)
@@ -266,6 +278,14 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [High Level Enchants](https://modrinth.com/mod/highlevelenchants)
 - [Piston push limit](https://www.curseforge.com/minecraft/mc-mods/piston-push-limit)
 - [Interdimensional Map Markers](https://www.curseforge.com/minecraft/mc-mods/interdimensional-map-markers)
+- [Better Moss IMO](https://modrinth.com/mod/bettermossimo)
+- [Offline Daytime](https://modrinth.com/mod/offday)
+- [Feather Fall Flying](https://modrinth.com/mod/featherfallflying)
+- [FilledToTheBrim](https://modrinth.com/mod/filledtothebrim)
+- [Replant Swamp Trees](https://modrinth.com/mod/replant-swamp-trees)
+- [Silky hands](https://modrinth.com/mod/silky-hands)
+- [Horizonal Portals](https://modrinth.com/mod/horizontalportals)
+- [Cooperative Advancements](https://www.curseforge.com/minecraft/mc-mods/cooperative-advancements-fabric)
 
 ### New Game Mechanics
 - [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric)
@@ -275,7 +295,6 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Carpet EssentialsAddons](https://github.com/Super-Santa/EssentialAddons) (untested) 
 - [VanillaEndervators](https://www.curseforge.com/minecraft/mc-mods/vanillaendervators) (outdated)
 - [FastGrowth](https://www.curseforge.com/minecraft/mc-mods/fastgrowth)
-- [Better Dispensers](https://www.curseforge.com/minecraft/mc-mods/better-dispensers)
 - [Dance of Growth](https://www.curseforge.com/minecraft/mc-mods/dance-of-growth)
 - [Chain Suspension](https://www.curseforge.com/minecraft/mc-mods/chain-suspension)
 - [Harmful Stonecutters](https://www.curseforge.com/minecraft/mc-mods/harmful-stonecutters)
@@ -300,19 +319,29 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [SlimyFloor](https://www.curseforge.com/minecraft/mc-mods/slimyfloor)
 - [PlayerPig](https://www.curseforge.com/minecraft/mc-mods/playerpig)
 - [Infinity Water Bucket](https://www.curseforge.com/minecraft/mc-mods/infinity-water-bucket)
-- [Cauldron Concrete](https://modrinth.com/mod/cauldronconcrete)
 - [FabricSit](https://modrinth.com/mod/sit)
 - [Eternal Eats](https://modrinth.com/mod/eternal-eats)
 - [Good Ol' Regen](https://modrinth.com/mod/good-ol-regen)
 - [Extension](https://modrinth.com/mod/ext)
-- [Cauldron Fix](https://modrinth.com/mod/cauldron-fix)
 - [Vanessence](https://modrinth.com/mod/vanessence)
 - [No More Magic Milk](https://modrinth.com/mod/no-magic-milk)
 - [Victorian Gewgaws](https://modrinth.com/mod/victorian-gewgaws)
 - [Snow Under Trees](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees-fabric)
 - [ServShred](https://modrinth.com/mod/servshred)
 - [Strains of Ascension](https://github.com/StoneLabs/strains-of-ascension)
+- [Mechanical Factory](https://modrinth.com/mod/mechafact)
+- [Server Backpacks](https://modrinth.com/mod/servback)
+
+### Cauldrons
+- [Easier Powdered Snow](https://modrinth.com/mod/easierpowdersnow)
+- [Cauldron Concrete](https://modrinth.com/mod/cauldronconcrete)
+- [Cauldron Fix](https://modrinth.com/mod/cauldron-fix)
+- [Dispenser Cauldron](https://modrinth.com/mod/fabric-dispenser-cauldron)
+
+### Dispensers
+- [Better Dispensers](https://www.curseforge.com/minecraft/mc-mods/better-dispensers)
 - [Mechanical Dispensers](https://www.curseforge.com/minecraft/mc-mods/mechanical-dispensers)
+- [Dispenser Cauldron](https://modrinth.com/mod/fabric-dispenser-cauldron)
 
 ### Crafting
 - [Logical Recipes](https://www.curseforge.com/minecraft/mc-mods/logical-recipes)
@@ -323,6 +352,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Glowing Potion](https://modrinth.com/mod/glowpot)
 - [Gimme bundles!](https://www.curseforge.com/minecraft/mc-mods/gimme-bundles)
 - [DeepslateCutting Fabric](https://modrinth.com/mod/deepslatecutting)
+- [Recipe Reshaper](https://modrinth.com/mod/recipe-reshaper)
 
 ### Graves/Death
 - [VanillaDeathChest](https://www.curseforge.com/minecraft/mc-mods/vanilladeathchest-fabric)
@@ -394,6 +424,11 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [SwitchableResourcepacks](https://modrinth.com/mod/switchableresourcepacks)
 - [Damage Function](https://modrinth.com/mod/damagefunction)
 - [Styled Nicknames](https://modrinth.com/mod/styled-nicknames)
+- [Kanaify](https://modrinth.com/mod/kanaify)
+- [Json Chat Mod](https://modrinth.com/mod/jsonchat)
+- [Girlbossed](https://modrinth.com/mod/girlbossed)
+- [slashdiscord](https://modrinth.com/mod/slashdiscord)
+- [Server Chat History](https://modrinth.com/mod/server-chat-history)
 
 ### Join Messages/MOTD
 - [EasyMOTD](https://www.curseforge.com/minecraft/mc-mods/easymotd)
@@ -467,6 +502,10 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [BrandBlock](https://modrinth.com/mod/brandblock)
 - [Progression](https://github.com/maxheyn/progression)
 - [UPeeNPiss](https://www.curseforge.com/minecraft/mc-mods/upeenpiss)
+- [Action Inventory Mod](https://modrinth.com/mod/actioninventory)
+- [Gamerulify](https://modrinth.com/mod/gamerulify)
+- [Reload server.properties](https://www.curseforge.com/minecraft/mc-mods/reload-server-properties)
+- [Never Tick Alone](https://www.curseforge.com/minecraft/mc-mods/never-tick-alone)
 
 ### Gamerules
 - [Carpet Gamerules](https://www.curseforge.com/minecraft/mc-mods/carpetgamerules)
@@ -489,10 +528,12 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [JLine for Dedicated Server](https://www.curseforge.com/minecraft/mc-mods/jline-for-minecraft-dedicated-server)
 - [Fabric Console](https://www.curseforge.com/minecraft/mc-mods/fabric-console)
 - [Shut Up Console](https://www.curseforge.com/minecraft/mc-mods/shut-up-console)
+- [Clean Logs](https://modrinth.com/mod/clean-logs) (fork of Shut Up Console)
 - [Translated Server Log](https://www.curseforge.com/minecraft/mc-mods/translated-server-log)
 - [mclo.gs](https://www.curseforge.com/minecraft/mc-mods/mclo-gs)
 - [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
 - [BadStdOut](https://modrinth.com/mod/badstdout)
+- [Cyanide](https://www.curseforge.com/minecraft/mc-mods/cyanide-fabric)
 
 ### Logging/auditing
 - [Ledger](https://modrinth.com/mod/ledger) (supersedes DeltaLogger)
@@ -550,9 +591,11 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Geyser-Fabric](https://github.com/GeyserMC/Geyser/wiki/Geyser-Fabric)
 - [PolyMc](https://github.com/TheEpicBlock/PolyMc)
 
-### Statistics
+### Statistics/Analytics
 - [RPGStats](https://www.curseforge.com/minecraft/mc-mods/rpgstats)
 - [ServerStats](https://modrinth.com/mod/serverstats)
+- [UnifiedMetrics](https://modrinth.com/mod/unifiedmetrics)
+- [Plan](https://www.curseforge.com/minecraft/mc-mods/plan-player-analytics)
 
 ## Chat Linking
 ### Discord
@@ -584,6 +627,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Factions](https://modrinth.com/mod/factions)
 - [Server Side Tetris](https://modrinth.com/mod/serversidetetris)
 - [Chest Games](https://modrinth.com/mod/chest-games)
+- [Minecraft Manhunt](https://modrinth.com/mod/minecraft-manhunt)
 
 ## Worldgen
 - [Simplex Terrain Generation](https://www.curseforge.com/minecraft/mc-mods/simplex-terrain-generation)
@@ -621,11 +665,13 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric)
 - [Terralith ~ Overworld Evolved](https://www.curseforge.com/minecraft/mc-mods/terralith)
 - [ProtoSky](https://modrinth.com/mod/protosky)
+- [Better Moss IMO](https://modrinth.com/mod/bettermossimo)
 
 ## Economy/Shops
 - [Grand Economy](https://www.curseforge.com/minecraft/mc-mods/grand-economy)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
 - [GShop](https://modrinth.com/mod/gshop) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/gshop))
+- [Diamond Economy](https://modrinth.com/mod/diamond-economy)
 
 ## Web Maps
 - [Dynmap](https://www.curseforge.com/minecraft/mc-mods/dynmapforge/files/all)
