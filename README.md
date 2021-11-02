@@ -433,7 +433,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 
 ## Server Management
 - [PathWatcher](https://www.curseforge.com/minecraft/mc-mods/pathwatcher) (outdated)
-- [Chunk Pregenerator (Fabric)](https://www.curseforge.com/minecraft/mc-mods/chunk-pregenerator-fabric)
 - [Badlion Client Disabler](https://www.modrinth.com/mod/TAH3qgEe)
 - [ModUpdater](https://www.curseforge.com/minecraft/mc-mods/modupdater)
 - [DynRes](https://www.curseforge.com/minecraft/mc-mods/dynres)
@@ -444,12 +443,10 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [TellMe](https://www.curseforge.com/minecraft/mc-mods/tellme)
 - [Fabric-Votifier](https://github.com/DrexHD/Fabric-Votifier)
 - [Wires](https://www.curseforge.com/minecraft/mc-mods/wires) (previously Server Simplified)
-- [Chunky Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator)
 - [TBPlugin](https://www.curseforge.com/minecraft/mc-mods/tbplugin)
 - [BanHammer](https://modrinth.com/mod/banhammer)
 - [Defibrillator](https://modrinth.com/mod/defibrillator)
 - [server-launcher](https://github.com/Geek202/server-launcher) and [restarter](https://github.com/Geek202/server-restarter)
-- [Wires](https://modrinth.com/mod/wires)
 - [FabricExporter](https://modrinth.com/mod/fabricexporter)
 - [Scarpet Os Utils](https://modrinth.com/mod/scarpet-os-utils)
 - [Fabric Restart](https://www.curseforge.com/minecraft/mc-mods/fabric-restart)
@@ -458,14 +455,22 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Gastrolimital Bypass](https://modrinth.com/mod/no_player_limit)
 - [FlashFreeze](https://modrinth.com/mod/flashfreeze)
 - [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater)
-- [Carpet Gamerules](https://www.curseforge.com/minecraft/mc-mods/carpetgamerules)
 - [Semblance](https://modrinth.com/mod/semblance)
 - [ServerStop](https://www.curseforge.com/minecraft/mc-mods/serverstop-fabric)
 - [BrandBlock](https://modrinth.com/mod/brandblock)
 - [Progression](https://github.com/maxheyn/progression)
-- [Interdimensional](https://modrinth.com/mod/interdimensional)
-- [Boring Default Game Rules](https://modrinth.com/mod/boring-default-game-rules)
 - [UPeeNPiss](https://www.curseforge.com/minecraft/mc-mods/upeenpiss)
+
+### Gamerules
+- [Carpet Gamerules](https://www.curseforge.com/minecraft/mc-mods/carpetgamerules)
+- [Boring Default Game Rules](https://modrinth.com/mod/boring-default-game-rules)
+
+### Multiworld/Dimensions
+- [Interdimensional](https://modrinth.com/mod/interdimensional)
+
+### Pregeneration
+- [Chunk Pregenerator (Fabric)](https://www.curseforge.com/minecraft/mc-mods/chunk-pregenerator-fabric)
+- [Chunky Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator)
 
 ### Datapacks
 - [Packie](https://www.curseforge.com/minecraft/mc-mods/packie-fabric)
