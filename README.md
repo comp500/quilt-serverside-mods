@@ -331,6 +331,9 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
 - [Lenient Death](https://modrinth.com/mod/lenient-death)
 - [Working Graves](https://github.com/StoneLabs/working-graves)
+- [Configured Keep Inventory](https://www.curseforge.com/minecraft/mc-mods/configured-keep-inventory)
+- [keepinventory-command](https://www.curseforge.com/minecraft/mc-mods/keepinventory-command)
+- [Conditional Keep Inventory](https://modrinth.com/mod/conditional_keep_inventory)
 
 ## Commands/Chat
 - [simplechat.](https://www.curseforge.com/minecraft/mc-mods/simplechat) (outdated)
