@@ -18,18 +18,22 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
 - [Overworld Two](https://www.curseforge.com/minecraft/mc-mods/overworld-two)
 - [Krypton](https://github.com/astei/krypton)
-- [Tic-TACS](https://github.com/Gegy/tic-tacs) (experimental, abandoned)
 - [Starlight](https://modrinth.com/mod/starlight)
 - [LazyDFU](https://modrinth.com/mod/lazydfu)
 - [Hydrogen](https://modrinth.com/mod/hydrogen) (experimental)
-- [World Specific View Distance](https://modrinth.com/mod/worldspecificviewdistance)
-- [DimensionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading) (experimental)
 - [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)
-- [Custom Item Range Combination](https://modrinth.com/mod/custom-item-range-combination)
-- [Alternate Current](https://modrinth.com/mod/alternate-current) (changes behaviour)
 - [Recipe Cache](https://www.curseforge.com/minecraft/mc-mods/recipe-cache)
 - [hopperOptimizations](https://github.com/2No2Name/hopperOptimizations) (requires lithium fork)
+
+### Affects behaviour
+These mods make significant changes that may impact behaviour in-game, or reduce the work done (e.g. ticking) by the server. Technical servers may not want to use these.
+
+- [World Specific View Distance](https://modrinth.com/mod/worldspecificviewdistance)
+- [Custom Item Range Combination](https://modrinth.com/mod/custom-item-range-combination)
+- [Alternate Current](https://modrinth.com/mod/alternate-current)
 - [TickTools](https://modrinth.com/mod/ticktools)
+- [Tic-TACS](https://github.com/Gegy/tic-tacs) (experimental, abandoned)
+- [DimensionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading) (experimental)
 
 ## Bugfixes
 - [Dispenser Portal Fix](https://modrinth.com/mod/dispenser-portal-fix) or [DFASCF](https://github.com/alkyaly/DFASCF) (fixed by 1.16.5)
