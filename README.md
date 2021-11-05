@@ -429,6 +429,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Girlbossed](https://modrinth.com/mod/girlbossed)
 - [slashdiscord](https://modrinth.com/mod/slashdiscord)
 - [Server Chat History](https://modrinth.com/mod/server-chat-history)
+- [Custom Commands](https://modrinth.com/mod/customcommands)
 
 ### Join Messages/MOTD
 - [EasyMOTD](https://www.curseforge.com/minecraft/mc-mods/easymotd)
@@ -506,6 +507,8 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Gamerulify](https://modrinth.com/mod/gamerulify)
 - [Reload server.properties](https://www.curseforge.com/minecraft/mc-mods/reload-server-properties)
 - [Never Tick Alone](https://www.curseforge.com/minecraft/mc-mods/never-tick-alone)
+- [I'm Here Get Moving](https://modrinth.com/mod/ihgm)
+- [Fuck NameMC](https://github.com/LambdAurora/fuck_namemc)
 
 ### Gamerules
 - [Carpet Gamerules](https://www.curseforge.com/minecraft/mc-mods/carpetgamerules)
