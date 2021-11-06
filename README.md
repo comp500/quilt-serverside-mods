@@ -402,7 +402,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [GraphiX](https://modrinth.com/mod/graphix)
 - [Pingspam](https://modrinth.com/mod/pingspam)
 - [Roll](https://www.curseforge.com/minecraft/mc-mods/roll-fabric)
-- [Slapmap](https://www.curseforge.com/minecraft/mc-mods/slapmap)
+- [Slapmap](https://github.com/maxheyn/slapmap) (updated fork of [original](https://github.com/kalkronline/slapmap))
 - [Armor Stand Editor](https://modrinth.com/mod/armorstandeditor)
 - [Mods Command](https://modrinth.com/mod/mods-command)
 - [Mod Info Command](https://modrinth.com/mod/mod-info-cmd)
