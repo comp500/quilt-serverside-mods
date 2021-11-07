@@ -637,7 +637,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Cave Biomes](https://www.curseforge.com/minecraft/mc-mods/cave-biomes)
 - [Survival Island](https://www.curseforge.com/minecraft/mc-mods/fabric-survival-island)
 - [Smooth Bedrock (<=1.16.1)](https://www.curseforge.com/minecraft/mc-mods/blayykes-smooth-bedrock) (outdated) 
-- [Smooth Bedrock (>=1.16.2)](https://www.curseforge.com/minecraft/mc-mods/smoothbedrock-by-blayyke) (untested) 
+- [Smooth Bedrock (>=1.16.2)](https://www.curseforge.com/minecraft/mc-mods/smoothbedrock-by-blayyke) (untested) (no longer maintained) 
 - [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric) (i18n doesn't work)
 - [NoWaterCaves](https://www.curseforge.com/minecraft/mc-mods/nowatercaves)
 - [No Lakes](https://www.curseforge.com/minecraft/mc-mods/no-lakes)
