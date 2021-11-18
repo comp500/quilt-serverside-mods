@@ -522,7 +522,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Chunky Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator)
 
 ### Datapacks
-- [Packie](https://www.curseforge.com/minecraft/mc-mods/packie-fabric)
+- [Paxi](https://www.curseforge.com/minecraft/mc-mods/packie-fabric)
 - [Data Loader](https://www.curseforge.com/minecraft/mc-mods/data-loader)
 - [Datapack Easy](https://modrinth.com/mod/datapack-easy)
 
