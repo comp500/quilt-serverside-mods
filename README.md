@@ -81,7 +81,6 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [MAmbience](https://www.curseforge.com/minecraft/mc-mods/mambience) (with resource pack)
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-for-fabric) (untested)
 - [Immersive Cursedness](https://modrinth.com/mod/lyiXgXNm)
-- [BedrockWaters](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters/)
 - [Invisible Armor Stands](https://modrinth.com/mod/invisible-armor-stands)
 
 ### Tree/Leaf removal/decay
