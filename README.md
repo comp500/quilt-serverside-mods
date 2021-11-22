@@ -224,7 +224,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Push To Craft](https://www.curseforge.com/minecraft/mc-mods/push-to-craft)
 - [Lengthy Ladders](https://www.curseforge.com/minecraft/mc-mods/lengthy-ladders)
 - [Lapis Reserve](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve)
-- [persistent entities](https://www.curseforge.com/minecraft/mc-mods/persistent-entities)
+- [persistent entities](https://modrinth.com/mod/persistent-entities)
 - [Fence Player Upper](https://www.curseforge.com/minecraft/mc-mods/fenceplayerupper)
 - [Bedrock Blocks](https://www.curseforge.com/minecraft/mc-mods/bedrockblocks)
 - [Lid Space](https://www.curseforge.com/minecraft/mc-mods/lid-space)
