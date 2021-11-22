@@ -70,7 +70,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Monsters in the Closet](https://www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet)
 - [Crowmap](https://modrinth.com/mod/crowmap) (untested)
 - [Creative One-Punch](https://modrinth.com/mod/creative-one-punch)
-- [Fat Experience Orbs](https://www.curseforge.com/minecraft/mc-mods/fat-experience-orbs)
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 - [HealthCare](https://modrinth.com/mod/healthcare)
 - [Playtime Tracker](https://modrinth.com/mod/playtime-tracker)
 - [EditSign](https://modrinth.com/mod/editsign)
