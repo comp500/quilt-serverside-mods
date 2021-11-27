@@ -610,8 +610,9 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [fabric-discord-integration](https://github.com/hkva/fabric-discord-integration)
 - [Discord Fabric Whitelister](https://www.curseforge.com/minecraft/mc-mods/discord-fabric-whitelister)
 - [TomsServerUtils](https://modrinth.com/mod/ul4zTWk4)
-- [DiscordMinecraftFabric](https://modrinth.com/mod/dmf)
+- [DiscordMinecraftFabric](https://modrinth.com/mod/dmf) (discontinued)
 - [BlockBot](https://modrinth.com/mod/blockbot)
+- [Discord Integration Fabric](https://www.curseforge.com/minecraft/mc-mods/dcintegration-fabric)
 
 ### Matterbridge
 - [MatterLink](https://www.curseforge.com/minecraft/mc-mods/matterlink)
