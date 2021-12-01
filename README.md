@@ -273,6 +273,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Sticky Elytra](https://modrinth.com/mod/sticky-elytra)
 - [No Cap](https://modrinth.com/mod/nocap)
 - [GolemF](https://github.com/StoneLabs/golemf)
+- [IceBoatF](https://github.com/StoneLabs/iceboatf)
 - [Delayed Respawn](https://github.com/StoneLabs/delayed-respawn)
 - [High Level Enchants](https://modrinth.com/mod/highlevelenchants)
 - [Piston push limit](https://www.curseforge.com/minecraft/mc-mods/piston-push-limit)
