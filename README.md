@@ -33,6 +33,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Alternate Current](https://modrinth.com/mod/alternate-current)
 - [TickTools](https://modrinth.com/mod/ticktools)
 - [Tic-TACS](https://github.com/Gegy/tic-tacs) (experimental, abandoned)
+- [C2ME](https://github.com/RelativityMC/C2ME-fabric) (experimental)
 - [DimensionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading) (experimental)
 - [ServerCore](https://modrinth.com/mod/servercore)
 - [Ksyxis](https://modrinth.com/mod/ksyxis)
