@@ -318,7 +318,6 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [QuickCarpet](https://www.curseforge.com/minecraft/mc-mods/quickcarpet)
 - [SlimyFloor](https://www.curseforge.com/minecraft/mc-mods/slimyfloor)
 - [PlayerPig](https://www.curseforge.com/minecraft/mc-mods/playerpig)
-- [Infinity Water Bucket](https://www.curseforge.com/minecraft/mc-mods/infinity-water-bucket)
 - [FabricSit](https://modrinth.com/mod/sit)
 - [Eternal Eats](https://modrinth.com/mod/eternal-eats)
 - [Good Ol' Regen](https://modrinth.com/mod/good-ol-regen)
