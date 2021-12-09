@@ -509,6 +509,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Never Tick Alone](https://www.curseforge.com/minecraft/mc-mods/never-tick-alone)
 - [I'm Here Get Moving](https://modrinth.com/mod/ihgm)
 - [Fuck NameMC](https://github.com/LambdAurora/fuck_namemc)
+- [FabricSQLWhitelister](https://modrinth.com/mod/fabric-sql-whitelister)
 
 ### Gamerules
 - [Carpet Gamerules](https://www.curseforge.com/minecraft/mc-mods/carpetgamerules)
