@@ -58,6 +58,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [TimeOut Out](https://github.com/PotatoPresident/TimeOutOut)
 - [Boat Fall](https://modrinth.com/mod/boat-fall)
 - [AntiShulkerDupe](https://modrinth.com/mod/antishulkerdupe)
+- [MC-7569 Fix] (https://github.com/ChloeDawn/mc7569-fix)
 
 ## Utility / Quality of Life
 - [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) (works best with client mod installed)
