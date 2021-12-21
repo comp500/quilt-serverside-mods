@@ -452,6 +452,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Lapis Warps](https://www.curseforge.com/minecraft/mc-mods/lapis-warps)
 - [SimpleHomes](https://modrinth.com/mod/simplehomes)
 - [Interdimensional](https://modrinth.com/mod/interdimensional)
+- [Homabric](https://modrinth.com/mod/homabric)
 
 ## Claims/World Protection
 - [Flan](https://www.curseforge.com/minecraft/mc-mods/flan)
@@ -475,6 +476,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [GVault](https://modrinth.com/mod/gvault) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/gvault))
 - [Kits](https://modrinth.com/mod/kits)
 - [Conditional Keep Inventory](https://modrinth.com/mod/conditional_keep_inventory)
+- [RenameIt](https://modrinth.com/mod/renameit)
 
 ## Server Management
 - [PathWatcher](https://www.curseforge.com/minecraft/mc-mods/pathwatcher) (outdated)
