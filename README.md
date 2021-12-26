@@ -656,6 +656,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [BlockBot](https://modrinth.com/mod/blockbot)
 - [Discord Integration Fabric](https://www.curseforge.com/minecraft/mc-mods/dcintegration-fabric)
 - [MCDiscordChat](https://modrinth.com/mod/mcdiscordchat)
+- [QChatLink](https://www.curseforge.com/minecraft/mc-mods/qchatlink)
 
 ### Matterbridge
 - [MatterLink](https://www.curseforge.com/minecraft/mc-mods/matterlink)
