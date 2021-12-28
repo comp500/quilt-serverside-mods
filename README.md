@@ -207,6 +207,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Random Wool Sheep Drop](https://modrinth.com/mod/random-wool-color-sheep-drop)
 - [Epic Horse Breed](https://modrinth.com/mod/epic-horse-breed)
 - [Creeper AI Updated](https://modrinth.com/mod/creeper-ai-updated)
+- [No Mob Farms](https://www.curseforge.com/minecraft/mc-mods/no-mob-farm)
 
 ### Villagers
 - [VillagerFix](https://www.curseforge.com/minecraft/mc-mods/villagerfix)
