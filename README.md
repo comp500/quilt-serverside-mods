@@ -734,6 +734,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 ## NPCs
 - [Taterzens](https://modrinth.com/mod/Taterzens)
 - [TraderNPCs](https://modrinth.com/mod/tradernpcs)
+- [Blacksmiths](https://modrinth.com/mod/blacksmiths)
 
 ## Cursed
 - [PacketIgnore](https://modrinth.com/mod/packetignore)
