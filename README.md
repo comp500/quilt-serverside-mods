@@ -2,7 +2,7 @@
 
 If you're interested in developing server side Fabric mods, check out the [Fabric Server-side Development](https://discord.gg/PEg2ueH) Discord server, and submit a Pull Request if you find a server side Fabric mod not listed here.
 
-Also see [Optifine alternatives on Fabric](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754) for a few useful client side only mods!
+Also see [Optifine alternatives on Fabric](https://lambdaurora.dev/optifine_alternatives/) for a few useful client side only mods!
 
 Mods on this list are marked as outdated when they are *two* major Minecraft versions old - e.g. if 1.16 is the latest version, 1.14 and older mods are considered outdated.
 
