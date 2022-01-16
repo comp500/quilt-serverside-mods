@@ -543,6 +543,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [FabricSQLWhitelister](https://modrinth.com/mod/fabric-sql-whitelister)
 - [GeyserSkinManager Fabric](https://modrinth.com/mod/gsmf)
 - [Version Mod Loader](https://modrinth.com/mod/vml)
+- [Enforce Gamemode](https://modrinth.com/mod/enforce-gamemode)
 
 ### Gamerules
 - [Carpet Gamerules](https://www.curseforge.com/minecraft/mc-mods/carpetgamerules)
