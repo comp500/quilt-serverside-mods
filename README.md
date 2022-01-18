@@ -479,6 +479,8 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Interdimensional](https://modrinth.com/mod/interdimensional)
 - [Homabric](https://modrinth.com/mod/homabric)
 - [RandomTP](https://modrinth.com/mod/randomtp)
+- [QuickHomes](https://www.curseforge.com/minecraft/mc-mods/quickhomes/)
+- [QuickTeleports](https://www.curseforge.com/minecraft/mc-mods/quickteleports)
 
 ## Claims/World Protection
 - [Flan](https://www.curseforge.com/minecraft/mc-mods/flan)
