@@ -207,6 +207,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Epic Horse Breed](https://modrinth.com/mod/epic-horse-breed)
 - [Creeper AI Updated](https://modrinth.com/mod/creeper-ai-updated)
 - [No Mob Farms](https://www.curseforge.com/minecraft/mc-mods/no-mob-farm)
+- [Mob Filter](https://www.curseforge.com/minecraft/mc-mods/mob-filter)
 
 ### Villagers
 - [VillagerFix](https://www.curseforge.com/minecraft/mc-mods/villagerfix)
