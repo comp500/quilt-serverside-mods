@@ -16,7 +16,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Fast Furnace for Fabric](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric)
 - [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric)
 - [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
-- [Overworld Two](https://www.curseforge.com/minecraft/mc-mods/overworld-two)
 - [Krypton](https://github.com/astei/krypton)
 - [Starlight](https://modrinth.com/mod/starlight)
 - [LazyDFU](https://modrinth.com/mod/lazydfu)
@@ -38,6 +37,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [DimensionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading) (experimental)
 - [ServerCore](https://modrinth.com/mod/servercore)
 - [Ksyxis](https://modrinth.com/mod/ksyxis)
+- [Overworld Two](https://www.curseforge.com/minecraft/mc-mods/overworld-two)
 - [Entity View Distance](https://modrinth.com/mod/entity-view-distance)
 
 ## Bugfixes
