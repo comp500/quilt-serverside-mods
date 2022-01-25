@@ -76,6 +76,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Creative One-Punch](https://modrinth.com/mod/creative-one-punch)
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 - [HealthCare](https://modrinth.com/mod/healthcare)
+- [Lakotnik - Hunger Preview](https://www.curseforge.com/minecraft/mc-mods/lakotnik-hunger-preview) ([Modrinth](https://modrinth.com/mod/lakotnik))
 - [Playtime Tracker](https://modrinth.com/mod/playtime-tracker)
 - [EditSign](https://modrinth.com/mod/editsign)
 - [Egg Of Capitalism](https://modrinth.com/mod/egg-of-capitalism)
