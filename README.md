@@ -352,6 +352,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Server Backpacks](https://modrinth.com/mod/servback)
 - [JankAddons](https://modrinth.com/mod/jankaddons)
 - [Snowy Trees](https://modrinth.com/mod/snowy-trees)
+- [Waystones (Polymer Port)](https://modrinth.com/mod/polymer-ports-waystones)
 
 ### Cauldrons
 - [Easier Powdered Snow](https://modrinth.com/mod/easierpowdersnow)
@@ -488,6 +489,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [BineClaims](https://modrinth.com/mod/bineclaims)
 - [Factions](https://modrinth.com/mod/factions)
 - [SpawnProtectionTweaks](https://modrinth.com/mod/spawn-protection-tweaks)
+- [Get Off My Lawn ReServed](https://modrinth.com/mod/goml-reserved)
 
 ## Inventory
 - [Lootstrap](https://www.curseforge.com/minecraft/mc-mods/lootstrap)
@@ -603,7 +605,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 
 ### Tab List modifications
 - [Fabric Tab List](https://modrinth.com/mod/tab)
-- [Styled Player List](https://modrinth.com/mod/styledplayerlist) (also see [BoxOfPlaceholders](https://modrinth.com/mod/BoxOfPlaceholders))
+- [Styled Player List](https://modrinth.com/mod/styledplayerlist)
 - [TabTPS](https://modrinth.com/mod/tabtps)
 
 ### Backups
