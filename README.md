@@ -43,7 +43,6 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 ## Bugfixes
 - [Dispenser Portal Fix](https://modrinth.com/mod/dispenser-portal-fix) or [DFASCF](https://github.com/alkyaly/DFASCF) (fixed by 1.16.5)
 - [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
-- [Carpet Fixes](https://github.com/fxmorin/carpet-fixes)
 - [Carpet Extra](https://www.curseforge.com/minecraft/mc-mods/carpet-extra)
 - [Dimension Mutability](https://www.curseforge.com/minecraft/mc-mods/dimension-mutability) (untested)
 - [Carpet TIS Addition](https://www.curseforge.com/minecraft/mc-mods/carpet-tis-addition)
