@@ -307,6 +307,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Anvil Crush](https://modrinth.com/mod/anvil-crush)
 - [DeepslateGenerator](https://modrinth.com/mod/deepslategenerator)
 - [Hardened Crops](https://modrinth.com/mod/hardened-crops)
+- [Copper Hopper](https://www.curseforge.com/minecraft/mc-mods/copper-hopper)
 
 ### New Game Mechanics
 - [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric)
