@@ -101,6 +101,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Tree Felling](https://modrinth.com/mod/treefelling)
 
 ### Sleep (Voting/Acceleration/etc)
+- [SleepWarp](https://www.curseforge.com/minecraft/mc-mods/sleep-warp)
 - [BetterSleeping](https://www.curseforge.com/minecraft/mc-mods/bettersleeping)
 - [BetterSleeping Revived](https://modrinth.com/mod/bettersleeping-revived)
 - [Hypnos](https://www.curseforge.com/minecraft/mc-mods/hypnos)
