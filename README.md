@@ -80,6 +80,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [EditSign](https://modrinth.com/mod/editsign)
 - [Egg Of Capitalism](https://modrinth.com/mod/egg-of-capitalism)
 - [Easy Painter](https://modrinth.com/mod/easy_painter)
+- [Polydex](https://modrinth.com/mod/polydex)
 
 ### Cosmetic
 - [MAmbience](https://www.curseforge.com/minecraft/mc-mods/mambience) (with resource pack)
