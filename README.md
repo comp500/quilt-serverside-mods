@@ -215,6 +215,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [VillagerFix](https://www.curseforge.com/minecraft/mc-mods/villagerfix)
 - [InfiniteVillagerTrading](https://www.curseforge.com/minecraft/mc-mods/infinitevillagertrading)
 - [Economical Villager Trading](https://www.curseforge.com/minecraft/mc-mods/economical-villager-trading)
+- [SimpleVillagers](https://www.curseforge.com/minecraft/mc-mods/simplevillagers) ([modrinth](https://modrinth.com/mod/simplevillagers))
 - [Hungy Villager](https://modrinth.com/mod/hungyvillagers)
 - [Villager See, Villager Do](https://www.curseforge.com/minecraft/mc-mods/villager-see-villager-do)
 - [Wandering Collector](https://modrinth.com/mod/wandering-collector)
