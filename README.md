@@ -210,6 +210,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Creeper AI Updated](https://modrinth.com/mod/creeper-ai-updated)
 - [No Mob Farms](https://www.curseforge.com/minecraft/mc-mods/no-mob-farm)
 - [Mob Filter](https://www.curseforge.com/minecraft/mc-mods/mob-filter)
+- [Improved Mobs](https://www.curseforge.com/minecraft/mc-mods/improved-mobs-fabric)
 
 ### Villagers
 - [VillagerFix](https://www.curseforge.com/minecraft/mc-mods/villagerfix)
@@ -746,3 +747,6 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Volatile Entity Cramming](https://modrinth.com/mod/volatile-entity-cramming)
 - [Bedrock Breaking](https://modrinth.com/mod/bedrockbreaking)
 - [Dihydrogen Monoxide Reloaded](https://www.curseforge.com/minecraft/mc-mods/dihydrogen-monoxide-reloaded)
+
+## Quests
+- [Simple Quests](https://www.curseforge.com/minecraft/mc-mods/simple-quests)
