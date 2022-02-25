@@ -748,5 +748,5 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Bedrock Breaking](https://modrinth.com/mod/bedrockbreaking)
 - [Dihydrogen Monoxide Reloaded](https://www.curseforge.com/minecraft/mc-mods/dihydrogen-monoxide-reloaded)
 
-## Quest
-- [Simple quests](https://www.curseforge.com/minecraft/mc-mods/simple-quests)
+## Quests
+- [Simple Quests](https://www.curseforge.com/minecraft/mc-mods/simple-quests)
