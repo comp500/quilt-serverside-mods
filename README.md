@@ -211,6 +211,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [No Mob Farms](https://www.curseforge.com/minecraft/mc-mods/no-mob-farm)
 - [Mob Filter](https://www.curseforge.com/minecraft/mc-mods/mob-filter)
 - [Improved Mobs](https://www.curseforge.com/minecraft/mc-mods/improved-mobs-fabric)
+- [Advanced Golems](https://www.curseforge.com/minecraft/mc-mods/advanced-golems-fabric)
 
 ### Villagers
 - [VillagerFix](https://www.curseforge.com/minecraft/mc-mods/villagerfix)
