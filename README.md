@@ -124,7 +124,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 ### Combat
 - [CombatEdit](https://www.curseforge.com/minecraft/mc-mods/combatedit)
 - [Headshot](https://www.curseforge.com/minecraft/mc-mods/headshot)
-- [YouCantDamageMe](https://www.modrinth.com/mod/YouCantDamageMe)
+- [You can't damage me!](https://modrinth.com/mod/YouCantDamageMe)
 - [PvP toggle](https://github.com/manyrandomthings/pvp-toggle)
 - [AttackSpeedPlus](https://www.curseforge.com/minecraft/mc-mods/attackspeedplus-fabric)
 - [Axes Are Weapons](https://modrinth.com/mod/axes-are-weapons)
@@ -133,7 +133,6 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Infinity Fix](https://modrinth.com/mod/infinity_fix)
 - [Snowballs Hit Players](https://modrinth.com/mod/snowballs-hit-players)
 - [Snowball and Egg Knockback](https://www.curseforge.com/minecraft/mc-mods/snowball-and-egg-knockback-fabric)
-- [You can't damage me!](https://modrinth.com/mod/YouCantDamageMe)
 - [Freezma](https://www.curseforge.com/minecraft/mc-mods/freezma)
 - [Set Bonuses](https://modrinth.com/mod/set-bonuses)
 - [LifeSteal](https://modrinth.com/mod/lifesteal)
