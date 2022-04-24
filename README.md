@@ -693,7 +693,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Survival Island](https://www.curseforge.com/minecraft/mc-mods/fabric-survival-island)
 - [Smooth Bedrock (<=1.16.1)](https://www.curseforge.com/minecraft/mc-mods/blayykes-smooth-bedrock) (outdated) 
 - [Smooth Bedrock (>=1.16.2)](https://www.curseforge.com/minecraft/mc-mods/smoothbedrock-by-blayyke) (untested) (no longer maintained) 
-- [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric) (i18n doesn't work)
+- [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric)
 - [NoWaterCaves](https://www.curseforge.com/minecraft/mc-mods/nowatercaves)
 - [No Lakes](https://www.curseforge.com/minecraft/mc-mods/no-lakes)
 - [Climatic World Type](https://www.curseforge.com/minecraft/mc-mods/climatic-world-type) (untested)
