@@ -87,7 +87,6 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [MAmbience](https://www.curseforge.com/minecraft/mc-mods/mambience) (with resource pack)
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-for-fabric) (untested)
 - [Immersive Cursedness](https://modrinth.com/mod/lyiXgXNm)
-- [Invisible Armor Stands](https://modrinth.com/mod/invisible-armor-stands)
 - [Server Hats](https://modrinth.com/mod/server-hats)
 - [simplehat](https://github.com/PotatoPresident/simplehat)
 - [Hat command](https://github.com/AquUpd/hat-command)
@@ -287,7 +286,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Bedrock Destroyer](https://www.curseforge.com/minecraft/mc-mods/bedrock-destroyer)
 - [ParadoxSlabs](https://modrinth.com/mod/paradox-slabs)
 - [Powershot](https://modrinth.com/mod/powershot)
-- [Better Beacon](https://modrinth.com/mod/better-beacon)
+- [Better Beacon / Conduit](https://www.curseforge.com/minecraft/mc-mods/better-beacon)
 - [Spice of Fabric](https://modrinth.com/mod/spice-of-fabric)
 - [No Teleport Cooldown](https://modrinth.com/mod/no-teleport-cooldown)
 - [Difficulty Tweaker](https://modrinth.com/mod/difficultytweaker)
@@ -624,7 +623,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Spark](https://www.curseforge.com/minecraft/mc-mods/spark)
 - [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
 - [MixinTrace](https://modrinth.com/mod/mixintrace)
-- [Blame](https://modrinth.com/mod/blame-fabric)
+- [Blame](https://modrinth.com/mod/blame)
 - [Schwarz](https://modrinth.com/mod/schwarz)
 
 ### Permissions/Roles
