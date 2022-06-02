@@ -90,6 +90,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Server Hats](https://modrinth.com/mod/server-hats)
 - [simplehat](https://github.com/PotatoPresident/simplehat)
 - [Hat command](https://github.com/AquUpd/hat-command)
+- [Froggy Flies](https://www.curseforge.com/minecraft/mc-mods/froggy-flies) ([modrinth](https://modrinth.com/mod/froggyflies))
 
 ### Tree/Leaf removal/decay
 - [Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/leaf-decay)
