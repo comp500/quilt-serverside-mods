@@ -91,6 +91,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [simplehat](https://github.com/PotatoPresident/simplehat)
 - [Hat command](https://github.com/AquUpd/hat-command)
 - [MAmbience](https://www.curseforge.com/minecraft/mc-mods/mambience) (with resource pack)
+- [Froggy Flies](https://modrinth.com/mod/froggyflies)
 
 ### Tree/Leaf removal/decay
 - [Falling Tree](https://modrinth.com/mod/fallingtree)
