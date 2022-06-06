@@ -81,14 +81,19 @@ Feel free to submit a Pull Request if you find a server side Quilt/Fabric mod no
 Also see [Optifine Alternatives](https://lambdaurora.dev/optifine_alternatives/) for a few useful client side only mods!
 
 Mods on this list are marked as outdated when they are *two* major Minecraft versions old - e.g. if 1.16 is the latest version, 1.14 and older mods are considered outdated.
+
 `;
 
 	for await (const [slug, category] of getCategories()) {
 		yield "#".repeat((slug.match(/\//g)||[]).length + 2) + " " + category.name;
+		yield "\n";
 		if (category.notes !== undefined) {
 			yield category.notes;
-			yield "";
+			yield "\n\n";
 		}
+
+		yield "|Name|Links|Notes|\n";
+		yield "|-|-|-|\n";
 
 		for (const mod of modsList) {
 			if (mod.categories.includes(slug)) {
@@ -112,26 +117,29 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 					tags.push("fork of " + mods[mod.upstream].name)
 				}
 
-				let tagsStr = tags.map(t => ` (${t})`).join("");
-
+				let links = [];
 				if (mod.links.modrinth !== undefined) {
-					yield `- [${mod.name}](${mod.links.modrinth})${tagsStr}`;
-				} else if (mod.links.curseforge !== undefined) {
-					yield `- [${mod.name}](${mod.links.curseforge})${tagsStr}`;
-				} else if (mod.links.github !== undefined) {
-					yield `- [${mod.name}](${mod.links.github})${tagsStr}`;
-				} else {
-					yield `- ${mod.name}${tagsStr}`;
+					links.push(`[Modrinth](${mod.links.modrinth})`);
+				}
+				if (mod.links.curseforge !== undefined) {
+					links.push(`[CurseForge](${mod.links.curseforge})`);
+				}
+				if (mod.links.github !== undefined) {
+					links.push(`[Github](${mod.links.github})`);
+				}
+				if (mod.links.website !== undefined) {
+					links.push(`[Website](${mod.links.website})`);
 				}
 				
+				yield `|${mod.name}|${links.join(" ")}|${tags.join(", ")}|\n`;
 			}
 		}
 
-		yield "";
+		yield "\n";
 	}
 }
 
 (async () => {
 	const readmeStream = createWriteStream("../../README.md");
-	stream.pipeline(generateReadme(), src => Readable.from(src).map(line => line + "\n"), readmeStream);
+	stream.pipeline(generateReadme(), readmeStream);
 })();
