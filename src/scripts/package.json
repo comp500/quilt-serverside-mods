@@ -2,7 +2,7 @@
   "name": "serverside-mods-scripts",
   "version": "1.0.0",
   "description": "Scripts for updating the server-side mods list",
-  "main": "update.js",
+  "main": "build.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
