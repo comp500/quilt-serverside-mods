@@ -12,5 +12,8 @@
   },
   "author": "comp500",
   "license": "CC0-1.0",
-  "homepage": "https://github.com/comp500/quilt-serverside-mods#readme"
+  "homepage": "https://github.com/comp500/quilt-serverside-mods#readme",
+  "dependencies": {
+    "@ltd/j-toml": "^1.30.0"
+  }
 }

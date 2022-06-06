@@ -1,7 +1,10 @@
 const assert = require("assert");
 const fs = require("fs");
+const TOML = require("@ltd/j-toml");
+const { dirname } = require("path");
 
 const readme = fs.readFileSync("../../README.md", "utf-8");
+const readmeOld = fs.readFileSync("../../README_OLD.md", "utf-8");
 
 function slugify(name) {
 	return name.toLowerCase()
@@ -117,7 +120,7 @@ function mergeMods(origRes, newRes) {
 		name: origRes.data.name,
 		links: origRes.data.links,
 		metadata: origRes.data.metadata,
-		categories: origRes.data.categories.concat(newRes.data.categories),
+		categories: [...new Set(origRes.data.categories.concat(newRes.data.categories))],
 	};
 	if (origRes.data.notes != undefined) {
 		mod.notes = origRes.data.notes;
@@ -132,7 +135,11 @@ function mergeMods(origRes, newRes) {
 			throw `Inconsistent URL: ${mod.links[key]} vs ${value}`
 		}
 	}
-	assert.deepEqual(origRes.data.metadata, newRes.data.metadata, "Inconsistent metadata");
+	for (const [key, value] of Object.entries(newRes.data.metadata)) {
+		if (value) {
+			mod.metadata[key] = true;
+		}
+	}
 	assert.equal(origRes.data.notes, newRes.data.notes, "Inconsistent notes");
 
 	return mod;
@@ -180,6 +187,76 @@ for (line of readme.split("\n")) {
 	}
 }
 
-console.dir(mods, { depth: null });
+for (line of readmeOld.split("\n")) {
+	line = line.replace("\r", "").trim();
+
+	let count = -1;
+	for (c of line) {
+		if (c != '#') break;
+		count++;
+	}
+	if (count > 0) {
+		while (count <= path.length) path.pop();
+
+		path.push(slugify(line));
+
+		sectionData[path.join("/")] = {
+			"name": line.replace(/^#+/, "").trim()
+		};
+	} else {
+		if (line.length > 0) {
+			try {
+				let res = createMod(line, path.join("/"));
+				if (mods[res.slug] != undefined) {
+					mods[res.slug] = mergeMods({slug: res.slug, data: mods[res.slug]}, res);
+					continue;
+				}
+				let foundSlug = Object.keys(mods).find((e) => mods[e].name == res.data.name);
+				if (foundSlug != undefined) {
+					throw `Inconsistent slug with ${foundSlug} (${mods[foundSlug].name})`;
+				}
+				mods[res.slug] = res.data;
+				validCount++;
+			} catch (e) {
+				console.log("Line failure: " + e);
+				console.log(line);
+				invalidCount++;
+			}
+		}
+	}
+}
+
+// Clean up mods objects
+let modsCleaned = {};
+for ([slug, mod] of Object.entries(mods)) {
+	// Reassign to ensure consistent order
+	modsCleaned[slug] = {
+		name: mod.name,
+		links: mod.links,
+		categories: mod.categories
+	};
+	// Only include metadata and notes if not empty
+	if (Object.keys(mod.metadata).length != 0) {
+		modsCleaned[slug].metadata = mod.metadata;
+	}
+	if (mod.notes != undefined) {
+		modsCleaned[slug].notes = mod.notes;
+	}
+}
+
+console.dir(modsCleaned, { depth: null });
 console.log(validCount);
 console.log(invalidCount);
+
+for ([slug, mod] of Object.entries(modsCleaned)) {
+	fs.writeFileSync(`../mods/${slug}.toml`, TOML.stringify(mod, {
+		newline: "\n"
+	}));
+}
+
+for ([slug, category] of Object.entries(sectionData)) {
+	fs.mkdirSync(dirname(`../categories/${slug}`), { recursive: true });
+	fs.writeFileSync(`../categories/${slug}.toml`, TOML.stringify(category, {
+		newline: "\n"
+	}));
+}
