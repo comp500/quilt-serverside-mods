@@ -244,19 +244,18 @@ for ([slug, mod] of Object.entries(mods)) {
 	}
 }
 
-console.dir(modsCleaned, { depth: null });
 console.log(validCount);
 console.log(invalidCount);
 
 for ([slug, mod] of Object.entries(modsCleaned)) {
 	fs.writeFileSync(`../mods/${slug}.toml`, TOML.stringify(mod, {
 		newline: "\n"
-	}));
+	}).trim());
 }
 
 for ([slug, category] of Object.entries(sectionData)) {
 	fs.mkdirSync(dirname(`../categories/${slug}`), { recursive: true });
 	fs.writeFileSync(`../categories/${slug}.toml`, TOML.stringify(category, {
 		newline: "\n"
-	}));
+	}).trim());
 }
