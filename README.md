@@ -38,8 +38,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 |WorldEdit|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/worldedit)||
 
 ## Chat Linking
-|Name|Links|Notes|
-|-|-|-|
 
 ### Discord
 |Name|Links|Notes|
@@ -445,8 +443,6 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 |TabTPS|[Modrinth](https://modrinth.com/mod/tabtps)||
 
 ## Tweaks
-|Name|Links|Notes|
-|-|-|-|
 
 ### Cauldrons
 |Name|Links|Notes|

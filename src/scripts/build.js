@@ -92,11 +92,16 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 			yield "\n\n";
 		}
 
-		yield "|Name|Links|Notes|\n";
-		yield "|-|-|-|\n";
+		let firstMod = true;
 
 		for (const mod of modsList) {
 			if (mod.categories.includes(slug)) {
+				if (firstMod) {
+					yield "|Name|Links|Notes|\n";
+					yield "|-|-|-|\n";
+					firstMod = false;
+				}
+
 				let tags = [];
 				if (mod.notes !== undefined) {
 					tags.push(mod.notes);
@@ -130,7 +135,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 				if (mod.links.website !== undefined) {
 					links.push(`[Website](${mod.links.website})`);
 				}
-				
+
 				yield `|${mod.name}|${links.join(" ")}|${tags.join(", ")}|\n`;
 			}
 		}
