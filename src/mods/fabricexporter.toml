@@ -1,0 +1,5 @@
+name = 'FabricExporter'
+links.modrinth = 'https://modrinth.com/mod/fabricexporter'
+categories = [
+	'server-management',
+]

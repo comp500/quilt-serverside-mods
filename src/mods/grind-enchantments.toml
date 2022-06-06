@@ -1,0 +1,5 @@
+name = 'Grind Enchantments'
+links.modrinth = 'https://modrinth.com/mod/grind-enchantments'
+categories = [
+	'tweaks/enchanting-enchantments',
+]

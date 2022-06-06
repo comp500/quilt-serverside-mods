@@ -1,0 +1,5 @@
+name = 'Mini Tweaks'
+links.github = 'https://github.com/manyrandomthings/minitweaks'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

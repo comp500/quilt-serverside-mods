@@ -1,0 +1,6 @@
+name = 'Discord Fabric Whitelister'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/discord-fabric-whitelister'
+categories = [
+	'chat-linking/discord',
+]
+metadata.outdated = true

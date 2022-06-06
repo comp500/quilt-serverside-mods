@@ -1,0 +1,5 @@
+name = 'Audaki Cart Engine'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/audaki-cart-engine'
+categories = [
+	'tweaks/minecarts',
+]

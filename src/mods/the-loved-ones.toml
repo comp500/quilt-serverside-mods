@@ -1,0 +1,5 @@
+name = 'The Loved Ones'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/the-loved-ones'
+categories = [
+	'tweaks/mobs',
+]

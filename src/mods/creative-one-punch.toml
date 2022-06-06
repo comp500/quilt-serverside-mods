@@ -1,0 +1,5 @@
+name = 'Creative One-Punch'
+links.modrinth = 'https://modrinth.com/mod/creative-one-punch'
+categories = [
+	'utility',
+]

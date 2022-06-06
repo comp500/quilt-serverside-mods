@@ -1,0 +1,5 @@
+name = 'HealthCare'
+links.modrinth = 'https://modrinth.com/mod/healthcare'
+categories = [
+	'utility',
+]

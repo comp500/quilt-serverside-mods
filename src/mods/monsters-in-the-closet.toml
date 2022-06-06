@@ -1,0 +1,6 @@
+name = 'Monsters in the Closet'
+links.modrinth = 'https://modrinth.com/mod/monsters-in-the-closet'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet'
+categories = [
+	'utility',
+]

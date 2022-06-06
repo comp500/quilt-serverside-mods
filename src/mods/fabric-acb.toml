@@ -1,0 +1,5 @@
+name = 'Autocomplete Command Blacklist'
+links.modrinth = 'https://modrinth.com/mod/fabric-acb'
+categories = [
+	'server-management',
+]

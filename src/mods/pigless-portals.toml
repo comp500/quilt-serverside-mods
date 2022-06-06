@@ -1,0 +1,6 @@
+name = 'Pigless Portals'
+links.modrinth = 'https://modrinth.com/mod/pigless-portals'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/pigless-portals'
+categories = [
+	'tweaks/mobs',
+]

@@ -1,0 +1,5 @@
+name = 'SpaghettiTrees'
+links.modrinth = 'https://modrinth.com/mod/spaghettitrees'
+categories = [
+	'worldgen',
+]

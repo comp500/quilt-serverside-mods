@@ -1,0 +1,5 @@
+name = 'Unbreakable Enchantment'
+links.modrinth = 'https://modrinth.com/mod/unbreakable'
+categories = [
+	'tweaks/enchanting-enchantments',
+]

@@ -1,0 +1,5 @@
+name = 'RandomTP'
+links.modrinth = 'https://modrinth.com/mod/randomtp'
+categories = [
+	'commands-chat/teleportation-homes',
+]

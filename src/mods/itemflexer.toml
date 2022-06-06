@@ -1,0 +1,6 @@
+name = 'ItemFlexer'
+links.modrinth = 'https://modrinth.com/mod/itemflexer'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/itemflexer'
+categories = [
+	'commands-chat',
+]

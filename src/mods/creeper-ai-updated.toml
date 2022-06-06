@@ -1,0 +1,5 @@
+name = 'Creeper AI Updated'
+links.modrinth = 'https://modrinth.com/mod/creeper-ai-updated'
+categories = [
+	'tweaks/mobs',
+]

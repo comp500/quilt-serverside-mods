@@ -1,0 +1,6 @@
+name = 'SetPlayerData'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/setplayerdata'
+categories = [
+	'commands-chat',
+]
+metadata.outdated = true

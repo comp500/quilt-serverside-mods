@@ -1,0 +1,6 @@
+name = 'Dihydrogen Monoxide Reloaded'
+links.modrinth = 'https://modrinth.com/mod/dihydrogen-monoxide-reloaded'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/dihydrogen-monoxide-reloaded'
+categories = [
+	'cursed',
+]

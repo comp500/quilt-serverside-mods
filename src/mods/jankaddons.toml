@@ -1,0 +1,5 @@
+name = 'JankAddons'
+links.modrinth = 'https://modrinth.com/mod/jankaddons'
+categories = [
+	'tweaks/new-game-mechanics',
+]

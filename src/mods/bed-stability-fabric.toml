@@ -1,0 +1,6 @@
+name = 'Bed Stability'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/bed-stability-fabric'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]
+metadata.outdated = true

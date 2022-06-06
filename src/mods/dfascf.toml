@@ -1,0 +1,7 @@
+name = 'DFASCF'
+links.github = 'https://github.com/alkyaly/DFASCF'
+categories = [
+	'bugfixes'
+]
+metadata.outdated = true
+notes = 'fixed by 1.16.5'

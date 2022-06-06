@@ -1,0 +1,6 @@
+name = 'Structure World'
+links.modrinth = 'https://modrinth.com/mod/structure-world'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/structure-world'
+categories = [
+	'worldgen',
+]

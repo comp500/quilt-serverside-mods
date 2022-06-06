@@ -1,0 +1,5 @@
+name = 'Working Graves'
+links.github = 'https://github.com/StoneLabs/working-graves'
+categories = [
+	'tweaks/graves-death',
+]

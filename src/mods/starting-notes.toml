@@ -1,0 +1,6 @@
+name = 'Starting Notes'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/starting-notes'
+categories = [
+	'inventory',
+]
+metadata.outdated = true

@@ -1,0 +1,6 @@
+name = 'Struct Plus'
+links.modrinth = 'https://modrinth.com/mod/structplus'
+categories = [
+	'worldgen',
+]
+metadata.outdated = true

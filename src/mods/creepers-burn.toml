@@ -1,0 +1,6 @@
+name = 'Creepers Burn'
+links.modrinth = 'https://modrinth.com/mod/CreepersBurn'
+categories = [
+	'tweaks/mobs',
+]
+metadata.outdated = true

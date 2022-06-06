@@ -1,0 +1,6 @@
+name = "Mo' Structures"
+links.modrinth = 'https://modrinth.com/mod/mo-structures'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/mo-structures'
+categories = [
+	'worldgen',
+]

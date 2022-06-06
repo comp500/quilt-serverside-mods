@@ -1,0 +1,5 @@
+name = 'BrandBlock'
+links.modrinth = 'https://modrinth.com/mod/brandblock'
+categories = [
+	'server-management',
+]

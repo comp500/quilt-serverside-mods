@@ -1,0 +1,5 @@
+name = 'ServerCore'
+links.modrinth = 'https://modrinth.com/mod/servercore'
+categories = [
+	'performance/affects-behaviour',
+]

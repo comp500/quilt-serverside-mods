@@ -1,0 +1,6 @@
+name = 'Block Physics'
+links.modrinth = 'https://modrinth.com/mod/block-physics'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]
+metadata.outdated = true

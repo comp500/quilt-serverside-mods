@@ -1,0 +1,5 @@
+name = 'IceBoatF'
+links.github = 'https://github.com/StoneLabs/iceboatf'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

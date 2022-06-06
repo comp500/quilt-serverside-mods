@@ -1,0 +1,5 @@
+name = 'Pingspam'
+links.modrinth = 'https://modrinth.com/mod/pingspam'
+categories = [
+	'commands-chat',
+]

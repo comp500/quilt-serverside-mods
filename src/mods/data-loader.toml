@@ -1,0 +1,6 @@
+name = 'Data Loader'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/data-loader'
+categories = [
+	'server-management/datapacks',
+]
+metadata.outdated = true

@@ -1,0 +1,5 @@
+name = 'Realistic Fishing'
+links.modrinth = 'https://modrinth.com/mod/fishing'
+categories = [
+	'tweaks/fishing',
+]

@@ -1,0 +1,6 @@
+name = 'ReloadAnnouncer'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/reloadannouncer'
+categories = [
+	'server-management',
+]
+metadata.outdated = true

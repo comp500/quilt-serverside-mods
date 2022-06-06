@@ -1,0 +1,5 @@
+name = "Don't Do Death Despawn"
+links.modrinth = 'https://modrinth.com/mod/dddd'
+categories = [
+	'tweaks/graves-death',
+]

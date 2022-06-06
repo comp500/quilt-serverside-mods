@@ -1,0 +1,5 @@
+name = 'Baila'
+links.github = 'https://github.com/TheEpicBlock/baila'
+categories = [
+	'utility',
+]

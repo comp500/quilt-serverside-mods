@@ -1,0 +1,6 @@
+name = 'Dispenser Configurator'
+links.modrinth = 'https://modrinth.com/mod/dispenser-configurator'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/dispenser-configurator'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

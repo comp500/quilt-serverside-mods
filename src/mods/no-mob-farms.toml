@@ -1,0 +1,6 @@
+name = 'No Mob Farms'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/no-mob-farm'
+links.modrinth = 'https://modrinth.com/mod/no-mob-farms'
+categories = [
+	'tweaks/mobs',
+]

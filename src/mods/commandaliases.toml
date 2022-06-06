@@ -1,0 +1,6 @@
+name = 'Command Aliases'
+links.modrinth = 'https://modrinth.com/mod/commandaliases'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/commandaliases'
+categories = [
+	'commands-chat',
+]

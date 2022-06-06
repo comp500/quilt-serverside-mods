@@ -1,0 +1,5 @@
+name = 'FlashFreeze'
+links.modrinth = 'https://modrinth.com/mod/flashfreeze'
+categories = [
+	'server-management',
+]

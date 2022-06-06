@@ -1,0 +1,6 @@
+name = 'Hungy Villager'
+links.modrinth = 'https://modrinth.com/mod/hungyvillagers'
+categories = [
+	'tweaks/villagers',
+]
+metadata.outdated = true

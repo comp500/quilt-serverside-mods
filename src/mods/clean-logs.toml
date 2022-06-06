@@ -1,0 +1,6 @@
+name = 'Clean Logs'
+links.modrinth = 'https://modrinth.com/mod/clean-logs'
+categories = [
+	'server-management/console-logs',
+]
+notes = 'fork of Shut Up Console'

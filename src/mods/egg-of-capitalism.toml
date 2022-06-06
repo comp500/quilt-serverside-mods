@@ -1,0 +1,5 @@
+name = 'Egg Of Capitalism'
+links.modrinth = 'https://modrinth.com/mod/egg-of-capitalism'
+categories = [
+	'utility',
+]

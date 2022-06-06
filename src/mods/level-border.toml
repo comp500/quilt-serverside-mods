@@ -1,0 +1,5 @@
+name = 'Level = Border'
+links.modrinth = 'https://modrinth.com/mod/level-border'
+categories = [
+	'gamemodes-minigames',
+]

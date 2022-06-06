@@ -1,0 +1,5 @@
+name = 'BanHammer'
+links.modrinth = 'https://modrinth.com/mod/banhammer'
+categories = [
+	'server-management',
+]

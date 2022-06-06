@@ -1,0 +1,5 @@
+name = "Hey That's Mine"
+links.modrinth = 'https://modrinth.com/mod/htm'
+categories = [
+	'claims-world-protection',
+]

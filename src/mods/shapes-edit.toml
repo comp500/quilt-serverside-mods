@@ -1,0 +1,5 @@
+name = 'Shapes Edit'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/shapes-edit'
+categories = [
+	'building',
+]

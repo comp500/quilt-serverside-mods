@@ -1,0 +1,5 @@
+name = 'Holograms'
+links.modrinth = 'https://modrinth.com/mod/holograms'
+categories = [
+	'server-management',
+]

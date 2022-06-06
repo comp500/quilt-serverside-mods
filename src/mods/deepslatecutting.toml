@@ -1,0 +1,5 @@
+name = 'DeepslateCutting Fabric'
+links.modrinth = 'https://modrinth.com/mod/deepslatecutting'
+categories = [
+	'tweaks/crafting',
+]

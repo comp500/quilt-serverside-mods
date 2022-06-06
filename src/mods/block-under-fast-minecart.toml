@@ -1,0 +1,5 @@
+name = 'Block Under Fast Minecart'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/block-under-fast-minecart'
+categories = [
+	'tweaks/minecarts',
+]

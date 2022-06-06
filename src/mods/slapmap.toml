@@ -1,0 +1,7 @@
+name = 'Slapmap'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/slapmap'
+links.github = 'https://github.com/kalkronline/slapmap'
+categories = [
+	'commands-chat',
+]
+metadata.outdated = true

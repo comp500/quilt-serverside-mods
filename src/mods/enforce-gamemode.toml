@@ -1,0 +1,5 @@
+name = 'Enforce Gamemode'
+links.modrinth = 'https://modrinth.com/mod/enforce-gamemode'
+categories = [
+	'server-management',
+]

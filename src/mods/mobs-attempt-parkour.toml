@@ -1,0 +1,6 @@
+name = 'Mobs Attempt Parkour'
+links.modrinth = 'https://modrinth.com/mod/mobs-attempt-parkour'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/mobs-attempt-parkour'
+categories = [
+	'tweaks/mobs',
+]

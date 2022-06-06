@@ -1,0 +1,5 @@
+name = 'Hewo'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/hewo'
+categories = [
+	'commands-chat',
+]

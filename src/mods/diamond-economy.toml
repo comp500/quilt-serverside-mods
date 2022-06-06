@@ -1,0 +1,5 @@
+name = 'Diamond Economy'
+links.modrinth = 'https://modrinth.com/mod/diamond-economy'
+categories = [
+	'economy-shops',
+]

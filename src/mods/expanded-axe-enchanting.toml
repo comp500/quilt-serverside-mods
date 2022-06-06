@@ -1,0 +1,5 @@
+name = 'Expanded Axe Enchanting'
+links.modrinth = 'https://modrinth.com/mod/expanded-axe-enchanting'
+categories = [
+	'tweaks/enchanting-enchantments',
+]

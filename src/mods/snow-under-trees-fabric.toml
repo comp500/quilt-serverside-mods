@@ -1,0 +1,6 @@
+name = 'Snow Under Trees'
+links.modrinth = 'https://modrinth.com/mod/snow-under-trees-fabric'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/snow-under-trees-fabric'
+categories = [
+	'tweaks/new-game-mechanics',
+]

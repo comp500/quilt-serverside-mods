@@ -1,0 +1,5 @@
+name = 'No Cap'
+links.modrinth = 'https://modrinth.com/mod/nocap'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

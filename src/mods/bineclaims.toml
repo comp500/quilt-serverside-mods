@@ -1,0 +1,6 @@
+name = 'BineClaims'
+links.modrinth = 'https://modrinth.com/mod/bineclaims'
+categories = [
+	'claims-world-protection',
+]
+metadata.outdated = true

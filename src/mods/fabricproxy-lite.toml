@@ -1,0 +1,6 @@
+name = 'FabricProxy-Lite'
+links.modrinth = 'https://modrinth.com/mod/fabricproxy-lite'
+categories = [
+	'server-management/proxy-forwarding',
+]
+notes = 'supersedes FabricProxy'

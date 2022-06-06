@@ -1,0 +1,5 @@
+name = 'Expanded Trident Enchanting'
+links.modrinth = 'https://modrinth.com/mod/expanded-trident-enchanting'
+categories = [
+	'tweaks/enchanting-enchantments',
+]

@@ -1,0 +1,5 @@
+name = 'Better Keepinventory'
+links.modrinth = 'https://modrinth.com/mod/keepinventory'
+categories = [
+	'inventory',
+]

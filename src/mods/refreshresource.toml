@@ -1,0 +1,5 @@
+name = 'RefreshResource'
+links.modrinth = 'https://modrinth.com/mod/refreshresource'
+categories = [
+	'server-management/resource-packs',
+]

@@ -1,0 +1,5 @@
+name = 'DeepslateGenerator'
+links.modrinth = 'https://modrinth.com/mod/deepslategenerator'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

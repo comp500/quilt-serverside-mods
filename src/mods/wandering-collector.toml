@@ -1,0 +1,5 @@
+name = 'Wandering Collector'
+links.modrinth = 'https://modrinth.com/mod/wandering-collector'
+categories = [
+	'tweaks/villagers',
+]

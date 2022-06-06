@@ -1,0 +1,5 @@
+name = 'Epic Horse Breed'
+links.modrinth = 'https://modrinth.com/mod/epic-horse-breed'
+categories = [
+	'tweaks/mobs',
+]

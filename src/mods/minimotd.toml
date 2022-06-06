@@ -1,0 +1,6 @@
+name = 'MiniMOTD'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/minimotd-fabric'
+links.modrinth = 'https://modrinth.com/mod/minimotd'
+categories = [
+	'server-management/server-list-modifications',
+]

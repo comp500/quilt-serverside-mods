@@ -1,0 +1,5 @@
+name = 'Better Nether Map'
+links.modrinth = 'https://modrinth.com/mod/better-nether-map'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

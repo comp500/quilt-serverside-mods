@@ -1,0 +1,5 @@
+name = 'RenameIt'
+links.modrinth = 'https://modrinth.com/mod/renameit'
+categories = [
+	'inventory',
+]

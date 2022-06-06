@@ -1,0 +1,5 @@
+name = 'TickTock'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/ticktock'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

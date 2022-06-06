@@ -1,0 +1,5 @@
+name = 'Infinity Fix'
+links.modrinth = 'https://modrinth.com/mod/infinity_fix'
+categories = [
+	'tweaks/combat',
+]

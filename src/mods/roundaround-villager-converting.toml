@@ -1,0 +1,5 @@
+name = "Roundaround's Villager Converting"
+links.modrinth = 'https://modrinth.com/mod/roundaround-villager-converting'
+categories = [
+	'tweaks/villagers',
+]

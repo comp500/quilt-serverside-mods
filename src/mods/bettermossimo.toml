@@ -1,0 +1,6 @@
+name = 'Better Moss IMO'
+links.modrinth = 'https://modrinth.com/mod/bettermossimo'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+	'worldgen',
+]

@@ -1,0 +1,6 @@
+name = 'Gentle Picking'
+links.modrinth = 'https://modrinth.com/mod/gentle-picking'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/gentle-picking'
+categories = [
+	'tweaks/new-game-mechanics',
+]

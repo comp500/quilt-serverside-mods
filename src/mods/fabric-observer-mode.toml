@@ -1,0 +1,6 @@
+name = 'Fabric Observer Gamemode'
+links.github = 'https://github.com/aws404/Fabric-ObserverMode'
+categories = [
+	'gamemodes-minigames',
+]
+metadata.outdated = true

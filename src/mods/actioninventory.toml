@@ -1,0 +1,5 @@
+name = 'Action Inventory Mod'
+links.modrinth = 'https://modrinth.com/mod/actioninventory'
+categories = [
+	'server-management',
+]

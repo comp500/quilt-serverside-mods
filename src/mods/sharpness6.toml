@@ -1,0 +1,5 @@
+name = 'Sharpness VI'
+links.modrinth = 'https://modrinth.com/mod/sharpness6'
+categories = [
+	'tweaks/enchanting-enchantments',
+]

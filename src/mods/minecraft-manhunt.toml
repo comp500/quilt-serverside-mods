@@ -1,0 +1,5 @@
+name = 'Minecraft Manhunt'
+links.modrinth = 'https://modrinth.com/mod/minecraft-manhunt'
+categories = [
+	'gamemodes-minigames',
+]

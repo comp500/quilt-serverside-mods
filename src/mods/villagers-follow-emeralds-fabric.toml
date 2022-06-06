@@ -1,0 +1,5 @@
+name = 'Villagers Follow Emeralds'
+links.modrinth = 'https://modrinth.com/mod/villagers-follow-emeralds-fabric'
+categories = [
+	'tweaks/villagers',
+]

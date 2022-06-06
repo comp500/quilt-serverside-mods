@@ -1,0 +1,5 @@
+name = 'Freedom of Insomnia'
+links.modrinth = 'https://modrinth.com/mod/freedomofinsomnia'
+categories = [
+	'utility/sleep',
+]

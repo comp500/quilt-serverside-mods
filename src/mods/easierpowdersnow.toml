@@ -1,0 +1,5 @@
+name = 'Easier Powdered Snow'
+links.modrinth = 'https://modrinth.com/mod/easierpowdersnow'
+categories = [
+	'tweaks/cauldrons',
+]

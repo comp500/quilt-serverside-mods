@@ -1,0 +1,5 @@
+name = 'Mods Command'
+links.modrinth = 'https://modrinth.com/mod/mods-command'
+categories = [
+	'commands-chat',
+]

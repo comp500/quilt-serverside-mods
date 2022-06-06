@@ -1,0 +1,6 @@
+name = 'Mob Rebirth'
+links.modrinth = 'https://modrinth.com/mod/mob-rebirth'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/mob-rebirth'
+categories = [
+	'tweaks/mobs',
+]

@@ -1,0 +1,6 @@
+name = 'Better Respawn'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/better-respawn-fabric'
+categories = [
+	'utility/sleep',
+]
+metadata.outdated = true

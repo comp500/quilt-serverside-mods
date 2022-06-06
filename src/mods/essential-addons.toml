@@ -1,0 +1,5 @@
+name = 'Carpet EssentialsAddons'
+links.github = 'https://github.com/Super-Santa/EssentialAddons'
+categories = [
+	'tweaks/new-game-mechanics',
+]

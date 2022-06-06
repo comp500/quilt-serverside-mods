@@ -1,0 +1,6 @@
+name = 'Flora Doubling'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric'
+categories = [
+	'tweaks/new-game-mechanics',
+]
+metadata.outdated = true

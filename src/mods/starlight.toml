@@ -1,0 +1,6 @@
+name = 'Starlight'
+links.modrinth = 'https://modrinth.com/mod/starlight'
+categories = [
+	'performance',
+]
+notes = 'incompatible with Phosphor'

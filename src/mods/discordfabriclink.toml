@@ -1,0 +1,6 @@
+name = 'Discord-Fabric Link'
+links.github = 'https://github.com/HeyItsMeNobody/discordfabriclink'
+categories = [
+	'chat-linking/discord',
+]
+metadata.outdated = true

@@ -1,0 +1,6 @@
+name = 'SimpleHarvest'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/simpleharvest'
+categories = [
+	'utility'
+]
+metadata.outdated = true

@@ -1,0 +1,6 @@
+name = 'EasyMOTD'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/easymotd'
+categories = [
+	'commands-chat/join-messages-motd',
+]
+metadata.outdated = true

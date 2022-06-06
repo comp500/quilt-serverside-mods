@@ -1,0 +1,5 @@
+name = 'Chain Suspension'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/chain-suspension'
+categories = [
+	'tweaks/new-game-mechanics',
+]

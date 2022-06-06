@@ -1,0 +1,5 @@
+name = 'VillagerConfig'
+links.modrinth = 'https://modrinth.com/mod/villagerconfig'
+categories = [
+	'tweaks/villagers',
+]

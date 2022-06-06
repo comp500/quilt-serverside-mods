@@ -1,0 +1,6 @@
+name = 'Daylight Mobs Reborn'
+links.modrinth = 'https://modrinth.com/mod/daylight-mobs-reborn'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/daylight-mobs-reborn'
+categories = [
+	'tweaks/mobs',
+]

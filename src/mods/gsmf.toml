@@ -1,0 +1,5 @@
+name = 'GeyserSkinManager Fabric'
+links.modrinth = 'https://modrinth.com/mod/gsmf'
+categories = [
+	'server-management',
+]

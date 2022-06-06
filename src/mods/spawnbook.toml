@@ -1,0 +1,5 @@
+name = 'Spawnbook'
+links.github = 'https://github.com/maxheyn/spawnbook'
+categories = [
+	'commands-chat/join-messages-motd',
+]

@@ -1,0 +1,14 @@
+name = 'Sewing Machine Utilities'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities'
+categories = [
+	'utility/sleep',
+	'tweaks/game-mechanics-tweaks',
+	'tweaks/new-game-mechanics',
+	'tweaks/graves-death',
+	'commands-chat',
+	'commands-chat/teleportation-homes',
+	'claims-world-protection',
+	'server-management/logging-auditing',
+	'server-management/server-list-modifications',
+	'economy-shops',
+]

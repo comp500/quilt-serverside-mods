@@ -1,0 +1,5 @@
+name = 'Context-Specific Immunity'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/context-specific-immunity'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

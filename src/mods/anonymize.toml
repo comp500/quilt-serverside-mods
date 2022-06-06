@@ -1,0 +1,5 @@
+name = 'Anonymize'
+links.github = 'https://github.com/NucleoidMC/anonymize'
+categories = [
+	'server-management/console-logs',
+]

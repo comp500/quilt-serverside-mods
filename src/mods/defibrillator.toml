@@ -1,0 +1,5 @@
+name = 'Defibrillator'
+links.modrinth = 'https://modrinth.com/mod/defibrillator'
+categories = [
+	'server-management',
+]

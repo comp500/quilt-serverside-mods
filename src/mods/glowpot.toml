@@ -1,0 +1,6 @@
+name = 'Glowing Potion'
+links.modrinth = 'https://modrinth.com/mod/glowpot'
+categories = [
+	'tweaks/crafting',
+]
+metadata.outdated = true

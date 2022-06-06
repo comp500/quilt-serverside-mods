@@ -1,0 +1,5 @@
+name = 'Zombify'
+links.modrinth = 'https://modrinth.com/mod/zombify'
+categories = [
+	'tweaks/villagers',
+]

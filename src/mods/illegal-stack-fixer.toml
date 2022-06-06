@@ -1,0 +1,5 @@
+name = 'Illegal Stack Fixer'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/illegal-stack-fixer'
+categories = [
+	'bugfixes',
+]

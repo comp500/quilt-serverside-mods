@@ -1,0 +1,5 @@
+name = 'World Specific View Distance'
+links.modrinth = 'https://modrinth.com/mod/worldspecificviewdistance'
+categories = [
+	'performance/affects-behaviour',
+]

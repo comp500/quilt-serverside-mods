@@ -1,0 +1,5 @@
+name = 'Subspace train'
+links.modrinth = 'https://modrinth.com/mod/subspace-train'
+categories = [
+	'tweaks/minecarts',
+]

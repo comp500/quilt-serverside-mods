@@ -1,0 +1,6 @@
+name = "Oak's Seed Drops Mod"
+links.modrinth = 'https://modrinth.com/mod/oaks-seed-drops'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]
+metadata.outdated = true

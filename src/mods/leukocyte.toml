@@ -1,0 +1,6 @@
+name = 'Leukocyte'
+links.modrinth = 'https://modrinth.com/mod/leukocyte'
+links.github = 'https://github.com/NucleoidMC/leukocyte/releases'
+categories = [
+	'claims-world-protection',
+]

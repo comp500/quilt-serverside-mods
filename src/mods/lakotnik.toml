@@ -1,0 +1,6 @@
+name = 'Lakotnik - Hunger Preview'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/lakotnik-hunger-preview'
+links.modrinth = 'https://modrinth.com/mod/lakotnik'
+categories = [
+	'utility',
+]

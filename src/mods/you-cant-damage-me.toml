@@ -1,0 +1,6 @@
+name = "You can't damage me!"
+links.modrinth = 'https://modrinth.com/mod/YouCantDamageMe'
+categories = [
+	'tweaks/combat',
+]
+metadata.outdated = true

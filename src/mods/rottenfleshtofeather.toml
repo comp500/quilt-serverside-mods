@@ -1,0 +1,6 @@
+name = 'Rotten Flesh to Feather'
+links.modrinth = 'https://modrinth.com/mod/rottenfleshtofeather'
+categories = [
+	'tweaks/crafting',
+]
+metadata.outdated = true

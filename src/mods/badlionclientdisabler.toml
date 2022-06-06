@@ -1,0 +1,5 @@
+name = 'Badlion Client Disabler'
+links.modrinth = 'https://modrinth.com/mod/badlionclientdisabler'
+categories = [
+	'server-management',
+]

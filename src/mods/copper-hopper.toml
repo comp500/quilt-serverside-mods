@@ -1,0 +1,5 @@
+name = 'Copper Hopper'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/copper-hopper'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

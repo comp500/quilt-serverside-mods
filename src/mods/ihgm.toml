@@ -1,0 +1,5 @@
+name = "I'm Here Get Moving"
+links.modrinth = 'https://modrinth.com/mod/ihgm'
+categories = [
+	'server-management',
+]

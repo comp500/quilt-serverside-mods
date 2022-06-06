@@ -1,0 +1,5 @@
+name = 'Hauling Hogs'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/hauling-hogs'
+categories = [
+	'tweaks/mobs',
+]

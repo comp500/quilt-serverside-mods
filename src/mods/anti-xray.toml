@@ -1,0 +1,5 @@
+name = 'AntiXray'
+links.modrinth = 'https://modrinth.com/mod/anti-xray'
+categories = [
+	'server-management/anticheat-anti-x-ray',
+]

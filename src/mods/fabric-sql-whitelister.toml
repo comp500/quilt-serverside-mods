@@ -1,0 +1,5 @@
+name = 'FabricSQLWhitelister'
+links.modrinth = 'https://modrinth.com/mod/fabric-sql-whitelister'
+categories = [
+	'server-management',
+]

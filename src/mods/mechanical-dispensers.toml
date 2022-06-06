@@ -1,0 +1,5 @@
+name = 'Mechanical Dispensers'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/mechanical-dispensers'
+categories = [
+	'tweaks/dispensers',
+]

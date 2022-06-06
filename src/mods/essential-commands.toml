@@ -1,0 +1,6 @@
+name = 'Essential Commands'
+links.modrinth = 'https://modrinth.com/mod/essential-commands'
+links.github = 'https://github.com/John-Paul-R/Essential-Commands'
+categories = [
+	'commands-chat',
+]

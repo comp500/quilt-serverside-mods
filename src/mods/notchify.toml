@@ -1,0 +1,6 @@
+name = 'Notchify'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/notchify'
+categories = [
+	'tweaks/new-game-mechanics',
+]
+metadata.outdated = true

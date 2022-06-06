@@ -1,0 +1,5 @@
+name = 'UnifiedMetrics'
+links.modrinth = 'https://modrinth.com/mod/unifiedmetrics'
+categories = [
+	'server-management/statistics-analytics',
+]

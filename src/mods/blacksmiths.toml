@@ -1,0 +1,5 @@
+name = 'Blacksmiths'
+links.modrinth = 'https://modrinth.com/mod/blacksmiths'
+categories = [
+	'npcs',
+]

@@ -1,0 +1,5 @@
+name = 'WorldBorderFix'
+links.modrinth = 'https://modrinth.com/mod/WorldBorderFix'
+categories = [
+	'bugfixes',
+]

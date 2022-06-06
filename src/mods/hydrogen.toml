@@ -1,0 +1,6 @@
+name = 'Hydrogen'
+links.modrinth = 'https://modrinth.com/mod/hydrogen'
+categories = [
+	'performance',
+]
+metadata.experimental = true

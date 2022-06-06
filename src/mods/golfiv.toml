@@ -1,0 +1,5 @@
+name = 'GolfIV'
+links.modrinth = 'https://modrinth.com/mod/golfiv'
+categories = [
+	'server-management/anticheat-anti-x-ray',
+]

@@ -1,0 +1,5 @@
+name = 'Experience Beacons for Carpet'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/experience-beacons-for-carpet'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

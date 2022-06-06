@@ -1,0 +1,7 @@
+name = 'Unsaddle Pigs'
+links.github = 'https://github.com/alkyaly/Unsaddleeeee'
+categories = [
+	'tweaks/mobs',
+]
+metadata.outdated = true
+metadata.abandoned = true

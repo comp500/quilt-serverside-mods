@@ -1,0 +1,5 @@
+name = 'No Teleport Cooldown'
+links.modrinth = 'https://modrinth.com/mod/no-teleport-cooldown'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

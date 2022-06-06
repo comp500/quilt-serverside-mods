@@ -1,0 +1,6 @@
+name = 'Random Server Icon'
+links.github = 'https://github.com/Amb0s/random-server-icon'
+categories = [
+	'server-management/server-list-modifications',
+]
+metadata.outdated = true

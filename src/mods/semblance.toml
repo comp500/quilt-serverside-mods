@@ -1,0 +1,5 @@
+name = 'Semblance'
+links.modrinth = 'https://modrinth.com/mod/semblance'
+categories = [
+	'server-management',
+]

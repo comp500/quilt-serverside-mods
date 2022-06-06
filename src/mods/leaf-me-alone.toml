@@ -1,0 +1,6 @@
+name = 'Leaf Me Alone'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/leaf-me-alone'
+categories = [
+	'utility/tree-leaf-removal-decay',
+]
+metadata.outdated = true

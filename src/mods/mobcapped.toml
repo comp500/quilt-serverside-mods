@@ -1,0 +1,6 @@
+name = 'MobCapped'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/mobcapped'
+categories = [
+	'tweaks/mobs',
+]
+metadata.outdated = true

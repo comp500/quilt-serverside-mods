@@ -1,0 +1,5 @@
+name = 'BetterLeads'
+links.modrinth = 'https://modrinth.com/mod/betterleads'
+categories = [
+	'tweaks/mobs',
+]

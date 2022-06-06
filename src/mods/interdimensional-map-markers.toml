@@ -1,0 +1,5 @@
+name = 'Interdimensional Map Markers'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/interdimensional-map-markers'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

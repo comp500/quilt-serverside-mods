@@ -1,0 +1,5 @@
+name = 'Leaf Decay'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/leaf-decay'
+categories = [
+	'utility/tree-leaf-removal-decay',
+]

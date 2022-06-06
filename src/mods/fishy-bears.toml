@@ -1,0 +1,5 @@
+name = 'Fishy Bears'
+links.modrinth = 'https://modrinth.com/mod/fishy-bears'
+categories = [
+	'tweaks/mobs',
+]

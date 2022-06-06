@@ -1,0 +1,5 @@
+name = 'TellMe'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/tellme'
+categories = [
+	'server-management',
+]

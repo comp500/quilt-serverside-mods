@@ -1,0 +1,6 @@
+name = 'ViaFabric'
+links.modrinth = 'https://modrinth.com/mod/viafabric'
+links.website = 'https://viaversion.com/fabric'
+categories = [
+	'server-management/protocol-tricks',
+]

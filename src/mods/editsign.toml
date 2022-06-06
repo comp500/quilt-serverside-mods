@@ -1,0 +1,5 @@
+name = 'EditSign'
+links.modrinth = 'https://modrinth.com/mod/editsign'
+categories = [
+	'utility',
+]

@@ -1,0 +1,5 @@
+name = 'SimpleChat - Chat mod for Fabric servers'
+links.modrinth = 'https://modrinth.com/mod/simplechat'
+categories = [
+	'commands-chat',
+]

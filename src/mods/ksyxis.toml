@@ -1,0 +1,5 @@
+name = 'Ksyxis'
+links.modrinth = 'https://modrinth.com/mod/ksyxis'
+categories = [
+	'performance/affects-behaviour',
+]

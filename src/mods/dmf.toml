@@ -1,0 +1,6 @@
+name = 'DiscordMinecraftFabric'
+links.modrinth = 'https://modrinth.com/mod/dmf'
+categories = [
+	'chat-linking/discord',
+]
+metadata.abandoned = true

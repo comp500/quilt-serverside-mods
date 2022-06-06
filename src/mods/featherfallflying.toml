@@ -1,0 +1,5 @@
+name = 'Feather Fall Flying'
+links.modrinth = 'https://modrinth.com/mod/featherfallflying'
+categories = [
+	'tweaks/enchanting-enchantments',
+]

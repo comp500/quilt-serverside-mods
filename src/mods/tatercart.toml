@@ -1,0 +1,5 @@
+name = 'TaterCart'
+links.modrinth = 'https://modrinth.com/mod/tatercart'
+categories = [
+	'tweaks/minecarts',
+]

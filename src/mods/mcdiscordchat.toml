@@ -1,0 +1,5 @@
+name = 'MCDiscordChat'
+links.modrinth = 'https://modrinth.com/mod/mcdiscordchat'
+categories = [
+	'chat-linking/discord',
+]

@@ -1,0 +1,5 @@
+name = 'FastDecay'
+links.modrinth = 'https://modrinth.com/mod/fastdecay'
+categories = [
+	'utility/tree-leaf-removal-decay',
+]

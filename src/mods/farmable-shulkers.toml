@@ -1,0 +1,6 @@
+name = 'Farmable Shulkers'
+links.modrinth = 'https://modrinth.com/mod/farmable-shulkers'
+categories = [
+	'tweaks/mobs',
+]
+metadata.outdated = true

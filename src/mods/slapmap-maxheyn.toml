@@ -1,0 +1,7 @@
+name = 'Slapmap (maxheyn fork)'
+links.github = 'https://github.com/maxheyn/slapmap'
+categories = [
+	'commands-chat',
+]
+metadata.outdated = true
+upstream = "slapmap"

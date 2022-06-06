@@ -1,0 +1,6 @@
+name = 'FastGrowth'
+links.modrinth = 'https://modrinth.com/mod/fastgrowth'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/fastgrowth'
+categories = [
+	'tweaks/new-game-mechanics',
+]

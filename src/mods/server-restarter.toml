@@ -1,0 +1,6 @@
+name = 'server-restarter'
+links.github = 'https://github.com/Tom-The-Geek/server-restarter'
+categories = [
+	'server-management',
+]
+metadata.outdated = true

@@ -1,0 +1,5 @@
+name = 'Kanaify'
+links.modrinth = 'https://modrinth.com/mod/kanaify'
+categories = [
+	'commands-chat',
+]

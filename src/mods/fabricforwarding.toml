@@ -1,0 +1,6 @@
+name = 'Fabric Forwarding'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/fabric-forwarding'
+links.modrinth = 'https://modrinth.com/mod/fabricforwarding'
+categories = [
+	'server-management/proxy-forwarding',
+]

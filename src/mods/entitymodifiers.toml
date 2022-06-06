@@ -1,0 +1,5 @@
+name = 'Entity Modifiers'
+links.modrinth = 'https://modrinth.com/mod/entitymodifiers'
+categories = [
+	'server-management/datapacks',
+]

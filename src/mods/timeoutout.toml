@@ -1,0 +1,5 @@
+name = 'TimeOut Out'
+links.modrinth = 'https://modrinth.com/mod/timeoutout'
+categories = [
+	'bugfixes',
+]

@@ -1,0 +1,6 @@
+name = 'StitchedSnow'
+links.modrinth = 'https://modrinth.com/mod/stitchedsnow'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/stitchedsnow'
+categories = [
+	'tweaks/new-game-mechanics',
+]

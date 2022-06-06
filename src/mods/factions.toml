@@ -1,0 +1,6 @@
+name = 'Factions'
+links.modrinth = 'https://modrinth.com/mod/factions'
+categories = [
+	'claims-world-protection',
+	'gamemodes-minigames',
+]

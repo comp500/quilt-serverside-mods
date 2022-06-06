@@ -1,0 +1,5 @@
+name = 'Replant Swamp Trees'
+links.modrinth = 'https://modrinth.com/mod/replant-swamp-trees'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

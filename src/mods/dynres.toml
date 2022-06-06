@@ -1,0 +1,6 @@
+name = 'DynRes'
+links.modrinth = 'https://modrinth.com/mod/dynres'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/dynres'
+categories = [
+	'server-management',
+]

@@ -1,0 +1,5 @@
+name = 'Set Bonuses'
+links.modrinth = 'https://modrinth.com/mod/set-bonuses'
+categories = [
+	'tweaks/combat',
+]

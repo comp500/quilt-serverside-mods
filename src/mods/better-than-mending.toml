@@ -1,0 +1,5 @@
+name = 'Better Than Mending'
+links.modrinth = 'https://modrinth.com/mod/better-than-mending'
+categories = [
+	'tweaks/enchanting-enchantments',
+]

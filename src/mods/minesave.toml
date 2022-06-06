@@ -1,0 +1,6 @@
+name = 'Minesave'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/minesave'
+categories = [
+	'server-management/backups',
+]
+metadata.outdated = true

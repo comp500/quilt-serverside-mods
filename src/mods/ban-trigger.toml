@@ -1,0 +1,5 @@
+name = 'Ban Trigger'
+links.modrinth = 'https://modrinth.com/mod/ban-trigger'
+categories = [
+	'server-management/logging-auditing',
+]

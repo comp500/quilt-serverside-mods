@@ -1,0 +1,5 @@
+name = 'Per Player Spawns'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/fabric-per-player-spawns'
+categories = [
+	'tweaks/mobs',
+]

@@ -1,0 +1,5 @@
+name = 'Entity View Distance'
+links.modrinth = 'https://modrinth.com/mod/entity-view-distance'
+categories = [
+	'performance/affects-behaviour',
+]

@@ -1,0 +1,5 @@
+name = 'Random Wool Sheep Drop'
+links.modrinth = 'https://modrinth.com/mod/random-wool-color-sheep-drop'
+categories = [
+	'tweaks/mobs',
+]

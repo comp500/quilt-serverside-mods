@@ -1,0 +1,5 @@
+name = 'Dance of Growth'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/dance-of-growth'
+categories = [
+	'tweaks/new-game-mechanics',
+]

@@ -1,0 +1,5 @@
+name = 'Servux'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/servux'
+categories = [
+	'server-management',
+]

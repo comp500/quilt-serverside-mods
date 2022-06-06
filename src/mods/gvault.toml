@@ -1,0 +1,7 @@
+name = 'GVault'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/gvault'
+links.modrinth = 'https://modrinth.com/mod/gvault'
+categories = [
+	'inventory',
+]
+metadata.outdated = true

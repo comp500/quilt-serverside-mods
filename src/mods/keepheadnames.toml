@@ -1,0 +1,5 @@
+name = 'Keep Head Names'
+links.modrinth = 'https://modrinth.com/mod/keepheadnames'
+categories = [
+	'bugfixes',
+]

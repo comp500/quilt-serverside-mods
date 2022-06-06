@@ -1,0 +1,5 @@
+name = 'Progression'
+links.github = 'https://github.com/maxheyn/progression'
+categories = [
+	'server-management',
+]

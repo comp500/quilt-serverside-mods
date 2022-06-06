@@ -1,0 +1,5 @@
+name = 'Independent Pets'
+links.modrinth = 'https://modrinth.com/mod/indypets'
+categories = [
+	'tweaks/mobs',
+]

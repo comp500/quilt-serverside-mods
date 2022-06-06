@@ -1,0 +1,5 @@
+name = 'Gamerulify'
+links.modrinth = 'https://modrinth.com/mod/gamerulify'
+categories = [
+	'server-management',
+]

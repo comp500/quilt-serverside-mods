@@ -1,0 +1,6 @@
+name = 'Server Ping'
+links.modrinth = 'https://modrinth.com/mod/serverping'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/serverping'
+categories = [
+	'server-management/server-list-modifications',
+]

@@ -1,0 +1,5 @@
+name = 'ModFest Utilities'
+links.github = 'https://github.com/ModFest/modfest-utilities'
+categories = [
+	'chat-linking/discord',
+]

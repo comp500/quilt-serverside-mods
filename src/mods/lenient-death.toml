@@ -1,0 +1,5 @@
+name = 'Lenient Death'
+links.modrinth = 'https://modrinth.com/mod/lenient-death'
+categories = [
+	'tweaks/graves-death',
+]

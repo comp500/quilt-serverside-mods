@@ -1,0 +1,5 @@
+name = 'Snowballs Hit Players'
+links.modrinth = 'https://modrinth.com/mod/snowballs-hit-players'
+categories = [
+	'tweaks/combat',
+]

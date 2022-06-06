@@ -1,0 +1,5 @@
+name = 'Expanded Weapon Enchanting'
+links.modrinth = 'https://modrinth.com/mod/expanded-weapon-enchanting'
+categories = [
+	'tweaks/enchanting-enchantments',
+]

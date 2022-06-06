@@ -1,0 +1,5 @@
+name = 'Gamemodes'
+links.modrinth = 'https://modrinth.com/mod/gamemodes'
+categories = [
+	'gamemodes-minigames',
+]

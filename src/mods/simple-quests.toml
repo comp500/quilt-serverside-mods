@@ -1,0 +1,5 @@
+name = 'Simple Quests'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/simple-quests'
+categories = [
+	'quests',
+]

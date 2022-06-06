@@ -1,0 +1,6 @@
+name = 'No Sneaking Over Magma!'
+links.modrinth = 'https://modrinth.com/mod/no-sneaking-over-magma'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/no-sneaking-over-magma'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

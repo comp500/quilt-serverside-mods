@@ -1,0 +1,5 @@
+name = 'Craftable Enchanted Golden Apple'
+links.modrinth = 'https://modrinth.com/mod/craftable-enchanted-golden-apple'
+categories = [
+	'tweaks/crafting',
+]

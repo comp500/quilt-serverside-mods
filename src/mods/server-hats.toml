@@ -1,0 +1,5 @@
+name = 'Server Hats'
+links.modrinth = 'https://modrinth.com/mod/server-hats'
+categories = [
+	'utility/cosmetic',
+]

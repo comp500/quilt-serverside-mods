@@ -1,0 +1,5 @@
+name = 'More Mob Drops'
+links.modrinth = 'https://modrinth.com/mod/more_mob_drops'
+categories = [
+	'tweaks/mobs',
+]

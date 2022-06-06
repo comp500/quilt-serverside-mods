@@ -1,0 +1,5 @@
+name = 'Snowy'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/snowy'
+categories = [
+	'tweaks/new-game-mechanics',
+]

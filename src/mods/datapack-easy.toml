@@ -1,0 +1,6 @@
+name = 'Datapack Easy'
+links.modrinth = 'https://modrinth.com/mod/datapack-easy'
+categories = [
+	'server-management/datapacks',
+]
+metadata.outdated = true

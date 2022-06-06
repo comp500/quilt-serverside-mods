@@ -1,0 +1,5 @@
+name = 'Beacons For All'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/beacons-for-all-fabric'
+categories = [
+	'tweaks/mobs',
+]

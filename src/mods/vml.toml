@@ -1,0 +1,5 @@
+name = 'Version Mod Loader'
+links.modrinth = 'https://modrinth.com/mod/vml'
+categories = [
+	'server-management',
+]

@@ -1,0 +1,5 @@
+name = 'Classic Beaches'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/classic-beaches'
+categories = [
+	'worldgen',
+]

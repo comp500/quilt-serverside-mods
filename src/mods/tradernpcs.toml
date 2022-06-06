@@ -1,0 +1,5 @@
+name = 'TraderNPCs'
+links.modrinth = 'https://modrinth.com/mod/tradernpcs'
+categories = [
+	'npcs',
+]

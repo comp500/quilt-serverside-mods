@@ -1,0 +1,6 @@
+name = 'Conditional Keep Inventory'
+links.modrinth = 'https://modrinth.com/mod/conditional_keep_inventory'
+categories = [
+	'tweaks/graves-death',
+	'inventory',
+]

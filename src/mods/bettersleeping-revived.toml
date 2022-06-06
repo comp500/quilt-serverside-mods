@@ -1,0 +1,5 @@
+name = 'BetterSleeping Revived'
+links.modrinth = 'https://modrinth.com/mod/bettersleeping-revived'
+categories = [
+	'utility/sleep',
+]

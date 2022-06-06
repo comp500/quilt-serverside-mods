@@ -1,0 +1,5 @@
+name = 'SlimyFloor'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/slimyfloor'
+categories = [
+	'tweaks/new-game-mechanics',
+]

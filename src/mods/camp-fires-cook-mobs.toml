@@ -1,0 +1,6 @@
+name = 'Camp Fires Cook Mobs'
+links.modrinth = 'https://modrinth.com/mod/camp-fires-cook-mobs'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/camp-fires-cook-mobs'
+categories = [
+	'tweaks/mobs',
+]

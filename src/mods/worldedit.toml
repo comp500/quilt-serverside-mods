@@ -1,0 +1,5 @@
+name = 'WorldEdit'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/worldedit'
+categories = [
+	'building',
+]

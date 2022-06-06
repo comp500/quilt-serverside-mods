@@ -1,0 +1,5 @@
+name = 'JLine for Dedicated Server'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/jline-for-minecraft-dedicated-server'
+categories = [
+	'server-management/console-logs',
+]

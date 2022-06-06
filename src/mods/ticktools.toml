@@ -1,0 +1,5 @@
+name = 'TickTools'
+links.modrinth = 'https://modrinth.com/mod/ticktools'
+categories = [
+	'performance/affects-behaviour',
+]

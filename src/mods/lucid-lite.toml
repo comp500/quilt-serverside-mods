@@ -1,0 +1,5 @@
+name = 'Lucid-lite'
+links.modrinth = 'https://modrinth.com/mod/lucid-lite'
+categories = [
+	'utility/sleep',
+]

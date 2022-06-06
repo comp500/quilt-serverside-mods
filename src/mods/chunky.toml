@@ -1,0 +1,6 @@
+name = 'Chunky Pregenerator'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator'
+links.modrinth = 'https://modrinth.com/mod/chunky'
+categories = [
+	'server-management/pregeneration',
+]

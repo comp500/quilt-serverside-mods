@@ -1,0 +1,5 @@
+name = 'Damage Incorporated'
+links.modrinth = 'https://modrinth.com/mod/damage-incorporated'
+categories = [
+	'tweaks/mobs',
+]

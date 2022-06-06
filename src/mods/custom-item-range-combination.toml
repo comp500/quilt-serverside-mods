@@ -1,0 +1,6 @@
+name = 'Custom Item Range Combination'
+links.modrinth = 'https://modrinth.com/mod/custom-item-range-combination'
+categories = [
+	'performance/affects-behaviour',
+]
+metadata.outdated = true

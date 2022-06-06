@@ -1,0 +1,5 @@
+name = 'Clumps'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/clumps'
+categories = [
+	'utility',
+]

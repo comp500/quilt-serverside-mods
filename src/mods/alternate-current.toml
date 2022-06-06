@@ -1,0 +1,5 @@
+name = 'Alternate Current'
+links.modrinth = 'https://modrinth.com/mod/alternate-current'
+categories = [
+	'performance/affects-behaviour',
+]

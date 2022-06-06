@@ -1,0 +1,5 @@
+name = 'Drogtor the Nickinator'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/drogtor'
+categories = [
+	'commands-chat',
+]

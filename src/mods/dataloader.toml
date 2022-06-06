@@ -1,0 +1,5 @@
+name = 'Data Loader (commander07 1.18 port)'
+links.modrinth = 'https://modrinth.com/mod/dataloader'
+categories = [
+	'server-management/datapacks',
+]

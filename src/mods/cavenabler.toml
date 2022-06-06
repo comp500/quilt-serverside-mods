@@ -1,0 +1,5 @@
+name = 'Cavenabler'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/cavenabler'
+categories = [
+	'worldgen',
+]

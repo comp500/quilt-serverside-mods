@@ -1,0 +1,6 @@
+name = 'EqualNBT'
+links.modrinth = 'https://modrinth.com/mod/equalnbt'
+categories = [
+	'commands-chat',
+]
+metadata.outdated = true

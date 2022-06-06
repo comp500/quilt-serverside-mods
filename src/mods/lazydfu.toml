@@ -1,0 +1,5 @@
+name = 'LazyDFU'
+links.modrinth = 'https://modrinth.com/mod/lazydfu'
+categories = [
+	'performance',
+]

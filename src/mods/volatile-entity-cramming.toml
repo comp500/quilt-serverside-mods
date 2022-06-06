@@ -1,0 +1,6 @@
+name = 'Volatile Entity Cramming'
+links.modrinth = 'https://modrinth.com/mod/volatile-entity-cramming'
+categories = [
+	'cursed',
+]
+metadata.outdated = true

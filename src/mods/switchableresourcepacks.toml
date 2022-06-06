@@ -1,0 +1,5 @@
+name = 'SwitchableResourcepacks'
+links.modrinth = 'https://modrinth.com/mod/switchableresourcepacks'
+categories = [
+	'server-management/resource-packs',
+]

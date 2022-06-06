@@ -1,0 +1,5 @@
+name = 'Keep The Rain'
+links.modrinth = 'https://modrinth.com/mod/keeptherain'
+categories = [
+	'utility/sleep',
+]

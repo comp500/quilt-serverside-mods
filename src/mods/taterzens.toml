@@ -1,0 +1,5 @@
+name = 'Taterzens'
+links.modrinth = 'https://modrinth.com/mod/Taterzens'
+categories = [
+	'npcs',
+]

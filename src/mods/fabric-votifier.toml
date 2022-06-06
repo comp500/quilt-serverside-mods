@@ -1,0 +1,5 @@
+name = 'Fabric-Votifier'
+links.github = 'https://github.com/DrexHD/Fabric-Votifier'
+categories = [
+	'server-management',
+]

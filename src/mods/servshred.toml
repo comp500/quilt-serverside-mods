@@ -1,0 +1,5 @@
+name = 'ServShred'
+links.modrinth = 'https://modrinth.com/mod/servshred'
+categories = [
+	'tweaks/new-game-mechanics',
+]

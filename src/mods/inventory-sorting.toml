@@ -1,0 +1,5 @@
+name = 'Inventory Sorting'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/inventory-sorting'
+categories = [
+	'inventory',
+]

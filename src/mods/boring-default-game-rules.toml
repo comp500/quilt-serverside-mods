@@ -1,0 +1,5 @@
+name = 'Boring Default Game Rules'
+links.modrinth = 'https://modrinth.com/mod/boring-default-game-rules'
+categories = [
+	'server-management/gamerules',
+]

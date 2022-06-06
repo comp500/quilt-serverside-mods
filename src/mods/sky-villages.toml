@@ -1,0 +1,5 @@
+name = 'Sky Villages'
+links.modrinth = 'https://modrinth.com/mod/sky-villages'
+categories = [
+	'worldgen',
+]

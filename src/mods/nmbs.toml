@@ -1,0 +1,5 @@
+name = 'No More Bleeding Sheep'
+links.modrinth = 'https://modrinth.com/mod/nmbs'
+categories = [
+	'tweaks/mobs',
+]

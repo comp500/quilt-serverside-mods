@@ -1,0 +1,5 @@
+name = 'CheaterDeleter'
+links.github = 'https://github.com/CoolMineman/CheaterDeleter'
+categories = [
+	'server-management/anticheat-anti-x-ray',
+]

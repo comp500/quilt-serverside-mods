@@ -1,0 +1,6 @@
+name = 'Very Many Players (Fabric)'
+links.modrinth = 'https://modrinth.com/mod/vmp-fabric'
+categories = [
+	'performance',
+]
+metadata.experimental = true

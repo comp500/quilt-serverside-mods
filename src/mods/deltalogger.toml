@@ -1,0 +1,7 @@
+name = 'DeltaLogger'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/deltalogger'
+categories = [
+	'server-management/logging-auditing',
+]
+metadata.outdated = true
+notes = 'supersedes WatchTower and BlockLogger'

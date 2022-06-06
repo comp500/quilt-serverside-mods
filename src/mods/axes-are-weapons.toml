@@ -1,0 +1,5 @@
+name = 'Axes Are Weapons'
+links.modrinth = 'https://modrinth.com/mod/axes-are-weapons'
+categories = [
+	'tweaks/combat',
+]

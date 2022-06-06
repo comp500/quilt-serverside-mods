@@ -1,0 +1,5 @@
+name = 'Wrangler'
+links.modrinth = 'https://modrinth.com/mod/wrangler'
+categories = [
+	'tweaks/mobs',
+]

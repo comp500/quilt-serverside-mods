@@ -1,0 +1,5 @@
+name = 'Styled Chat'
+links.modrinth = 'https://modrinth.com/mod/styled-chat'
+categories = [
+	'commands-chat',
+]

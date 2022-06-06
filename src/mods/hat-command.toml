@@ -1,0 +1,5 @@
+name = 'Hat command'
+links.github = 'https://github.com/AquUpd/hat-command'
+categories = [
+	'utility/cosmetic',
+]

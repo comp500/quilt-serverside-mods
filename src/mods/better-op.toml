@@ -1,0 +1,6 @@
+name = 'Better Op'
+links.modrinth = 'https://modrinth.com/mod/better-op'
+categories = [
+	'server-management/permissions-roles',
+]
+metadata.outdated = true

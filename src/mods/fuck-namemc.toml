@@ -1,0 +1,5 @@
+name = 'Fuck NameMC'
+links.github = 'https://github.com/LambdAurora/fuck_namemc'
+categories = [
+	'server-management',
+]

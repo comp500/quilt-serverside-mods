@@ -1,0 +1,6 @@
+name = 'BeaconFlight'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/beaconflight'
+categories = [
+	'tweaks/flight',
+]
+metadata.outdated = true

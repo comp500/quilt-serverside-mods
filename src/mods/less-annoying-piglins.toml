@@ -1,0 +1,6 @@
+name = 'Less Annoying Piglins'
+links.modrinth = 'https://modrinth.com/mod/less-annoying-piglins'
+categories = [
+	'tweaks/mobs',
+]
+metadata.outdated = true

@@ -1,0 +1,5 @@
+name = 'Horse Stonks'
+links.modrinth = 'https://modrinth.com/mod/horse-stonks'
+categories = [
+	'tweaks/mobs',
+]

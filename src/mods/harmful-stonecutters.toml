@@ -1,0 +1,5 @@
+name = 'Harmful Stonecutters'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/harmful-stonecutters'
+categories = [
+	'tweaks/new-game-mechanics',
+]

@@ -1,0 +1,5 @@
+name = 'Recipe Reshaper'
+links.modrinth = 'https://modrinth.com/mod/recipe-reshaper'
+categories = [
+	'tweaks/crafting',
+]

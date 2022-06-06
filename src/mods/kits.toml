@@ -1,0 +1,5 @@
+name = 'Kits'
+links.modrinth = 'https://modrinth.com/mod/kits'
+categories = [
+	'inventory',
+]

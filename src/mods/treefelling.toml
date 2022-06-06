@@ -1,0 +1,5 @@
+name = 'Tree Felling'
+links.modrinth = 'https://modrinth.com/mod/treefelling'
+categories = [
+	'utility/tree-leaf-removal-decay',
+]

@@ -1,0 +1,5 @@
+name = 'Sticky Elytra'
+links.modrinth = 'https://modrinth.com/mod/sticky-elytra'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

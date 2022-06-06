@@ -1,0 +1,5 @@
+name = 'Perfect Accuracy'
+links.modrinth = 'https://modrinth.com/mod/perfect-accuracy'
+categories = [
+	'tweaks/combat',
+]

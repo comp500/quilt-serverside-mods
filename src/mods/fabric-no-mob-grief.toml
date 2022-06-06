@@ -1,0 +1,5 @@
+name = 'FabricNoMobGrief'
+links.modrinth = 'https://modrinth.com/mod/FabricNoMobGrief'
+categories = [
+	'tweaks/mobs',
+]

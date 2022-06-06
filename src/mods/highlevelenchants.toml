@@ -1,0 +1,5 @@
+name = 'High Level Enchants'
+links.modrinth = 'https://modrinth.com/mod/highlevelenchants'
+categories = [
+	'tweaks/enchanting-enchantments',
+]

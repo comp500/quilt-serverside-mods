@@ -1,0 +1,5 @@
+name = 'Difficulty Tweaker'
+links.modrinth = 'https://modrinth.com/mod/difficultytweaker'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

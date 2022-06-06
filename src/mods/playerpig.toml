@@ -1,0 +1,5 @@
+name = 'PlayerPig'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/playerpig'
+categories = [
+	'tweaks/new-game-mechanics',
+]

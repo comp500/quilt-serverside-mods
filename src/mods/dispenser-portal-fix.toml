@@ -1,0 +1,7 @@
+name = 'Dispenser Portal Fix'
+links.modrinth = 'https://modrinth.com/mod/dispenser-portal-fix'
+categories = [
+	'bugfixes'
+]
+metadata.outdated = true
+notes = 'fixed by 1.16.5'

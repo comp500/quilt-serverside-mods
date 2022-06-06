@@ -1,0 +1,6 @@
+name = 'Cauldron Concrete'
+links.modrinth = 'https://modrinth.com/mod/cauldronconcrete'
+categories = [
+	'tweaks/cauldrons',
+]
+metadata.outdated = true

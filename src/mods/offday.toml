@@ -1,0 +1,5 @@
+name = 'Offline Daytime'
+links.modrinth = 'https://modrinth.com/mod/offday'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

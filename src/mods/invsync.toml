@@ -1,0 +1,5 @@
+name = 'InvSync'
+links.modrinth = 'https://modrinth.com/mod/invsync'
+categories = [
+	'inventory',
+]

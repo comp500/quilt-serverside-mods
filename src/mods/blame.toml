@@ -1,0 +1,5 @@
+name = 'Blame'
+links.modrinth = 'https://modrinth.com/mod/blame'
+categories = [
+	'server-management/profiling-debugging',
+]

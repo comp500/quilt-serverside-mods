@@ -1,0 +1,5 @@
+name = 'QChatLink'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/qchatlink'
+categories = [
+	'chat-linking/discord',
+]

@@ -1,0 +1,6 @@
+name = 'Discord Integration Fabric'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/dcintegration-fabric'
+links.modrinth = 'https://modrinth.com/mod/dcintegration'
+categories = [
+	'chat-linking/discord',
+]

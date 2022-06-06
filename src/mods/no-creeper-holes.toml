@@ -1,0 +1,5 @@
+name = 'No Creeper Holes!'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/no-creeper-holes'
+categories = [
+	'tweaks/mobs',
+]

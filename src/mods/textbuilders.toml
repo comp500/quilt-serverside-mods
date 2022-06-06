@@ -1,0 +1,5 @@
+name = 'Text Builders'
+links.modrinth = 'https://modrinth.com/mod/textbuilders'
+categories = [
+	'server-management/datapacks',
+]

@@ -1,0 +1,6 @@
+name = 'Snowball and Egg Knockback'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/snowball-and-egg-knockback-fabric'
+links.modrinth = 'https://modrinth.com/mod/snowball-and-egg-knockback'
+categories = [
+	'tweaks/combat',
+]

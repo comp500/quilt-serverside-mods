@@ -1,0 +1,6 @@
+name = 'NBT Crafting'
+links.modrinth = 'https://modrinth.com/mod/nbt-crafting'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/nbt-crafting'
+categories = [
+	'tweaks/crafting',
+]

@@ -1,0 +1,5 @@
+name = 'Polypack Host'
+links.modrinth = 'https://modrinth.com/mod/polypack_host'
+categories = [
+	'server-management/resource-packs',
+]

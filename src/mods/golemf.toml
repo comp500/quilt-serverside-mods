@@ -1,0 +1,5 @@
+name = 'GolemF'
+links.github = 'https://github.com/StoneLabs/golemf'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

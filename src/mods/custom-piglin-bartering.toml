@@ -1,0 +1,6 @@
+name = 'Custom Piglin Bartering'
+links.modrinth = 'https://modrinth.com/mod/custom-piglin-bartering'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/custom-piglin-bartering'
+categories = [
+	'tweaks/mobs',
+]

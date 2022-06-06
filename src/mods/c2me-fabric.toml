@@ -1,0 +1,7 @@
+name = 'C2ME'
+links.modrinth = 'https://modrinth.com/mod/c2me-fabric'
+links.github = 'https://github.com/RelativityMC/C2ME-fabric'
+categories = [
+	'performance/affects-behaviour',
+]
+metadata.experimental = true

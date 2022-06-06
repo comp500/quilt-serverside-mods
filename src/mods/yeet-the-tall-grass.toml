@@ -1,0 +1,5 @@
+name = 'Yeet The Tall Grass!'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/yeet-the-tall-grass'
+categories = [
+	'worldgen',
+]

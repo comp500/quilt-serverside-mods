@@ -1,0 +1,5 @@
+name = 'Crowmap'
+links.modrinth = 'https://modrinth.com/mod/crowmap'
+categories = [
+	'utility',
+]

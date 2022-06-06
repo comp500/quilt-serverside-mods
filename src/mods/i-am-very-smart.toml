@@ -1,0 +1,6 @@
+name = 'I Am Very Smart'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/i-am-very-smart'
+categories = [
+	'utility',
+]
+metadata.outdated = true

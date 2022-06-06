@@ -1,0 +1,6 @@
+name = 'Fabric Death Messages'
+links.modrinth = 'https://modrinth.com/mod/death-messages'
+categories = [
+	'commands-chat',
+]
+metadata.outdated = true

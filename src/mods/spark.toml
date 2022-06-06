@@ -1,0 +1,6 @@
+name = 'Spark'
+links.modrinth = 'https://modrinth.com/mod/spark'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/spark'
+categories = [
+	'server-management/profiling-debugging',
+]

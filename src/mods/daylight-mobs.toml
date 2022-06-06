@@ -1,0 +1,6 @@
+name = 'Daylight Mobs'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/daylight-mobs'
+categories = [
+	'tweaks/mobs',
+]
+metadata.outdated = true

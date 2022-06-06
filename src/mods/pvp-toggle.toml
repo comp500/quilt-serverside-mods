@@ -1,0 +1,5 @@
+name = 'PvP toggle'
+links.github = 'https://github.com/manyrandomthings/pvp-toggle'
+categories = [
+	'tweaks/combat',
+]

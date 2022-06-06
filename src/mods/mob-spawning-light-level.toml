@@ -1,0 +1,5 @@
+name = 'Mob Spawning Light Level'
+links.modrinth = 'https://modrinth.com/mod/mob-spawning-light-level'
+categories = [
+	'tweaks/mobs',
+]

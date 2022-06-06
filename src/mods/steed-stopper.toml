@@ -1,0 +1,5 @@
+name = 'Steed Stopper'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/steed-stopper'
+categories = [
+	'tweaks/mobs',
+]

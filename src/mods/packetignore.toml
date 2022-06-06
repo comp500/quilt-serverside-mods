@@ -1,0 +1,6 @@
+name = 'PacketIgnore'
+links.modrinth = 'https://modrinth.com/mod/packetignore'
+categories = [
+	'cursed',
+]
+metadata.outdated = true

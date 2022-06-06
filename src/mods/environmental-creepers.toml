@@ -1,0 +1,5 @@
+name = 'Environmental Creepers'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/environmental-creepers'
+categories = [
+	'tweaks/mobs',
+]

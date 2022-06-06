@@ -1,0 +1,5 @@
+name = 'simplehat'
+links.github = 'https://github.com/PotatoPresident/simplehat'
+categories = [
+	'utility/cosmetic',
+]

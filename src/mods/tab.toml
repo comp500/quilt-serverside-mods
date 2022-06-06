@@ -1,0 +1,5 @@
+name = 'Fabric Tab List'
+links.modrinth = 'https://modrinth.com/mod/tab'
+categories = [
+	'server-management/tab-list-modifications',
+]

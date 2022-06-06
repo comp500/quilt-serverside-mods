@@ -1,0 +1,6 @@
+name = 'Dispenser Cauldron'
+links.modrinth = 'https://modrinth.com/mod/fabric-dispenser-cauldron'
+categories = [
+	'tweaks/cauldrons',
+	'tweaks/dispensers',
+]

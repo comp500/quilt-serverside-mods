@@ -1,0 +1,5 @@
+name = 'Strains of Ascension'
+links.github = 'https://github.com/StoneLabs/strains-of-ascension'
+categories = [
+	'tweaks/new-game-mechanics',
+]

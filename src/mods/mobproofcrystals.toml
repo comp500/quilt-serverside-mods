@@ -1,0 +1,5 @@
+name = 'Mob proof crystals'
+links.modrinth = 'https://modrinth.com/mod/mobproofcrystals'
+categories = [
+	'tweaks/mobs',
+]

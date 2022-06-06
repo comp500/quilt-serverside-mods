@@ -1,0 +1,6 @@
+name = 'Burninator'
+links.modrinth = 'https://modrinth.com/mod/burninator'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]
+metadata.outdated = true

@@ -1,0 +1,6 @@
+name = 'Playtime Tracker'
+links.modrinth = 'https://modrinth.com/mod/playtime-tracker'
+categories = [
+	'utility',
+]
+metadata.outdated = true

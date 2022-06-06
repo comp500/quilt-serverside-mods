@@ -1,0 +1,5 @@
+name = 'TomsServerUtils'
+links.modrinth = 'https://modrinth.com/mod/toms-server-utils'
+categories = [
+	'chat-linking/discord',
+]

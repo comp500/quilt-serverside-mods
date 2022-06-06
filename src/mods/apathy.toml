@@ -1,0 +1,5 @@
+name = 'Apathy'
+links.modrinth = 'https://modrinth.com/mod/apathy'
+categories = [
+	'tweaks/mobs',
+]

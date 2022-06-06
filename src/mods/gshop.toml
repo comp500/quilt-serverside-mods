@@ -1,0 +1,7 @@
+name = 'GShop'
+links.modrinth = 'https://modrinth.com/mod/gshop'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/gshop'
+categories = [
+	'economy-shops',
+]
+metadata.outdated = true

@@ -1,0 +1,5 @@
+name = 'TrampleDisabler'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/trampledisabler-fabric'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

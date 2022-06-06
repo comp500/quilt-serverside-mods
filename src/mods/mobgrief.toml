@@ -1,0 +1,5 @@
+name = 'mobgrief'
+links.modrinth = 'https://modrinth.com/mod/mobgrief'
+categories = [
+	'tweaks/mobs',
+]

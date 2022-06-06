@@ -1,0 +1,6 @@
+name = "Ueaj's Graves"
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/ueajs-graves'
+categories = [
+	'tweaks/graves-death',
+]
+metadata.outdated = true

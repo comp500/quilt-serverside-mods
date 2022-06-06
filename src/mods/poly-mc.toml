@@ -1,0 +1,5 @@
+name = 'PolyMc'
+links.github = 'https://github.com/TheEpicBlock/PolyMc'
+categories = [
+	'server-management/protocol-tricks',
+]

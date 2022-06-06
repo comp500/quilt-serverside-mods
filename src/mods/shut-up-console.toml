@@ -1,0 +1,6 @@
+name = 'Shut Up Console'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/shut-up-console'
+categories = [
+	'server-management/console-logs',
+]
+metadata.outdated = true

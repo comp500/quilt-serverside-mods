@@ -1,0 +1,5 @@
+name = 'FilledToTheBrim'
+links.modrinth = 'https://modrinth.com/mod/filledtothebrim'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

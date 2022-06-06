@@ -1,0 +1,5 @@
+name = 'Snowy Trees'
+links.modrinth = 'https://modrinth.com/mod/snowy-trees'
+categories = [
+	'tweaks/new-game-mechanics',
+]

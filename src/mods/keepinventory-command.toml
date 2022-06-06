@@ -1,0 +1,7 @@
+name = 'keepinventory-command'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/keepinventory-command'
+categories = [
+	'tweaks/graves-death',
+	'inventory',
+]
+metadata.outdated = true

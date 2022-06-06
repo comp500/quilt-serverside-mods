@@ -1,0 +1,5 @@
+name = 'DisableJoinLeaveMessage'
+links.github = 'https://github.com/voruti/DisableJoinLeaveMessage'
+categories = [
+	'commands-chat/join-messages-motd',
+]

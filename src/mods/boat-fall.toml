@@ -1,0 +1,5 @@
+name = 'Boat Fall'
+links.modrinth = 'https://modrinth.com/mod/boat-fall'
+categories = [
+	'bugfixes',
+]

@@ -1,0 +1,5 @@
+name = 'Froggy Flies'
+links.modrinth = 'https://modrinth.com/mod/froggyflies'
+categories = [
+	'utility/cosmetic',
+]

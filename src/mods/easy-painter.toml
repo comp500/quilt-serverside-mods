@@ -1,0 +1,5 @@
+name = 'Easy Painter'
+links.modrinth = 'https://modrinth.com/mod/easy_painter'
+categories = [
+	'utility',
+]

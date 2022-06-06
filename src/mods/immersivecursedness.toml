@@ -1,0 +1,5 @@
+name = 'Immersive Cursedness'
+links.modrinth = 'https://modrinth.com/mod/immersivecursedness'
+categories = [
+	'utility/cosmetic',
+]

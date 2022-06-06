@@ -1,0 +1,6 @@
+name = 'Bedrock Breaking'
+links.modrinth = 'https://modrinth.com/mod/bedrockbreaking'
+categories = [
+	'cursed',
+]
+metadata.outdated = true

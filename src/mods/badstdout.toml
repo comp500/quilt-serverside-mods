@@ -1,0 +1,5 @@
+name = 'BadStdOut'
+links.modrinth = 'https://modrinth.com/mod/badstdout'
+categories = [
+	'server-management/console-logs',
+]

@@ -1,0 +1,6 @@
+name = 'Scarpet Os Utils'
+links.modrinth = 'https://modrinth.com/mod/scarpet-os-utils'
+categories = [
+	'server-management',
+]
+metadata.outdated = true

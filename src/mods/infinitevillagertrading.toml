@@ -1,0 +1,6 @@
+name = 'InfiniteVillagerTrading'
+links.modrinth = 'https://modrinth.com/mod/infinitevillagertrading'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/infinitevillagertrading'
+categories = [
+	'tweaks/villagers',
+]

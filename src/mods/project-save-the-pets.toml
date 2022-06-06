@@ -1,0 +1,6 @@
+name = 'Project: Save the Pets!'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/project-save-the-pets'
+links.modrinth = 'https://modrinth.com/mod/projectsavethepets'
+categories = [
+	'tweaks/mobs',
+]

@@ -1,0 +1,6 @@
+name = 'Schwarz'
+links.modrinth = 'https://modrinth.com/mod/schwarz'
+categories = [
+	'server-management/profiling-debugging',
+]
+metadata.outdated = true

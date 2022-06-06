@@ -1,0 +1,6 @@
+name = 'Mob Filter'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/mob-filter'
+links.modrinth = 'https://modrinth.com/mod/mobfilter'
+categories = [
+	'tweaks/mobs',
+]

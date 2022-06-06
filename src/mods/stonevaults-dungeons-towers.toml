@@ -1,0 +1,5 @@
+name = 'Stonevaults, Dungeons & Towers'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/stonevaults-dungeons-towers'
+categories = [
+	'worldgen',
+]

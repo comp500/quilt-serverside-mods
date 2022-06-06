@@ -1,0 +1,5 @@
+name = 'Polydex'
+links.modrinth = 'https://modrinth.com/mod/polydex'
+categories = [
+	'utility',
+]

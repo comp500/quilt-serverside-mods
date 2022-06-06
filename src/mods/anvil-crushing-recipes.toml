@@ -1,0 +1,6 @@
+name = 'Anvil Crushing Recipes'
+links.modrinth = 'https://modrinth.com/mod/anvil-crushing-recipes'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/anvil-crushing-recipes'
+categories = [
+	'tweaks/crafting',
+]

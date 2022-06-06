@@ -1,0 +1,6 @@
+name = 'Textile Backup'
+links.modrinth = 'https://modrinth.com/mod/textile_backup'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/textile-backup'
+categories = [
+	'server-management/backups',
+]

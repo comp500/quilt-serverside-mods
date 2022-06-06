@@ -1,0 +1,6 @@
+name = 'MatterLink'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/matterlink'
+categories = [
+	'chat-linking/matterbridge',
+]
+metadata.outdated = true

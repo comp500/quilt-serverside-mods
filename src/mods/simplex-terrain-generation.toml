@@ -1,0 +1,6 @@
+name = 'Simplex Terrain Generation'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/simplex-terrain-generation'
+categories = [
+	'worldgen',
+]
+metadata.outdated = true

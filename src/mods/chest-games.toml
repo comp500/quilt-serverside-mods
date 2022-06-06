@@ -1,0 +1,5 @@
+name = 'Chest Games'
+links.modrinth = 'https://modrinth.com/mod/chest-games'
+categories = [
+	'gamemodes-minigames',
+]

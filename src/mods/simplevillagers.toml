@@ -1,0 +1,6 @@
+name = 'SimpleVillagers'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/simplevillagers'
+links.modrinth = 'https://modrinth.com/mod/simplevillagers'
+categories = [
+	'tweaks/villagers',
+]

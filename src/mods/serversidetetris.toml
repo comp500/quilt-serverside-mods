@@ -1,0 +1,5 @@
+name = 'Server Side Tetris'
+links.modrinth = 'https://modrinth.com/mod/serversidetetris'
+categories = [
+	'gamemodes-minigames',
+]

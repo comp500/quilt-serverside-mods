@@ -1,0 +1,5 @@
+name = 'CyanSetHome'
+links.modrinth = 'https://modrinth.com/mod/cyansethome'
+categories = [
+	'commands-chat/teleportation-homes',
+]

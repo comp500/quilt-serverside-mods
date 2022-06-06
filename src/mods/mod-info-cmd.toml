@@ -1,0 +1,6 @@
+name = 'Mod Info Command'
+links.modrinth = 'https://modrinth.com/mod/mod-info-cmd'
+categories = [
+	'commands-chat',
+]
+metadata.outdated = true

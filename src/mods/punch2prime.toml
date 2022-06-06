@@ -1,0 +1,6 @@
+name = 'Punch2Prime'
+links.modrinth = 'https://modrinth.com/mod/punch2prime'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/punch2prime'
+categories = [
+	'tweaks/new-game-mechanics',
+]

@@ -1,0 +1,7 @@
+name = 'Smooth Bedrock by Blayyke'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/smoothbedrock-by-blayyke'
+links.modrinth = 'https://modrinth.com/mod/smoothbedrock-by-blayyke'
+categories = [
+	'worldgen',
+]
+metadata.abandoned = true

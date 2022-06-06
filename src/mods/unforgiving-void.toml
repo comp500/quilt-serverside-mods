@@ -1,0 +1,6 @@
+name = 'Unforgiving Void'
+links.modrinth = 'https://modrinth.com/mod/unforgiving-void'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/unforgiving-void'
+categories = [
+	'tweaks/new-game-mechanics',
+]

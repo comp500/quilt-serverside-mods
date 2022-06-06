@@ -1,0 +1,6 @@
+name = 'Swamp Oak Redux'
+links.modrinth = 'https://modrinth.com/mod/swamp-oak-redux'
+categories = [
+	'worldgen',
+]
+metadata.outdated = true

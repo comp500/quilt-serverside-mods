@@ -1,0 +1,5 @@
+name = 'Terralith ~ Overworld Evolved'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/terralith'
+categories = [
+	'worldgen',
+]

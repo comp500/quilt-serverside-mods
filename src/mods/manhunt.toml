@@ -1,0 +1,7 @@
+name = 'Manhunt'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/manhunt-fabric'
+links.modrinth = 'https://modrinth.com/mod/manhunt'
+categories = [
+	'gamemodes-minigames',
+]
+metadata.outdated = true

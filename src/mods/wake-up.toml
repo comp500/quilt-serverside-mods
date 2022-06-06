@@ -1,0 +1,6 @@
+name = 'Wake Up'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/wake-up'
+categories = [
+	'utility/sleep',
+]
+metadata.outdated = true

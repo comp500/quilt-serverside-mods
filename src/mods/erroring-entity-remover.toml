@@ -1,0 +1,6 @@
+name = 'Erroring Entity Remover'
+links.modrinth = 'https://modrinth.com/mod/erroring-entity-remover'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/erroring-entity-remover'
+categories = [
+	'server-management',
+]

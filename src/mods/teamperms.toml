@@ -1,0 +1,7 @@
+name = 'TeamPerms'
+links.modrinth = 'https://modrinth.com/mod/teamperms'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/teamperms'
+categories = [
+	'server-management/permissions-roles',
+]
+metadata.outdated = true

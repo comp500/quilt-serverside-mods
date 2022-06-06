@@ -1,0 +1,7 @@
+name = 'QuickCarpet'
+links.modrinth = 'https://modrinth.com/mod/quickcarpet'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/quickcarpet'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+	'tweaks/new-game-mechanics',
+]

@@ -1,0 +1,5 @@
+name = 'Cauldron Fix'
+links.modrinth = 'https://modrinth.com/mod/cauldron-fix'
+categories = [
+	'tweaks/cauldrons',
+]

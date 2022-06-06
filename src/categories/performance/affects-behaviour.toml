@@ -1,0 +1,2 @@
+name = 'Affects behaviour'
+notes = 'These mods make significant changes that may impact behaviour in-game, or reduce the work done (e.g. ticking, chunk loading) by the server. Technical servers may not want to use these.'

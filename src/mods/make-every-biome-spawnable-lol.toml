@@ -1,0 +1,6 @@
+name = 'Make Every Biome Spawnable Lol'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/make-every-biome-spawnable-lol'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]
+metadata.outdated = true

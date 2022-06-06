@@ -1,0 +1,5 @@
+name = 'slashdiscord'
+links.modrinth = 'https://modrinth.com/mod/slashdiscord'
+categories = [
+	'commands-chat',
+]

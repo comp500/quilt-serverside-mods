@@ -1,0 +1,5 @@
+name = 'Bed Benefits'
+links.modrinth = 'https://modrinth.com/mod/bed-benefits-fabric'
+categories = [
+	'utility/sleep',
+]

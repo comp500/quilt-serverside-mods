@@ -1,0 +1,5 @@
+name = 'Server Backpacks'
+links.modrinth = 'https://modrinth.com/mod/servback'
+categories = [
+	'tweaks/new-game-mechanics',
+]

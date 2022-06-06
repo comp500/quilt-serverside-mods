@@ -1,0 +1,5 @@
+name = 'Spice of Fabric'
+links.modrinth = 'https://modrinth.com/mod/spice-of-fabric'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

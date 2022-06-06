@@ -1,0 +1,6 @@
+name = 'Trample Stopper'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/trample-stopper-fabric'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]
+metadata.outdated = true

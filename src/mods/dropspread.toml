@@ -1,0 +1,5 @@
+name = 'Drop Spread'
+links.modrinth = 'https://modrinth.com/mod/dropspread'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

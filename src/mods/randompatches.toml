@@ -1,0 +1,7 @@
+name = 'RandomPatches'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric'
+links.modrinth = 'https://modrinth.com/mod/randompatches'
+categories = [
+	'performance',
+]
+metadata.outdated = true

@@ -1,0 +1,5 @@
+name = 'Hardened Crops'
+links.modrinth = 'https://modrinth.com/mod/hardened-crops'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

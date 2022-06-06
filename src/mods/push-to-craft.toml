@@ -1,0 +1,5 @@
+name = 'Push To Craft'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/push-to-craft'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

@@ -1,0 +1,6 @@
+name = 'DatChat'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/datchat'
+categories = [
+	'chat-linking/discord',
+]
+metadata.outdated = true

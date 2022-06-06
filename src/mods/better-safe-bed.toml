@@ -1,0 +1,5 @@
+name = 'Better Safe Bed'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/better-safe-bed'
+categories = [
+	'utility/sleep',
+]

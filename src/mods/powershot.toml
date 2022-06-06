@@ -1,0 +1,5 @@
+name = 'Powershot'
+links.modrinth = 'https://modrinth.com/mod/powershot'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

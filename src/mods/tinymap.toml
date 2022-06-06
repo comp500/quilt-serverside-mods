@@ -1,0 +1,6 @@
+name = 'TinyMap'
+links.github = 'https://github.com/comp500/tinymap/'
+categories = [
+	'web-maps',
+]
+metadata.outdated = true

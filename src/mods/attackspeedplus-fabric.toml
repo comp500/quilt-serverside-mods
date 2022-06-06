@@ -1,0 +1,5 @@
+name = 'AttackSpeedPlus'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/attackspeedplus-fabric'
+categories = [
+	'tweaks/combat',
+]

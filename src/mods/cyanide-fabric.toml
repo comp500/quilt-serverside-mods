@@ -1,0 +1,5 @@
+name = 'Cyanide'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/cyanide-fabric'
+categories = [
+	'server-management/console-logs',
+]

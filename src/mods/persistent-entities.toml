@@ -1,0 +1,5 @@
+name = 'persistent entities'
+links.modrinth = 'https://modrinth.com/mod/persistent-entities'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

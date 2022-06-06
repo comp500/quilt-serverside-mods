@@ -1,0 +1,6 @@
+name = 'Configured Keep Inventory'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/configured-keep-inventory'
+categories = [
+	'tweaks/graves-death',
+	'inventory',
+]

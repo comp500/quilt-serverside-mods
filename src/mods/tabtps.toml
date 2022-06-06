@@ -1,0 +1,6 @@
+name = 'TabTPS'
+links.modrinth = 'https://modrinth.com/mod/tabtps'
+categories = [
+	'commands-chat',
+	'server-management/tab-list-modifications',
+]

@@ -1,0 +1,5 @@
+name = 'MC-7569 Fix'
+links.github = 'https://github.com/ChloeDawn/mc7569-fix'
+categories = [
+	'bugfixes',
+]

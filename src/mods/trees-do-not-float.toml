@@ -1,0 +1,6 @@
+name = 'Trees Do Not Float'
+links.modrinth = 'https://modrinth.com/mod/trees-do-not-float'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/trees-do-not-float'
+categories = [
+	'utility/tree-leaf-removal-decay',
+]

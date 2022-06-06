@@ -1,0 +1,6 @@
+name = 'Falling Tree'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/falling-tree'
+links.modrinth = 'https://modrinth.com/mod/fallingtree'
+categories = [
+	'utility/tree-leaf-removal-decay',
+]

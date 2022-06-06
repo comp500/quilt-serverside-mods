@@ -1,0 +1,6 @@
+name = 'Extension'
+links.modrinth = 'https://modrinth.com/mod/ext'
+categories = [
+	'tweaks/new-game-mechanics',
+	'commands-chat',
+]

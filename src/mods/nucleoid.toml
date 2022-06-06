@@ -1,0 +1,5 @@
+name = 'Nucleoid'
+links.github = 'https://github.com/NucleoidMC'
+categories = [
+	'gamemodes-minigames',
+]

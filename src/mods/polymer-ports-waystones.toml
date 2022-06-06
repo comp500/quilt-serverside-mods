@@ -1,0 +1,5 @@
+name = 'Waystones (Polymer Port)'
+links.modrinth = 'https://modrinth.com/mod/polymer-ports-waystones'
+categories = [
+	'tweaks/new-game-mechanics',
+]

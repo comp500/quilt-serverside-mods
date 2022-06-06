@@ -1,0 +1,6 @@
+name = 'Villager See, Villager Do'
+links.modrinth = 'https://modrinth.com/mod/villager-see-villager-do'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/villager-see-villager-do'
+categories = [
+	'tweaks/villagers',
+]

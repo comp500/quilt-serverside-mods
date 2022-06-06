@@ -1,0 +1,5 @@
+name = 'ParadoxSlabs'
+links.modrinth = 'https://modrinth.com/mod/paradox-slabs'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

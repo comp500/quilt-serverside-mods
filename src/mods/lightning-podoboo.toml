@@ -1,0 +1,5 @@
+name = 'Lightning Podoboo'
+links.modrinth = 'https://modrinth.com/mod/lightning-podoboo'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

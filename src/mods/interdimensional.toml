@@ -1,0 +1,6 @@
+name = 'Interdimensional'
+links.modrinth = 'https://modrinth.com/mod/interdimensional'
+categories = [
+	'commands-chat/teleportation-homes',
+	'server-management/multiworld-dimensions',
+]

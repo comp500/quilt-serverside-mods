@@ -1,0 +1,6 @@
+name = 'Krypton'
+links.modrinth = 'https://modrinth.com/mod/krypton'
+links.github = 'https://github.com/astei/krypton'
+categories = [
+	'performance',
+]

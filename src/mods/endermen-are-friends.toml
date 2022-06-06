@@ -1,0 +1,5 @@
+name = 'Endermen are Friends'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/endermen-are-friends'
+categories = [
+	'tweaks/mobs',
+]

@@ -1,0 +1,6 @@
+name = 'Always Drop Loot'
+links.modrinth = 'https://modrinth.com/mod/always-drop-loot'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/always-drop-loot'
+categories = [
+	'tweaks/mobs',
+]

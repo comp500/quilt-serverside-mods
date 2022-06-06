@@ -1,0 +1,7 @@
+name = 'Carpet Extra'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/carpet-extra'
+categories = [
+	'bugfixes',
+	'tweaks/game-mechanics-tweaks',
+	'tweaks/new-game-mechanics',
+]

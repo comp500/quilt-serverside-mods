@@ -1,0 +1,5 @@
+name = 'Simple Right Click Harvest'
+links.modrinth = 'https://modrinth.com/mod/rch'
+categories = [
+	'utility',
+]

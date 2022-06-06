@@ -1,0 +1,5 @@
+name = 'Freezma'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/freezma'
+categories = [
+	'tweaks/combat',
+]

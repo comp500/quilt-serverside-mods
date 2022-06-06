@@ -1,0 +1,6 @@
+name = 'Unlimited Dragon Eggs'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/unlimited-dragon-eggs-fabric'
+links.modrinth = 'https://modrinth.com/mod/unlimited-dragon-eggs'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

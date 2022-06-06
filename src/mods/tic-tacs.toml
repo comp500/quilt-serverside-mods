@@ -1,0 +1,7 @@
+name = 'Tic-TACS'
+links.github = 'https://github.com/Gegy/tic-tacs'
+categories = [
+	'performance/affects-behaviour',
+]
+metadata.experimental = true
+metadata.abandoned = true

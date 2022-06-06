@@ -1,0 +1,6 @@
+name = 'Infinity Water Bucket'
+links.modrinth = 'https://modrinth.com/mod/infinity-water-bucket'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/infinity-water-bucket'
+categories = [
+	'tweaks/new-game-mechanics',
+]

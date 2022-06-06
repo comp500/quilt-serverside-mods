@@ -1,0 +1,5 @@
+name = 'Roll'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/roll-fabric'
+categories = [
+	'commands-chat',
+]

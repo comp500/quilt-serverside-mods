@@ -1,0 +1,6 @@
+name = 'Geyser-Fabric'
+links.github = 'https://github.com/GeyserMC/Geyser-Fabric'
+links.website = 'https://wiki.geysermc.org/other/geyser-fabric/'
+categories = [
+	'server-management/protocol-tricks',
+]

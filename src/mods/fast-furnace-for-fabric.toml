@@ -1,0 +1,5 @@
+name = 'Fast Furnace for Fabric'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric'
+categories = [
+	'performance',
+]

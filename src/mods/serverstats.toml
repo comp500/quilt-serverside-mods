@@ -1,0 +1,5 @@
+name = 'ServerStats'
+links.modrinth = 'https://modrinth.com/mod/serverstats'
+categories = [
+	'server-management/statistics-analytics',
+]

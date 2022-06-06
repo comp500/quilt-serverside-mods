@@ -1,0 +1,5 @@
+name = 'Improved Mobs'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/improved-mobs-fabric'
+categories = [
+	'tweaks/mobs',
+]

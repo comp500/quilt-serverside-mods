@@ -1,0 +1,6 @@
+name = 'Lucid'
+links.modrinth = 'https://modrinth.com/mod/lucid'
+categories = [
+	'utility/sleep',
+]
+metadata.outdated = true

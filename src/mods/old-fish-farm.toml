@@ -1,0 +1,6 @@
+name = 'Old Fish Farm'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/old-fish-farm'
+categories = [
+	'tweaks/fishing',
+]
+metadata.outdated = true

@@ -1,0 +1,6 @@
+name = 'MC-198678 Fix'
+links.github = 'https://github.com/Fallen-Breath/mc-198678-fix'
+categories = [
+	'bugfixes',
+]
+notes = 'fixed by 1.16.3'

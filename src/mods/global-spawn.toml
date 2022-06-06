@@ -1,0 +1,6 @@
+name = 'GlobalSpawn'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/globalspawn'
+links.modrinth = 'https://modrinth.com/mod/GlobalSpawn'
+categories = [
+	'commands-chat',
+]

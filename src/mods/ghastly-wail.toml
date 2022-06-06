@@ -1,0 +1,6 @@
+name = 'Ghastly Wail'
+links.modrinth = 'https://modrinth.com/mod/ghastly-wail'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/ghastly-wail'
+categories = [
+	'tweaks/new-game-mechanics',
+]

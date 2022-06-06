@@ -1,0 +1,5 @@
+name = 'Lightning Prevention'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/lightning-prevention'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

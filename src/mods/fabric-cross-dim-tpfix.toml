@@ -1,0 +1,5 @@
+name = 'FabricCrossDimTPFix'
+links.modrinth = 'https://modrinth.com/mod/FabricCrossDimTPFix'
+categories = [
+	'bugfixes',
+]

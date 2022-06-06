@@ -1,0 +1,5 @@
+name = 'SpawnProtectionTweaks'
+links.modrinth = 'https://modrinth.com/mod/spawn-protection-tweaks'
+categories = [
+	'claims-world-protection',
+]

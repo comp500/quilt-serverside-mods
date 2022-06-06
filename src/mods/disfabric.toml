@@ -1,0 +1,5 @@
+name = 'DisFabric'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/disfabric'
+categories = [
+	'chat-linking/discord',
+]

@@ -1,0 +1,5 @@
+name = 'Expanded Armor Enchanting'
+links.modrinth = 'https://modrinth.com/mod/expanded-armor-enchanting'
+categories = [
+	'tweaks/enchanting-enchantments',
+]

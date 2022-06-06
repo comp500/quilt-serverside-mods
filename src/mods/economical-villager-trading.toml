@@ -1,0 +1,6 @@
+name = 'Economical Villager Trading'
+links.modrinth = 'https://modrinth.com/mod/economical-villager-trading'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/economical-villager-trading'
+categories = [
+	'tweaks/villagers',
+]

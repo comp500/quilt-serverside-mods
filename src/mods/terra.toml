@@ -1,0 +1,5 @@
+name = 'Terra'
+links.modrinth = 'https://modrinth.com/mod/terra'
+categories = [
+	'worldgen',
+]

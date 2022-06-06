@@ -1,0 +1,5 @@
+name = 'Horizonal Portals'
+links.modrinth = 'https://modrinth.com/mod/horizontalportals'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

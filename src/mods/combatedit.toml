@@ -1,0 +1,5 @@
+name = 'CombatEdit'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/combatedit'
+categories = [
+	'tweaks/combat',
+]

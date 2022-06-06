@@ -1,0 +1,5 @@
+name = 'Get Off My Lawn ReServed'
+links.modrinth = 'https://modrinth.com/mod/goml-reserved'
+categories = [
+	'claims-world-protection',
+]

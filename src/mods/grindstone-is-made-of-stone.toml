@@ -1,0 +1,5 @@
+name = 'Grindstone Is Made Of Stone'
+links.modrinth = 'https://modrinth.com/mod/grindstone-is-made-of-stone'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

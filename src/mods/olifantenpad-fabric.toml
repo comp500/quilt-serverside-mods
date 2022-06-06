@@ -1,0 +1,6 @@
+name = 'Olifantenpad'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/olifantenpad-fabric'
+categories = [
+	'tweaks/new-game-mechanics',
+]
+metadata.abandoned = true

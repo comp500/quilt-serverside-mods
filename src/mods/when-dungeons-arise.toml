@@ -1,0 +1,6 @@
+name = 'When Dungeons Arise'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric'
+links.modrinth = 'https://modrinth.com/mod/when-dungeons-arise'
+categories = [
+	'worldgen',
+]

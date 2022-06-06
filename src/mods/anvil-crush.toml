@@ -1,0 +1,5 @@
+name = 'Anvil Crush'
+links.modrinth = 'https://modrinth.com/mod/anvil-crush'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

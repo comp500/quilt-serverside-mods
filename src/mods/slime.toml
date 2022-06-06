@@ -1,0 +1,5 @@
+name = 'Slime'
+links.modrinth = 'https://modrinth.com/mod/slime'
+categories = [
+	'commands-chat',
+]

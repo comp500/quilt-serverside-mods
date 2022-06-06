@@ -1,0 +1,6 @@
+name = 'Falling Block Tweaks'
+links.modrinth = 'https://modrinth.com/mod/fallingblocktweaks'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]
+metadata.outdated = true

@@ -1,0 +1,5 @@
+name = 'Gastrolimital Bypass'
+links.modrinth = 'https://modrinth.com/mod/no_player_limit'
+categories = [
+	'server-management',
+]

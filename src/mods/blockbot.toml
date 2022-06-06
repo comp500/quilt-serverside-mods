@@ -1,0 +1,5 @@
+name = 'BlockBot'
+links.modrinth = 'https://modrinth.com/mod/blockbot'
+categories = [
+	'chat-linking/discord',
+]

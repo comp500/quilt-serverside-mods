@@ -1,0 +1,6 @@
+name = 'Inv View'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/inv-view'
+links.modrinth = 'https://modrinth.com/mod/invview'
+categories = [
+	'inventory',
+]

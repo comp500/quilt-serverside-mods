@@ -1,0 +1,5 @@
+name = 'Regional Chat'
+links.modrinth = 'https://modrinth.com/mod/regional-chat'
+categories = [
+	'commands-chat',
+]

@@ -1,0 +1,5 @@
+name = 'MixinTrace'
+links.modrinth = 'https://modrinth.com/mod/mixintrace'
+categories = [
+	'server-management/profiling-debugging',
+]

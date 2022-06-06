@@ -1,0 +1,5 @@
+name = 'Cooperative Advancements'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/cooperative-advancements-fabric'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

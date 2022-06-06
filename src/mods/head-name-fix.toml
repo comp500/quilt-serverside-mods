@@ -1,0 +1,5 @@
+name = 'Head Name Fix'
+links.github = 'https://github.com/manyrandomthings/head-name-fix'
+categories = [
+	'bugfixes',
+]

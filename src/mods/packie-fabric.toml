@@ -1,0 +1,5 @@
+name = 'Packie'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/packie-fabric'
+categories = [
+	'server-management/datapacks',
+]

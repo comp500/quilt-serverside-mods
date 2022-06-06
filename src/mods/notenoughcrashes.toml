@@ -1,0 +1,5 @@
+name = 'Not Enough Crashes'
+links.modrinth = 'https://modrinth.com/mod/notenoughcrashes'
+categories = [
+	'server-management/console-logs',
+]

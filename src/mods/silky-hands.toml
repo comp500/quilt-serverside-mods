@@ -1,0 +1,5 @@
+name = 'Silky hands'
+links.modrinth = 'https://modrinth.com/mod/silky-hands'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

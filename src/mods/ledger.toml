@@ -1,0 +1,6 @@
+name = 'Ledger'
+links.modrinth = 'https://modrinth.com/mod/ledger'
+categories = [
+	'server-management/logging-auditing',
+]
+notes = 'supersedes DeltaLogger'

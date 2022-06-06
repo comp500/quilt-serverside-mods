@@ -1,0 +1,5 @@
+name = 'Vanessence'
+links.modrinth = 'https://modrinth.com/mod/vanessence'
+categories = [
+	'tweaks/new-game-mechanics',
+]

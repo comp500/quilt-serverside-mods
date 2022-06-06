@@ -1,0 +1,5 @@
+name = 'Mechanical Factory'
+links.modrinth = 'https://modrinth.com/mod/mechafact'
+categories = [
+	'tweaks/new-game-mechanics',
+]

@@ -1,0 +1,6 @@
+name = 'Day Dream'
+links.modrinth = 'https://modrinth.com/mod/day-dream'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/day-dream'
+categories = [
+	'utility/sleep',
+]

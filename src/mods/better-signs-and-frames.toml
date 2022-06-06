@@ -1,0 +1,6 @@
+name = 'Better Signs & Frames'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames'
+links.modrinth = 'https://modrinth.com/mod/better-signs'
+categories = [
+	'utility',
+]

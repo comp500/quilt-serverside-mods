@@ -1,0 +1,6 @@
+name = 'Stream Participation'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/stream-participation'
+categories = [
+	'chat-linking/twitch',
+]
+notes = 'links bit donations to mcfunctions'

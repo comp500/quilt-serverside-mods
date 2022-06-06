@@ -1,0 +1,5 @@
+name = 'Victorian Gewgaws'
+links.modrinth = 'https://modrinth.com/mod/victorian-gewgaws'
+categories = [
+	'tweaks/new-game-mechanics',
+]

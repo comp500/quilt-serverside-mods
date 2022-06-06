@@ -1,0 +1,5 @@
+name = 'ProtoSky'
+links.modrinth = 'https://modrinth.com/mod/protosky'
+categories = [
+	'worldgen',
+]

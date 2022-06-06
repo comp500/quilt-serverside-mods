@@ -1,0 +1,5 @@
+name = 'Fatal Blow'
+links.modrinth = 'https://modrinth.com/mod/fatal-blow'
+categories = [
+	'tweaks/mobs',
+]

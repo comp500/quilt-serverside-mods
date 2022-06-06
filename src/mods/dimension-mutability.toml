@@ -1,0 +1,6 @@
+name = 'Dimension Mutability'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/dimension-mutability'
+categories = [
+	'bugfixes',
+]
+metadata.outdated = true

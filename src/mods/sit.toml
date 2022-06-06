@@ -1,0 +1,5 @@
+name = 'FabricSit'
+links.modrinth = 'https://modrinth.com/mod/sit'
+categories = [
+	'tweaks/new-game-mechanics',
+]

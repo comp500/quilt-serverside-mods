@@ -1,0 +1,5 @@
+name = 'Fabrilous Updater'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater'
+categories = [
+	'server-management',
+]

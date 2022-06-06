@@ -1,0 +1,5 @@
+name = 'Stoneholm'
+links.modrinth = 'https://modrinth.com/mod/stoneholm'
+categories = [
+	'worldgen',
+]

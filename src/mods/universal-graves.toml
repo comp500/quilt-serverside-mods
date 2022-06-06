@@ -1,0 +1,5 @@
+name = 'Universal Graves'
+links.modrinth = 'https://modrinth.com/mod/universal-graves'
+categories = [
+	'tweaks/graves-death',
+]

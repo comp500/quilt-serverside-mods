@@ -1,0 +1,5 @@
+name = 'Blastproof Netherite'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/blastproof-netherite'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

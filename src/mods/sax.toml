@@ -1,0 +1,6 @@
+name = 'Simple Anti X-ray (SAX)'
+links.modrinth = 'https://modrinth.com/mod/sax'
+categories = [
+	'server-management/anticheat-anti-x-ray',
+]
+metadata.outdated = true

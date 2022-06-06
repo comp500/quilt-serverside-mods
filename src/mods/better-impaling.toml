@@ -1,0 +1,5 @@
+name = 'Better Impaling'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/better-impaling'
+categories = [
+	'tweaks/enchanting-enchantments',
+]

@@ -1,0 +1,5 @@
+name = 'Girlbossed'
+links.modrinth = 'https://modrinth.com/mod/girlbossed'
+categories = [
+	'commands-chat',
+]

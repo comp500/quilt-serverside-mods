@@ -1,0 +1,5 @@
+name = 'Never Tick Alone'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/never-tick-alone'
+categories = [
+	'server-management',
+]

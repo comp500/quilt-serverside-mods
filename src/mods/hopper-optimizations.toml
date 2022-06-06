@@ -1,0 +1,7 @@
+name = 'hopperOptimizations'
+links.github = 'https://github.com/2No2Name/hopperOptimizations'
+categories = [
+	'performance',
+]
+metadata.outdated = true
+notes = 'requires lithium fork'

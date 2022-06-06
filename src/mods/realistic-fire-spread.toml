@@ -1,0 +1,5 @@
+name = 'Realistic Fire Spread'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/realistic-fire-spread'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]

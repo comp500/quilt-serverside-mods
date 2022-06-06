@@ -1,0 +1,6 @@
+name = 'Neutral Mobs'
+links.modrinth = 'https://modrinth.com/mod/neutral-mobs'
+categories = [
+	'tweaks/mobs',
+]
+metadata.outdated = true

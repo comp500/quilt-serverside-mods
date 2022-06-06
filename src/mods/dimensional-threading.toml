@@ -1,0 +1,6 @@
+name = 'DimensionalThreading'
+links.github = 'https://github.com/WearBlackAllDay/DimensionalThreading'
+categories = [
+	'performance/affects-behaviour',
+]
+metadata.experimental = true

@@ -1,0 +1,6 @@
+name = 'Disable Portals'
+links.modrinth = 'https://modrinth.com/mod/disable-portals'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]
+metadata.outdated = true

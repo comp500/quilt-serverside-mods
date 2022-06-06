@@ -1,0 +1,5 @@
+name = 'AntiShulkerDupe'
+links.modrinth = 'https://modrinth.com/mod/antishulkerdupe'
+categories = [
+	'bugfixes',
+]
