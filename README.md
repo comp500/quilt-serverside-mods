@@ -717,7 +717,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Stonevaults, Dungeons & Towers](https://www.curseforge.com/minecraft/mc-mods/stonevaults-dungeons-towers)
 - [Yeet The Tall Grass!](https://www.curseforge.com/minecraft/mc-mods/yeet-the-tall-grass)
 - [Vanilla+ Biomes](https://www.curseforge.com/minecraft/mc-mods/vanilla-biomes) (incorrect biome colors when not on client)
-- [Smooth Bedrock by bkayyke](https://modrinth.com/mod/smoothbedrock-by-blayyke) (archived)
+- [Smooth Bedrock by Blayyke](https://modrinth.com/mod/smoothbedrock-by-blayyke) (archived)
 - [Struct Plus](https://modrinth.com/mod/structplus) (outdated)
 - [Swamp Oak Redux](https://modrinth.com/mod/swamp-oak-redux) (outdated)
 - [Upstream](https://www.curseforge.com/minecraft/mc-mods/upstream-fabric) (untested) (outdated)
