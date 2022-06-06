@@ -40,7 +40,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [DimensionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading) (experimental)
 - [Custom Item Range Combination](https://modrinth.com/mod/custom-item-range-combination) (outdated)
 - [Overworld Two](https://www.curseforge.com/minecraft/mc-mods/overworld-two) (outdated)
-- [Tic-TACS](https://github.com/Gegy/tic-tacs) (experimental, abandoned)
+- [Tic-TACS](https://github.com/Gegy/tic-tacs) (experimental) (abandoned)
 
 ## Bugfixes
 - [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
@@ -86,7 +86,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 
 ### Cosmetic
 - [Villager Names](https://modrinth.com/mod/villager-names) (untested)
-- [Immersive Cursedness](https://modrinth.com/mod/lyiXgXNm)
+- [Immersive Cursedness](https://modrinth.com/mod/immersivecursedness)
 - [Server Hats](https://modrinth.com/mod/server-hats)
 - [simplehat](https://github.com/PotatoPresident/simplehat)
 - [Hat command](https://github.com/AquUpd/hat-command)
@@ -113,7 +113,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Better Safe Bed](https://www.curseforge.com/minecraft/mc-mods/better-safe-bed)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
 - [SleepWarp](https://www.curseforge.com/minecraft/mc-mods/sleep-warp)
-- [Lucid](https://www.modrinth.com/mod/lucid) (outdated)
+- [Lucid](https://modrinth.com/mod/lucid) (outdated)
 - [Hypnos](https://modrinth.com/mod/hypnos) (outdated)
 - [Wake Up](https://www.curseforge.com/minecraft/mc-mods/wake-up) (outdated)
 - [SleepPunisher](https://www.curseforge.com/minecraft/mc-mods/sleeppunisher) (outdated)
@@ -146,7 +146,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Expanded Trident Enchanting](https://modrinth.com/mod/expanded-trident-enchanting)
 - [Better Than Mending](https://modrinth.com/mod/better-than-mending)
 - [Unbreakable Enchantment](https://modrinth.com/mod/unbreakable)
-- [Grind Enchantments](https://modrinth.com/mod/WC4UgDcZ)
+- [Grind Enchantments](https://modrinth.com/mod/grind-enchantments)
 - [High Level Enchants](https://modrinth.com/mod/highlevelenchants)
 - [Overpowered Mending](https://modrinth.com/mod/overpoweredmending)
 - [Feather Fall Flying](https://modrinth.com/mod/featherfallflying)
@@ -206,7 +206,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Neutral Mobs](https://modrinth.com/mod/neutral-mobs) (outdated)
 - [Creepers Burn](https://modrinth.com/mod/CreepersBurn) (outdated)
 - [Farmable Shulkers](https://modrinth.com/mod/farmable-shulkers) (outdated)
-- [Less Annoying Piglins](https://modrinth.com/mod/OhCCsdMD) (untested) (outdated)
+- [Less Annoying Piglins](https://modrinth.com/mod/less-annoying-piglins) (untested) (outdated)
 - [Unsaddle Pigs](https://github.com/alkyaly/Unsaddleeeee) (outdated)
 - [Stop Strider Suffering](https://github.com/alkyaly/Stop-Strider-Suffering) (outdated)
 - [No Ambient Mobs](https://www.curseforge.com/minecraft/mc-mods/no-ambient-mobs) (outdated)
@@ -484,7 +484,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [RandomTP](https://modrinth.com/mod/randomtp)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
 - [Lapis Warps](https://www.curseforge.com/minecraft/mc-mods/lapis-warps)
-- [QuickHomes](https://www.curseforge.com/minecraft/mc-mods/quickhomes/)
+- [QuickHomes](https://www.curseforge.com/minecraft/mc-mods/quickhomes)
 - [QuickTeleports](https://www.curseforge.com/minecraft/mc-mods/quickteleports)
 - [Random Teleport](https://www.curseforge.com/minecraft/mc-mods/random-teleport) (outdated)
 - [FabriKommander](https://www.curseforge.com/minecraft/mc-mods/fabrikommander) (outdated)
@@ -583,7 +583,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
 - [BadStdOut](https://modrinth.com/mod/badstdout)
 - [Clean Logs](https://modrinth.com/mod/clean-logs) (fork of Shut Up Console)
-- [Anonymize](https://github.com/NucleoidMC/anonymize/releases/)
+- [Anonymize](https://github.com/NucleoidMC/anonymize)
 - [JLine for Dedicated Server](https://www.curseforge.com/minecraft/mc-mods/jline-for-minecraft-dedicated-server)
 - [Fabric Console](https://www.curseforge.com/minecraft/mc-mods/fabric-console)
 - [mclo.gs](https://www.curseforge.com/minecraft/mc-mods/mclo-gs)
@@ -609,7 +609,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Server Ping](https://modrinth.com/mod/serverping)
 - [MiniMOTD](https://modrinth.com/mod/minimotd)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
-- [Random Server Icon](https://github.com/Amb0s/random-server-icon/releases) (outdated)
+- [Random Server Icon](https://github.com/Amb0s/random-server-icon) (outdated)
 
 ### Tab List modifications
 - [Fabric Tab List](https://modrinth.com/mod/tab)
@@ -644,7 +644,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 ### Protocol tricks - Cross-version/edition compatibility, resource packs for client-required mods
 - [ViaFabric](https://modrinth.com/mod/viafabric)
 - [Geyser-Fabric](https://wiki.geysermc.org/other/geyser-fabric/)
-- [PolyMc](https://github.com/TheEpicBlock/PolyMc/releases)
+- [PolyMc](https://github.com/TheEpicBlock/PolyMc)
 
 ### Statistics/Analytics
 - [UnifiedMetrics](https://modrinth.com/mod/unifiedmetrics)
@@ -735,7 +735,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 
 ## Web Maps
 - [BlueMap](https://modrinth.com/mod/bluemap)
-- [Dynmap](https://www.curseforge.com/minecraft/mc-mods/dynmapforge/files/all)
+- [Dynmap](https://www.curseforge.com/minecraft/mc-mods/dynmapforge)
 - [TinyMap](https://github.com/comp500/tinymap/) (outdated)
 
 ## NPCs
