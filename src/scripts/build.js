@@ -1,5 +1,8 @@
 const fs = require("fs").promises;
+const stream = require("stream").promises;
 const TOML = require("@ltd/j-toml");
+const { createWriteStream } = require("fs");
+const { Readable } = require("stream");
 
 async function* getMods() {
 	for (const ent of await fs.readdir("../mods", { withFileTypes: true })) {
@@ -38,22 +41,22 @@ async function* getCategories() {
 	}
 }
 
-(async () => {
+function compareBool(a, b) {
+	if (a == b) {
+		return 0;
+	} else if (a) {
+		return 1;
+	} else {
+		return -1;
+	}
+}
+
+async function* generateReadme() {
 	const mods = {};
 	const modsList = [];
 	for await (const [slug, mod] of getMods()) {
 		mods[slug] = mod;
 		modsList.push(mod);
-	}
-
-	function compareBool(a, b) {
-		if (a == b) {
-			return 0;
-		} else if (a) {
-			return 1;
-		} else {
-			return -1;
-		}
 	}
 
 	// TODO: sort by some measure of popularity
@@ -70,7 +73,7 @@ async function* getCategories() {
 		return cmp;
 	});
 
-	console.log(`# Quilt Server-side Mods
+	yield `# Quilt Server-side Mods
 
 This is a list of server-side mods for the Quilt modloader; including many Fabric mods (which are compatible with Quilt) and some Quilt-only mods. Wondering what Quilt is? It's a new modloader, compatible with the vast majority of Fabric mods; see [the FAQ page here](https://quiltmc.org/about/faq/)!
 Feel free to submit a Pull Request if you find a server side Quilt/Fabric mod not listed here.
@@ -78,13 +81,13 @@ Feel free to submit a Pull Request if you find a server side Quilt/Fabric mod no
 Also see [Optifine Alternatives](https://lambdaurora.dev/optifine_alternatives/) for a few useful client side only mods!
 
 Mods on this list are marked as outdated when they are *two* major Minecraft versions old - e.g. if 1.16 is the latest version, 1.14 and older mods are considered outdated.
-`);
+`;
 
 	for await (const [slug, category] of getCategories()) {
-		console.log("#".repeat((slug.match(/\//g)||[]).length + 2) + " " + category.name);
+		yield "#".repeat((slug.match(/\//g)||[]).length + 2) + " " + category.name;
 		if (category.notes !== undefined) {
-			console.log(category.notes);
-			console.log();
+			yield category.notes;
+			yield "";
 		}
 
 		for (const mod of modsList) {
@@ -112,18 +115,23 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 				let tagsStr = tags.map(t => ` (${t})`).join("");
 
 				if (mod.links.modrinth !== undefined) {
-					console.log(`- [${mod.name}](${mod.links.modrinth})${tagsStr}`);
+					yield `- [${mod.name}](${mod.links.modrinth})${tagsStr}`;
 				} else if (mod.links.curseforge !== undefined) {
-					console.log(`- [${mod.name}](${mod.links.curseforge})${tagsStr}`);
+					yield `- [${mod.name}](${mod.links.curseforge})${tagsStr}`;
 				} else if (mod.links.github !== undefined) {
-					console.log(`- [${mod.name}](${mod.links.github})${tagsStr}`);
+					yield `- [${mod.name}](${mod.links.github})${tagsStr}`;
 				} else {
-					console.log(`- ${mod.name}${tagsStr}`);
+					yield `- ${mod.name}${tagsStr}`;
 				}
 				
 			}
 		}
 
-		console.log();
+		yield "";
 	}
+}
+
+(async () => {
+	const readmeStream = createWriteStream("../../README.md");
+	stream.pipeline(generateReadme(), src => Readable.from(src).map(line => line + "\n"), readmeStream);
 })();
