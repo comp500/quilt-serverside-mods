@@ -4,4 +4,4 @@ categories = [
 	'performance',
 ]
 metadata.outdated = true
-notes = 'requires lithium fork'
+notes = 'requires Lithium fork'
