@@ -1,0 +1,5 @@
+name = 'Colorful Anvils'
+links.modrinth = 'https://www.curseforge.com/minecraft/mc-mods/colorful-anvils'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]
