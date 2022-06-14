@@ -50,7 +50,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 |ModFest Utilities|[Github](https://github.com/ModFest/modfest-utilities)||
 |QChatLink|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/qchatlink)||
 |TomsServerUtils|[Modrinth](https://modrinth.com/mod/toms-server-utils)||
-|Fabric2Discord|[Modrinth](https://modrinth.com/mod/fabric2discord) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric2discord)||
 |DatChat|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/datchat)|outdated|
 |Discord Fabric Whitelister|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/discord-fabric-whitelister)|outdated|
 |Discord-Fabric Link|[Github](https://github.com/HeyItsMeNobody/discordfabriclink)|outdated|
@@ -527,7 +526,6 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 |-|-|-|
 |Anvil Crush|[Modrinth](https://modrinth.com/mod/anvil-crush)||
 |Anvil Fix|[Modrinth](https://modrinth.com/mod/anvil-fix) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/anvil-fix)|works best with client mod installed|
-|Colorful Anvils|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/colorful-anvils)||
 |Bedrock Destroyer|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/bedrock-destroyer)||
 |Better Beacon / Conduit|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-beacon)||
 |Better Nether Map|[Modrinth](https://modrinth.com/mod/better-nether-map)||
