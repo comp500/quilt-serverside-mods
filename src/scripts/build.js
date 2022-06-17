@@ -136,7 +136,7 @@ async function* generateModsTables(modsList, mods) {
 	}
 }
 
-async function generateReadme(filter) {
+async function generateReadme(page) {
 	const mods = {};
 	let modsList = [];
 	for await (const [slug, mod] of getMods()) {
@@ -158,8 +158,8 @@ async function generateReadme(filter) {
 		return cmp;
 	});
 
-	if (filter !== undefined) {
-		modsList = modsList.filter(filter);
+	for (const [i, filterList] of Object.values(filters).entries()) {
+		modsList = modsList.filter(filterList[page[i]][1]);
 	}
 
 	return html`
@@ -169,21 +169,73 @@ Feel free to submit a Pull Request if you find a server side Quilt/Fabric mod no
 <p>Also see <a href="https://lambdaurora.dev/optifine_alternatives/">Optifine Alternatives</a> for a few useful client side only mods!</p>
 <p>Mods on this list are marked as outdated when they are <em>two</em> major Minecraft versions old - e.g. if 1.16 is the latest version, 1.14 and older mods are considered outdated.</p>
 
-<p>${modsList.length} mods in this list! Filter: <a href="/">All</a> <a href="/modrinth/">Available from Modrinth</a> <a href="/curseforge/">Available from CurseForge</a></p>
+<p>${modsList.length} mods in this list!${await collect(filterLinks(page))}</p>
+
+<hr>
 
 ${await collect(generateModsTables(modsList, mods))}
 	`;
 }
 
-(async () => {
-	await fs.mkdir("dist", { recursive: true });
-	const readmeStream = createWriteStream("dist/index.html");
-	render(readmeStream, await generateReadme()).end();
+let filters = {
+	"Available from:": {
+		"any": ["Any", mod => true],
+		"modrinth": ["Modrinth", mod => mod.links.modrinth !== undefined],
+		"curseforge": ["CurseForge", mod => mod.links.curseforge !== undefined],
+	},
+	"Status:": {
+		"any": ["Any", mod => true],
+		"updated": ["Up to date", mod => mod.metadata === undefined || mod.metadata.outdated === undefined],
+		"outdated": ["Outdated", mod => mod.metadata !== undefined && mod.metadata.outdated],
+	}
+};
 
-	await fs.mkdir("dist/modrinth", { recursive: true });
-	const readmeStreamModrinth = createWriteStream("dist/modrinth/index.html");
-	render(readmeStreamModrinth, await generateReadme(mod => mod.links.modrinth !== undefined)).end();
-	await fs.mkdir("dist/curseforge", { recursive: true });
-	const readmeStreamCF = createWriteStream("dist/curseforge/index.html");
-	render(readmeStreamCF, await generateReadme(mod => mod.links.curseforge !== undefined)).end();
+async function* filterLinks(page) {
+	let filterTypes = Object.keys(filters);
+	for (const [i, type] of filterTypes.entries()) {
+		yield " ";
+		yield type;
+		for (const [slug, [name, filter]] of Object.entries(filters[type])) {
+			yield " ";
+			if (page[i] == slug) {
+				yield name;
+			} else {
+				let newPage = page.slice();
+				newPage[i] = slug;
+				let link = `/${newPage.join("/")}/`;
+				if (newPage.every(s => s == "any")) {
+					link = "/";
+				}
+				yield html`<a href=${link}>${name}</a>`;
+			}
+		}
+	}
+}
+
+async function createPage(page) {
+	let pathPage = page;
+	if (page.every(s => s == "any")) {
+		pathPage = [];
+	}
+	await fs.mkdir(["dist", ...pathPage].join("/"), { recursive: true });
+	const readmeStream = createWriteStream(["dist", ...pathPage, "index.html"].join("/"));
+	// TODO: asyncify?
+	render(readmeStream, await generateReadme(page)).end();
+}
+
+async function createPages(page, i) {
+	const filterLists = Object.values(filters);
+	if (i >= filterLists.length) {
+		await createPage(page);
+	} else {
+		for (const slug of Object.keys(filterLists[i])) {
+			let newPage = page.slice();
+			newPage.push(slug);
+			createPages(newPage, i + 1);
+		}
+	}
+}
+
+(async () => {
+	await createPages([], 0);
 })();
