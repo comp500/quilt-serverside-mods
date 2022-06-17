@@ -112,28 +112,7 @@ ${modsList.map(mod => {
 </table>`;
 }
 
-async function* generateModsTables() {
-	const mods = {};
-	const modsList = [];
-	for await (const [slug, mod] of getMods()) {
-		mods[slug] = mod;
-		modsList.push(mod);
-	}
-
-	// TODO: sort by some measure of popularity
-
-	modsList.sort((a, b) => {
-		// Abandoned mods last, then outdated, then experimental
-		let cmp = compareBool(a.metadata?.abandoned ?? false, b.metadata?.abandoned ?? false);
-		if (cmp == 0) {
-			cmp = compareBool(a.metadata?.outdated ?? false, b.metadata?.outdated ?? false);
-			if (cmp == 0) {
-				cmp = compareBool(a.metadata?.experimental ?? false, b.metadata?.experimental ?? false);
-			}
-		}
-		return cmp;
-	});
-
+async function* generateModsTables(modsList, mods) {
 	for await (const [slug, category] of getCategories()) {
 		switch ((slug.match(/\//g)||[]).length) {
 			case 0:
@@ -157,7 +136,32 @@ async function* generateModsTables() {
 	}
 }
 
-async function generateReadme() {
+async function generateReadme(filter) {
+	const mods = {};
+	let modsList = [];
+	for await (const [slug, mod] of getMods()) {
+		mods[slug] = mod;
+		modsList.push(mod);
+	}
+
+	// TODO: sort by some measure of popularity
+
+	modsList.sort((a, b) => {
+		// Abandoned mods last, then outdated, then experimental
+		let cmp = compareBool(a.metadata?.abandoned ?? false, b.metadata?.abandoned ?? false);
+		if (cmp == 0) {
+			cmp = compareBool(a.metadata?.outdated ?? false, b.metadata?.outdated ?? false);
+			if (cmp == 0) {
+				cmp = compareBool(a.metadata?.experimental ?? false, b.metadata?.experimental ?? false);
+			}
+		}
+		return cmp;
+	});
+
+	if (filter !== undefined) {
+		modsList = modsList.filter(filter);
+	}
+
 	return html`
 <h1>Quilt Server-side Mods</h1>
 <p>This is a list of server-side mods for the Quilt modloader; including many Fabric mods (which are compatible with Quilt) and some Quilt-only mods. Wondering what Quilt is? It&#39;s a new modloader, compatible with the vast majority of Fabric mods; see <a href="https://quiltmc.org/about/faq/">the FAQ page here</a>!
@@ -165,7 +169,9 @@ Feel free to submit a Pull Request if you find a server side Quilt/Fabric mod no
 <p>Also see <a href="https://lambdaurora.dev/optifine_alternatives/">Optifine Alternatives</a> for a few useful client side only mods!</p>
 <p>Mods on this list are marked as outdated when they are <em>two</em> major Minecraft versions old - e.g. if 1.16 is the latest version, 1.14 and older mods are considered outdated.</p>
 
-${await collect(generateModsTables())}
+<p>${modsList.length} mods in this list! Filter: <a href="/">All</a> <a href="/modrinth/">Available from Modrinth</a> <a href="/curseforge/">Available from CurseForge</a></p>
+
+${await collect(generateModsTables(modsList, mods))}
 	`;
 }
 
@@ -173,4 +179,11 @@ ${await collect(generateModsTables())}
 	await fs.mkdir("dist", { recursive: true });
 	const readmeStream = createWriteStream("dist/index.html");
 	render(readmeStream, await generateReadme()).end();
+
+	await fs.mkdir("dist/modrinth", { recursive: true });
+	const readmeStreamModrinth = createWriteStream("dist/modrinth/index.html");
+	render(readmeStreamModrinth, await generateReadme(mod => mod.links.modrinth !== undefined)).end();
+	await fs.mkdir("dist/curseforge", { recursive: true });
+	const readmeStreamCF = createWriteStream("dist/curseforge/index.html");
+	render(readmeStreamCF, await generateReadme(mod => mod.links.curseforge !== undefined)).end();
 })();
