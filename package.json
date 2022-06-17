@@ -2,9 +2,9 @@
   "name": "serverside-mods-scripts",
   "version": "1.0.0",
   "description": "Scripts for updating the server-side mods list",
-  "main": "build.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "update": "node src/scripts/update.js",
+    "build": "node src/scripts/build.js"
   },
   "repository": {
     "type": "git",

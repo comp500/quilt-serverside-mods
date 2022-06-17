@@ -5,38 +5,38 @@ const { createWriteStream } = require("fs");
 const { Readable } = require("stream");
 
 async function* getMods() {
-	for (const ent of await fs.readdir("../mods", { withFileTypes: true })) {
+	for (const ent of await fs.readdir("src/mods", { withFileTypes: true })) {
 		if (ent.isDirectory()) continue;
-		yield [ent.name.replace(/\.toml$/, ""), TOML.parse(await fs.readFile(`../mods/${ent.name}`))]
+		yield [ent.name.replace(/\.toml$/, ""), TOML.parse(await fs.readFile(`src/mods/${ent.name}`))]
 	}
 }
 
 async function* getCategories() {
 	const parentCategoriesSeen = [];
 	async function* getChildCategories(parent) {
-		for (const ent of await fs.readdir(`../categories/${parent}`, { withFileTypes: true })) {
+		for (const ent of await fs.readdir(`src/categories/${parent}`, { withFileTypes: true })) {
 			const slug = parent + "/" + ent.name.replace(/\.toml$/, "");
 			if (ent.isDirectory()) {
 				// Ensure category index toml is emitted before directory
-				yield [slug, TOML.parse(await fs.readFile(`../categories/${slug}.toml`))];
+				yield [slug, TOML.parse(await fs.readFile(`src/categories/${slug}.toml`))];
 				parentCategoriesSeen.push(slug);
 
 				yield* getChildCategories(slug);
 			} else if (!parentCategoriesSeen.includes(slug)) {
-				yield [slug, TOML.parse(await fs.readFile(`../categories/${slug}.toml`))];
+				yield [slug, TOML.parse(await fs.readFile(`src/categories/${slug}.toml`))];
 			}
 		}
 	}
-	for (const ent of await fs.readdir(`../categories`, { withFileTypes: true })) {
+	for (const ent of await fs.readdir(`src/categories`, { withFileTypes: true })) {
 		const slug = ent.name.replace(/\.toml$/, "");
 		if (ent.isDirectory()) {
 			// Ensure category index toml is emitted before directory
-			yield [slug, TOML.parse(await fs.readFile(`../categories/${slug}.toml`))];
+			yield [slug, TOML.parse(await fs.readFile(`src/categories/${slug}.toml`))];
 			parentCategoriesSeen.push(slug);
 
 			yield* getChildCategories(slug);
 		} else if (!parentCategoriesSeen.includes(slug)) {
-			yield [slug, TOML.parse(await fs.readFile(`../categories/${slug}.toml`))];
+			yield [slug, TOML.parse(await fs.readFile(`src/categories/${slug}.toml`))];
 		}
 	}
 }
@@ -145,6 +145,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 }
 
 (async () => {
-	const readmeStream = createWriteStream("../../README.md");
+	const readmeStream = createWriteStream("README.md");
 	stream.pipeline(generateReadme(), readmeStream);
 })();
