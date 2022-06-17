@@ -46,6 +46,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 |Discord Integration Fabric|[Modrinth](https://modrinth.com/mod/dcintegration) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dcintegration-fabric)||
 |DisFabric|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/disfabric)||
 |Fabric-Discord Link|[Modrinth](https://modrinth.com/mod/fabric-discord-link) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-discord-link)||
+|Fabric2Discord|[Modrinth](https://modrinth.com/mod/fabric2discord) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric2discord)||
 |MCDiscordChat|[Modrinth](https://modrinth.com/mod/mcdiscordchat)||
 |ModFest Utilities|[Github](https://github.com/ModFest/modfest-utilities)||
 |QChatLink|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/qchatlink)||
@@ -534,6 +535,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 |Carpet Extra|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet-extra)||
 |Carpet TIS Addition|[Modrinth](https://modrinth.com/mod/carpet-tis-addition) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet-tis-addition)||
 |Carpet|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet)||
+|Colorful Anvils|[Modrinth](https://www.curseforge.com/minecraft/mc-mods/colorful-anvils)||
 |Context-Specific Immunity|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/context-specific-immunity)||
 |Cooperative Advancements|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cooperative-advancements-fabric)||
 |Copper Hopper|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/copper-hopper)||
