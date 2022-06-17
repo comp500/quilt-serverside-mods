@@ -7,12 +7,12 @@
 		{
 			"type": "pwa-node",
 			"request": "launch",
-			"name": "Run extraction script",
+			"name": "Run script",
 			"skipFiles": [
 				"<node_internals>/**"
 			],
 			"program": "${file}",
-			"cwd": "${workspaceFolder}/src/scripts"
+			"cwd": "${workspaceFolder}"
 		}
 	]
 }
