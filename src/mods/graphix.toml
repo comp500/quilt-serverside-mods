@@ -1,6 +1,6 @@
 name = 'GraphiX'
 links.modrinth = 'https://modrinth.com/mod/graphix'
 categories = [
-	'commands-chat',
+	'chat',
 ]
 metadata.outdated = true

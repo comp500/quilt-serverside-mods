@@ -6,7 +6,7 @@ categories = [
 	'tweaks/new-game-mechanics',
 	'tweaks/graves-death',
 	'commands',
-	'commands-chat/teleportation-homes',
+	'command/teleportation-homes',
 	'claims-world-protection',
 	'server-management/logging-auditing',
 	'server-management/server-list-modifications',

@@ -1,5 +1,5 @@
 name = 'Homabric'
 links.modrinth = 'https://modrinth.com/mod/homabric'
 categories = [
-	'commands-chat/teleportation-homes',
+	'command/teleportation-homes',
 ]

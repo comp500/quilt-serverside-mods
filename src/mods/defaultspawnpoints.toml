@@ -1,6 +1,6 @@
 name = 'Default Spawn Points'
 links.modrinth = 'https://modrinth.com/mod/defaultspawnpoints'
 categories = [
-	'commands-chat',
+	'commands',
 ]
 metadata.outdated = true

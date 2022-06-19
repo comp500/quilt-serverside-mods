@@ -1,6 +1,6 @@
 name = 'Handy Structures'
 links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/handy-structures'
 categories = [
-	'commands-chat',
+	'commands',
 ]
 metadata.outdated = true
