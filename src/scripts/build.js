@@ -112,8 +112,8 @@ ${modsList.map(mod => {
 </table>`;
 }
 
-async function* generateModsTables(modsList, mods) {
-	for await (const [slug, category] of getCategories()) {
+async function* generateModsTables(mods, modsList, categories) {
+	for (const [slug, category] of Object.entries(categories)) {
 		switch ((slug.match(/\//g)||[]).length) {
 			case 0:
 				yield html`<h2>${category.name}</h2>`
@@ -136,28 +136,7 @@ async function* generateModsTables(modsList, mods) {
 	}
 }
 
-async function generateReadme(page) {
-	const mods = {};
-	let modsList = [];
-	for await (const [slug, mod] of getMods()) {
-		mods[slug] = mod;
-		modsList.push(mod);
-	}
-
-	// TODO: sort by some measure of popularity
-
-	modsList.sort((a, b) => {
-		// Abandoned mods last, then outdated, then experimental
-		let cmp = compareBool(a.metadata?.abandoned ?? false, b.metadata?.abandoned ?? false);
-		if (cmp == 0) {
-			cmp = compareBool(a.metadata?.outdated ?? false, b.metadata?.outdated ?? false);
-			if (cmp == 0) {
-				cmp = compareBool(a.metadata?.experimental ?? false, b.metadata?.experimental ?? false);
-			}
-		}
-		return cmp;
-	});
-
+async function generateReadme(page, mods, modsList, categories) {
 	for (const [i, filterList] of Object.values(filters).entries()) {
 		modsList = modsList.filter(filterList[page[i]][1]);
 	}
@@ -173,7 +152,7 @@ Feel free to submit a Pull Request if you find a server side Quilt/Fabric mod no
 
 <hr>
 
-${await collect(generateModsTables(modsList, mods))}
+${await collect(generateModsTables(mods, modsList, categories))}
 	`;
 }
 
@@ -212,7 +191,7 @@ async function* filterLinks(page) {
 	}
 }
 
-async function createPage(page) {
+async function createPage(page, mods, modsList, categories) {
 	let pathPage = page;
 	if (page.every(s => s == "any")) {
 		pathPage = [];
@@ -220,22 +199,57 @@ async function createPage(page) {
 	await fs.mkdir(["dist", ...pathPage].join("/"), { recursive: true });
 	const readmeStream = createWriteStream(["dist", ...pathPage, "index.html"].join("/"));
 	// TODO: asyncify?
-	render(readmeStream, await generateReadme(page)).end();
+	render(readmeStream, await generateReadme(page, mods, modsList, categories)).end();
 }
 
-async function createPages(page, i) {
+async function createPages(page, i, mods, modsList, categories) {
 	const filterLists = Object.values(filters);
 	if (i >= filterLists.length) {
-		await createPage(page);
+		await createPage(page, mods, modsList, categories);
 	} else {
 		for (const slug of Object.keys(filterLists[i])) {
 			let newPage = page.slice();
 			newPage.push(slug);
-			createPages(newPage, i + 1);
+			createPages(newPage, i + 1, mods, modsList, categories);
 		}
 	}
 }
 
 (async () => {
-	await createPages([], 0);
+	const mods = {};
+	let modsList = [];
+	for await (const [slug, mod] of getMods()) {
+		mods[slug] = mod;
+		modsList.push(mod);
+	}
+
+	// TODO: sort by some measure of popularity
+
+	modsList.sort((a, b) => {
+		// Abandoned mods last, then outdated, then experimental
+		let cmp = compareBool(a.metadata?.abandoned ?? false, b.metadata?.abandoned ?? false);
+		if (cmp == 0) {
+			cmp = compareBool(a.metadata?.outdated ?? false, b.metadata?.outdated ?? false);
+			if (cmp == 0) {
+				cmp = compareBool(a.metadata?.experimental ?? false, b.metadata?.experimental ?? false);
+			}
+		}
+		return cmp;
+	});
+
+	const categories = {};
+	for await (const [slug, category] of getCategories()) {
+		categories[slug] = category;
+	}
+
+	// Validate mods
+	for (const mod of modsList) {
+		for (const category of mod.categories) {
+			if (categories[category] === undefined || categories[category] === null) {
+				throw new Error(`Failed to find category: ${category} for ${mod.name}`);
+			}
+		}
+	}
+
+	await createPages([], 0, mods, modsList, categories);
 })();
