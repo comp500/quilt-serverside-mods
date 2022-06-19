@@ -1,0 +1,5 @@
+name = 'ComputerCraft: Restiched with Polymer'
+links.modrinth = 'https://modrinth.com/mod/cc-polymer'
+categories = [
+	'tweaks/new-game-mechanics',
+]
