@@ -1,5 +1,5 @@
 name = 'Player Pronouns'
 links.modrinth = 'https://modrinth.com/mod/player-pronouns'
 categories = [
-	'commands-chat',
+	'commands',
 ]

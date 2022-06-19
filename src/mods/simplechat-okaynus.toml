@@ -1,6 +1,6 @@
 name = 'simplechat.'
 links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/simplechat'
 categories = [
-	'commands-chat',
+	'chat',
 ]
 metadata.outdated = true

@@ -1,5 +1,5 @@
 name = 'Editable Player NBT Hack'
 links.modrinth = 'https://modrinth.com/mod/editableplayernbthack'
 categories = [
-	'commands-chat',
+	'commands',
 ]

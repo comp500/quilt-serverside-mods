@@ -1,5 +1,5 @@
 name = 'Chat+'
 links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/chat'
 categories = [
-	'commands-chat',
+	'chat',
 ]

@@ -2,7 +2,7 @@ name = 'Wires'
 links.modrinth = 'https://modrinth.com/mod/wires'
 links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/wires'
 categories = [
-	'commands-chat',
+	'commands',
 	'server-management',
 	'server-management/permissions-roles',
 ]

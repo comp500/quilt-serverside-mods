@@ -1,5 +1,5 @@
 name = 'DisguiseLib'
 links.modrinth = 'https://modrinth.com/mod/disguiselib'
 categories = [
-	'commands-chat',
+	'commands',
 ]

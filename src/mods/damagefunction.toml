@@ -1,5 +1,5 @@
 name = 'Damage Function'
 links.modrinth = 'https://modrinth.com/mod/damagefunction'
 categories = [
-	'commands-chat',
+	'commands',
 ]

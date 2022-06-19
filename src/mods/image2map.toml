@@ -2,5 +2,5 @@ name = 'Image2Map'
 links.modrinth = 'https://modrinth.com/mod/image2map'
 links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/image2map'
 categories = [
-	'commands-chat',
+	'commands',
 ]

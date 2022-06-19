@@ -1,5 +1,5 @@
 name = 'Cyan'
 links.modrinth = 'https://modrinth.com/mod/cyan'
 categories = [
-	'commands-chat',
+	'commands',
 ]
