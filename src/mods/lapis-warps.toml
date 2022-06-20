@@ -1,5 +1,5 @@
 name = 'Lapis Warps'
 links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/lapis-warps'
 categories = [
-	'command/teleportation-homes',
+	'commands/teleportation-homes',
 ]

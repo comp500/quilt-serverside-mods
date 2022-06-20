@@ -1,5 +1,5 @@
 name = 'SimpleHomes'
 links.modrinth = 'https://modrinth.com/mod/simplehomes'
 categories = [
-	'command/teleportation-homes',
+	'commands/teleportation-homes',
 ]

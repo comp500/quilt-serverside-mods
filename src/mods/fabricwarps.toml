@@ -2,5 +2,5 @@ name = 'FabricWarps'
 links.modrinth = 'https://modrinth.com/mod/fabricwarps'
 links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/fabricwarps'
 categories = [
-	'command/teleportation-homes',
+	'commands/teleportation-homes',
 ]

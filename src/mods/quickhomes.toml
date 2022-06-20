@@ -1,5 +1,5 @@
 name = 'QuickHomes'
 links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/quickhomes'
 categories = [
-	'command/teleportation-homes',
+	'commands/teleportation-homes',
 ]
