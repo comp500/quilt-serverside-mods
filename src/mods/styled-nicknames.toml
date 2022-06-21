@@ -1,5 +1,5 @@
 name = 'Styled Nicknames'
 links.modrinth = 'https://modrinth.com/mod/styled-nicknames'
 categories = [
-	'commands-chat',
+	'chat',
 ]

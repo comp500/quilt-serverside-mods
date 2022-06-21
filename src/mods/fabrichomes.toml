@@ -2,5 +2,5 @@ name = 'FabricHomes'
 links.modrinth = 'https://modrinth.com/mod/fabrichomes'
 links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/fabrichomes'
 categories = [
-	'commands-chat/teleportation-homes',
+	'commands/teleportation-homes',
 ]

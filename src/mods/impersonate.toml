@@ -2,5 +2,5 @@ name = 'Impersonate'
 links.modrinth = 'https://modrinth.com/mod/impersonate'
 links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/impersonate'
 categories = [
-	'commands-chat',
+	'commands',
 ]

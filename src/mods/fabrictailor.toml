@@ -2,5 +2,5 @@ name = 'FabricTailor'
 links.modrinth = 'https://modrinth.com/mod/fabrictailor'
 links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/fabrictailor'
 categories = [
-	'commands-chat',
+	'chat',
 ]

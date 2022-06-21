@@ -1,6 +1,6 @@
 name = 'Block Quantity Scanner'
 links.modrinth = 'https://modrinth.com/mod/block-quantity-scanner'
 categories = [
-	'commands-chat',
+	'commands',
 ]
 metadata.outdated = true

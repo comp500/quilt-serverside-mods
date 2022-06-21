@@ -1,6 +1,6 @@
 name = 'Random Teleport'
 links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/random-teleport'
 categories = [
-	'commands-chat/teleportation-homes',
+	'commands/teleportation-homes',
 ]
 metadata.outdated = true

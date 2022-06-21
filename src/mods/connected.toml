@@ -1,6 +1,6 @@
 name = 'Connected'
 links.github = 'https://github.com/CodersInABarrel/Connected'
 categories = [
-	'commands-chat',
+	'commands',
 ]
 metadata.outdated = true

@@ -1,5 +1,5 @@
 name = 'Server Chat History'
 links.modrinth = 'https://modrinth.com/mod/server-chat-history'
 categories = [
-	'commands-chat',
+	'chat',
 ]

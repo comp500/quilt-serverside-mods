@@ -1,6 +1,6 @@
 name = 'Rich Chat'
 links.github = 'https://github.com/Ashley1227/rich-chat'
 categories = [
-	'commands-chat',
+	'commands',
 ]
 metadata.outdated = true

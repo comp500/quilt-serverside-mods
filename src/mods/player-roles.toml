@@ -2,6 +2,7 @@ name = 'Player Roles'
 links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/player-roles-fabric'
 links.modrinth = 'https://modrinth.com/mod/player-roles'
 categories = [
-	'commands-chat',
+	'commands',
+	'chat',
 	'server-management/permissions-roles',
 ]

@@ -1,5 +1,5 @@
 name = 'Custom Commands'
 links.modrinth = 'https://modrinth.com/mod/customcommands'
 categories = [
-	'commands-chat',
+	'commands',
 ]

@@ -1,5 +1,6 @@
 name = 'Head Index'
 links.modrinth = 'https://modrinth.com/mod/headindex'
 categories = [
-	'commands-chat',
+	'commands',
+	'building',
 ]

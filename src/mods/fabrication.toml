@@ -4,5 +4,5 @@ categories = [
 	'bugfixes',
 	'tweaks/game-mechanics-tweaks',
 	'tweaks/new-game-mechanics',
-	'commands-chat',
+	'commands',
 ]

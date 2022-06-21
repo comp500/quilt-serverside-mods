@@ -1,6 +1,6 @@
 name = 'Personal Spaces'
 links.modrinth = 'https://modrinth.com/mod/personal-spaces'
 categories = [
-	'commands-chat',
+	'commands',
 ]
 metadata.abandoned = true

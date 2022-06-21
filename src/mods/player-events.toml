@@ -1,5 +1,5 @@
 name = 'Player Events'
 links.modrinth = 'https://modrinth.com/mod/player-events'
 categories = [
-	'commands-chat/join-messages-motd',
+	'chat/join-messages-motd',
 ]

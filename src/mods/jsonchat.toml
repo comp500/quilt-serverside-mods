@@ -1,5 +1,5 @@
 name = 'Json Chat Mod'
 links.modrinth = 'https://modrinth.com/mod/jsonchat'
 categories = [
-	'commands-chat',
+	'chat',
 ]

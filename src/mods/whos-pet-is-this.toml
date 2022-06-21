@@ -1,5 +1,5 @@
 name = "Who's pet is this?"
 links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/whos-pet-is-this'
 categories = [
-	'commands-chat',
+	'commands',
 ]

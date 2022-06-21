@@ -1,6 +1,6 @@
 name = "Walaryne's Fly Mod"
 links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/walarynes-flymod'
 categories = [
-	'commands-chat',
+	'commands',
 ]
 metadata.outdated = true

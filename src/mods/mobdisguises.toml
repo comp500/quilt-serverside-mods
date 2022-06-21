@@ -1,5 +1,5 @@
 name = 'MobDisguises'
 links.modrinth = 'https://modrinth.com/mod/mobdisguises'
 categories = [
-	'commands-chat',
+	'commands',
 ]
