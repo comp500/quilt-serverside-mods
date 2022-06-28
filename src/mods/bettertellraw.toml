@@ -1,0 +1,5 @@
+name = 'BetterTellraw'
+links.modrinth = 'https://modrinth.com/mod/bettertellraw'
+categories = [
+	'commands',
+]
