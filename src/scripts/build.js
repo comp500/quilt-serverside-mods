@@ -94,7 +94,7 @@ ${modsList.map(mod => {
 				links.push(" ");
 			}
 			if (mod.links.github !== undefined) {
-				links.push(html`<a href=${mod.links.github}>Github</a>`);
+				links.push(html`<a href=${mod.links.github}>GitHub</a>`);
 				links.push(" ");
 			}
 			if (mod.links.website !== undefined) {
