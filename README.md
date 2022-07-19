@@ -236,7 +236,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 ## Performance
 |Name|Links|Notes|
 |-|-|-|
-|Carpet|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet)||
+|Carpet|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet) [Github](https://github.com/gnembon/fabric-carpet)||
 |Fast Furnace for Fabric|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric)||
 |FerriteCore|[Modrinth](https://modrinth.com/mod/ferrite-core) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)||
 |Krypton|[Modrinth](https://modrinth.com/mod/krypton) [Github](https://github.com/astei/krypton)||
@@ -393,7 +393,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 |Name|Links|Notes|
 |-|-|-|
 |Blame|[Modrinth](https://modrinth.com/mod/blame)||
-|Carpet|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet)||
+|Carpet|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet) [Github](https://github.com/gnembon/fabric-carpet)||
 |MixinTrace|[Modrinth](https://modrinth.com/mod/mixintrace)||
 |Spark|[Modrinth](https://modrinth.com/mod/spark) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark)||
 |Schwarz|[Modrinth](https://modrinth.com/mod/schwarz)|outdated|
@@ -534,7 +534,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 |Blastproof Netherite|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/blastproof-netherite)||
 |Carpet Extra|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet-extra)||
 |Carpet TIS Addition|[Modrinth](https://modrinth.com/mod/carpet-tis-addition) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet-tis-addition)||
-|Carpet|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet)||
+|Carpet|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet) [Github](https://github.com/gnembon/fabric-carpet)||
 |Colorful Anvils|[Modrinth](https://www.curseforge.com/minecraft/mc-mods/colorful-anvils)||
 |Context-Specific Immunity|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/context-specific-immunity)||
 |Cooperative Advancements|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cooperative-advancements-fabric)||
@@ -691,7 +691,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 |-|-|-|
 |Carpet Extra|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet-extra)||
 |Carpet TIS Addition|[Modrinth](https://modrinth.com/mod/carpet-tis-addition) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet-tis-addition)||
-|Carpet|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet)||
+|Carpet|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet) [Github](https://github.com/gnembon/fabric-carpet)||
 |Chain Suspension|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/chain-suspension)||
 |Compostable Rotten Flesh|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/compostable-rotten-flesh)||
 |Dance of Growth|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dance-of-growth)||
