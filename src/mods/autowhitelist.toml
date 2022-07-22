@@ -1,0 +1,6 @@
+name = 'AutoWhitelist'
+links.modrinth = 'https://modrinth.com/mod/autowhitelist'
+categories = [
+	'chat-linking/discord',
+        'server-management',
+] 
