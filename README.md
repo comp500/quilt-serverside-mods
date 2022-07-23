@@ -245,7 +245,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 |Phosphor|[Modrinth](https://modrinth.com/mod/phosphor) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/phosphor)|incompatible with Starlight|
 |Recipe Cache|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/recipe-cache)||
 |Starlight|[Modrinth](https://modrinth.com/mod/starlight)|incompatible with Phosphor|
-|Hydrogen|[Modrinth](https://modrinth.com/mod/hydrogen)|experimental, abandoned|
+|Hydrogen|[Modrinth](https://modrinth.com/mod/hydrogen)|experimental|
 |Very Many Players (Fabric)|[Modrinth](https://modrinth.com/mod/vmp-fabric)|experimental|
 |hopperOptimizations|[Github](https://github.com/2No2Name/hopperOptimizations)|requires Lithium fork, outdated|
 |RandomPatches|[Modrinth](https://modrinth.com/mod/randompatches) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric)|outdated|
