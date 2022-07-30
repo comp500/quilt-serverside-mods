@@ -401,6 +401,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 ### Protocol tricks - Cross-version/edition compatibility, resource packs for client-required mods
 |Name|Links|Notes|
 |-|-|-|
+|CardboardMc|[Github](https://github.com/CardboardPowered/cardboard) [Website](https://cardboardpowered.org/) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cardboard) [Modrinth](https://modrinth.com/mod/cardboard)||
 |Geyser-Fabric|[Github](https://github.com/GeyserMC/Geyser-Fabric) [Website](https://wiki.geysermc.org/other/geyser-fabric/)||
 |PolyMc|[Github](https://github.com/TheEpicBlock/PolyMc)||
 |ViaFabric|[Modrinth](https://modrinth.com/mod/viafabric) [Website](https://viaversion.com/fabric)||
