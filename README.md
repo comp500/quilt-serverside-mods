@@ -108,6 +108,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 |MobDisguises|[Modrinth](https://modrinth.com/mod/mobdisguises)||
 |Mods Command|[Modrinth](https://modrinth.com/mod/mods-command)||
 |More Commands Mod|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/morecmds)||
+|No Chat Reports|[Modrinth](https://modrinth.com/mod/no-chat-reports)|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)|[Github](https://github.com/Aizistral-Studios/No-Chat-Reports)||
 |Pingspam|[Modrinth](https://modrinth.com/mod/pingspam)||
 |Player Pronouns|[Modrinth](https://modrinth.com/mod/player-pronouns)||
 |Player Roles|[Modrinth](https://modrinth.com/mod/player-roles) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/player-roles-fabric)||
@@ -297,6 +298,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 |Holograms|[Modrinth](https://modrinth.com/mod/holograms)||
 |I'm Here Get Moving|[Modrinth](https://modrinth.com/mod/ihgm)||
 |Never Tick Alone|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/never-tick-alone)||
+|No Chat Reports|[Modrinth](https://modrinth.com/mod/no-chat-reports)|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)|[Github](https://github.com/Aizistral-Studios/No-Chat-Reports)||
 |Gastrolimital Bypass|[Modrinth](https://modrinth.com/mod/no_player_limit)||
 |Progression|[Github](https://github.com/maxheyn/progression)||
 |Reload server.properties|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/reload-server-properties)||
