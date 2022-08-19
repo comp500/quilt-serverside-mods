@@ -1,5 +1,9 @@
 name = 'FilledToTheBrim'
 links.modrinth = 'https://modrinth.com/mod/filledtothebrim'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/filledtothebrim'
+links.github = 'https://github.com/JacktheDevel0per/FilledToTheBrim'
 categories = [
 	'tweaks/game-mechanics-tweaks',
+	'inventory'
 ]
+metadata.recommended_client = true
