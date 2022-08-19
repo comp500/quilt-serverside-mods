@@ -4,6 +4,7 @@ const TOML = require("@ltd/j-toml");
 const { createWriteStream } = require("fs");
 const { Readable } = require("stream");
 const { html, render } = require("ucontent");
+const path = require("path");
 
 async function* getMods() {
 	for (const ent of await fs.readdir("src/mods", { withFileTypes: true })) {
@@ -141,18 +142,46 @@ async function generateReadme(page, mods, modsList, categories) {
 		modsList = modsList.filter(filterList[page[i]][1]);
 	}
 
+	// TODO: table of contents
 	return html`
-<h1>Quilt Server-side Mods</h1>
-<p>This is a list of server-side mods for the Quilt modloader; including many Fabric mods (which are compatible with Quilt) and some Quilt-only mods. Wondering what Quilt is? It&#39;s a new modloader, compatible with the vast majority of Fabric mods; see <a href="https://quiltmc.org/about/faq/">the FAQ page here</a>!
-Feel free to submit a Pull Request if you find a server side Quilt/Fabric mod not listed here.</p>
-<p>Also see <a href="https://lambdaurora.dev/optifine_alternatives/">Optifine Alternatives</a> for a few useful client side only mods!</p>
-<p>Mods on this list are marked as outdated when they are <em>two</em> major Minecraft versions old - e.g. if 1.16 is the latest version, 1.14 and older mods are considered outdated.</p>
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Quilt Server-side Mods</title>
+		<link rel="stylesheet" href="/simple.min.css">
+	</head>
+	<body>
+		<header>
+			<h1>Quilt Server-side Mods</h1>
+			<p>
+			A list of server-side mods for the Quilt mod loader; including many Fabric mods (which are compatible with Quilt) and some Quilt-only mods.
+			</p>
+			<p>
+				<a href="https://github.com/comp500/quilt-serverside-mods">View the source and contribute on GitHub here!</a>
+			</p>
+		</header>
+		<main>
+			<aside>
+					<p><strong>Wondering what Quilt is?</strong></p>
+					<p>It&#39;s a new mod loader, compatible with the vast majority of Fabric mods; see <a href="https://quiltmc.org/about/faq/">the FAQ page here</a>!</p>
+			</aside>
+			
+			<p>See <a href="https://lambdaurora.dev/optifine_alternatives/">Optifine Alternatives</a> for a few useful client side only mods!</p>
+			<p>Mods on this list are marked as outdated when they are <em>two</em> major Minecraft versions old - e.g. if 1.16 is the latest version, 1.14 and older mods are considered outdated.</p>
 
-<p>${modsList.length} mods in this list!${await collect(filterLinks(page))}</p>
+			<details>
+				<summary>Filtering options (${modsList.length} currently shown)</summary>
+				<p>${await collect(filterLinks(page))}</p>
+			</details>
 
-<hr>
+			<hr>
 
-${await collect(generateModsTables(mods, modsList, categories))}
+			${await collect(generateModsTables(mods, modsList, categories))}
+		</main>
+	</body>
+</html>
 	`;
 }
 
@@ -169,6 +198,8 @@ let filters = {
 	}
 };
 
+let defaultPath = ["any", "updated"];
+
 async function* filterLinks(page) {
 	let filterTypes = Object.keys(filters);
 	for (const [i, type] of filterTypes.entries()) {
@@ -177,23 +208,24 @@ async function* filterLinks(page) {
 		for (const [slug, [name, filter]] of Object.entries(filters[type])) {
 			yield " ";
 			if (page[i] == slug) {
-				yield name;
+				yield html`<button disabled>${name}</button>`;
 			} else {
 				let newPage = page.slice();
 				newPage[i] = slug;
 				let link = `/${newPage.join("/")}/`;
-				if (newPage.every(s => s == "any")) {
+				if (newPage.every((s, i) => s == defaultPath[i])) {
 					link = "/";
 				}
-				yield html`<a href=${link}>${name}</a>`;
+				yield html`<a href=${link}><button>${name}</button></a>`;
 			}
 		}
+		yield html`<br>`;
 	}
 }
 
 async function createPage(page, mods, modsList, categories) {
 	let pathPage = page;
-	if (page.every(s => s == "any")) {
+	if (page.every((s, i) => s == defaultPath[i])) {
 		pathPage = [];
 	}
 	await fs.mkdir(["dist", ...pathPage].join("/"), { recursive: true });
@@ -213,6 +245,10 @@ async function createPages(page, i, mods, modsList, categories) {
 			createPages(newPage, i + 1, mods, modsList, categories);
 		}
 	}
+}
+
+async function copySimpleCSS() {
+	await fs.copyFile(path.join(require.resolve("simpledotcss"), "../simple.min.css"), "dist/simple.min.css");
 }
 
 (async () => {
@@ -251,5 +287,9 @@ async function createPages(page, i, mods, modsList, categories) {
 		}
 	}
 
-	await createPages([], 0, mods, modsList, categories);
+	await fs.mkdir("dist", { recursive: true });
+	await Promise.all([
+		copySimpleCSS(),
+		createPages([], 0, mods, modsList, categories)
+	]);
 })();
