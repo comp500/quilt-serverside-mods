@@ -4,3 +4,4 @@ categories = [
 	'performance',
 ]
 metadata.experimental = true
+metadata.abandoned = true
