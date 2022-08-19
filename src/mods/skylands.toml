@@ -1,0 +1,5 @@
+name = 'Skylands (Skyblock)'
+links.github = 'https://modrinth.com/mod/skylands'
+categories = [
+	'gamemodes-minigames',
+]
