@@ -15,7 +15,7 @@
   "homepage": "https://github.com/comp500/quilt-serverside-mods#readme",
   "dependencies": {
     "@ltd/j-toml": "^1.33.0",
-    "simpledotcss": "^2.1.0",
+    "simpledotcss": "github:kevquirk/simple.css",
     "ucontent": "^2.0.0"
   }
 }
