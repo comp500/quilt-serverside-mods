@@ -1,0 +1,6 @@
+name = 'Sodium #1016 Fix'
+links.modrinth = 'https://modrinth.com/mod/sodium-crash-fix'
+links.github = 'https://github.com/wifi-left/sodium-fix-mod'
+categories = [
+	'bugfixes'
+]
