@@ -1,0 +1,6 @@
+name = 'Backport Gamerules'
+links.github = 'https://github.com/Ivan-Khar/BackportGamerules'
+links.modrinth = 'https://modrinth.com/mod/backport-gamerules'
+categories = [
+	'tweaks/game-mechanics-tweaks',
+]
