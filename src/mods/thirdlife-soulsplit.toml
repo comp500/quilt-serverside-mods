@@ -3,3 +3,4 @@ links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/thirdlife-souls
 categories = [
 	'gamemodes-minigames',
 ]
+metadata.outdated = true

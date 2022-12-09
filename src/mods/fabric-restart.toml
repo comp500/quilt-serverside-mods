@@ -3,3 +3,4 @@ links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/fabric-restart'
 categories = [
 	'server-management',
 ]
+notes = 'Abandoned'
