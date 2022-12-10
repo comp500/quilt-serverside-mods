@@ -1,5 +1,7 @@
 name = 'Hat command'
-links.github = 'https://github.com/AquUpd/hat-command'
+links.github = 'https://github.com/Ivan-Khar/hat-command'
+links.modrinth = 'https://modrinth.com/mod/hat-command'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/hat-command'
 categories = [
 	'utility/cosmetic',
 ]
