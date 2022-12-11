@@ -1,0 +1,6 @@
+name = 'Manhunt Fabricated'
+links.github = 'https://github.com/Ivan-Khar/manhunt-fabricated'
+links.modrinth = 'https://modrinth.com/mod/manhunt-fabricated'
+categories = [
+	'gamemodes-minigames',
+]

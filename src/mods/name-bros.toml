@@ -1,0 +1,8 @@
+name = 'Name Bros'
+links.github = 'https://github.com/Ivan-Khar/Name-Bros'
+links.modrinth = 'https://modrinth.com/mod/namebros'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/namebros'
+categories = [
+	'tweaks/mobs',
+	'tweaks/new-game-mechanics',
+]
