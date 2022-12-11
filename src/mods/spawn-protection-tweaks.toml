@@ -4,4 +4,4 @@ categories = [
 	'claims-world-protection',
 ]
 metadata.outdated = true
-notes = 'Abandoned'
+metadata.abandoned = true

@@ -4,4 +4,4 @@ categories = [
 	'server-management/console-logs',
 ]
 metadata.outdated = true
-notes = 'Abandoned'
+metadata.abandoned = true

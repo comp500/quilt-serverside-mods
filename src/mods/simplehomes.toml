@@ -4,4 +4,4 @@ categories = [
 	'commands/teleportation-homes',
 ]
 metadata.outdated = true
-notes = 'Abandoned'
+metadata.abandoned = true

@@ -4,4 +4,4 @@ categories = [
 	'chat',
 ]
 metadata.outdated = true
-notes = 'Abandoned'
+metadata.abandoned = true

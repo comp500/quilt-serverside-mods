@@ -4,4 +4,4 @@ categories = [
 	'commands',
 ]
 metadata.outdated = true
-notes = 'Abandoned'
+metadata.abandoned = true
