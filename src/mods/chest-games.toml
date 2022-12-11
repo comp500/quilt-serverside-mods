@@ -3,3 +3,4 @@ links.modrinth = 'https://modrinth.com/mod/chest-games'
 categories = [
 	'gamemodes-minigames',
 ]
+metadata.outdated = true

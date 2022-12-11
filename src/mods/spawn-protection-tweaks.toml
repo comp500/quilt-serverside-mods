@@ -3,3 +3,5 @@ links.modrinth = 'https://modrinth.com/mod/spawn-protection-tweaks'
 categories = [
 	'claims-world-protection',
 ]
+metadata.outdated = true
+metadata.abandoned = true

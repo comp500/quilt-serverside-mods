@@ -3,4 +3,5 @@ links.github = 'https://github.com/Fallen-Breath/mc-198678-fix'
 categories = [
 	'bugfixes',
 ]
+metadata.outdated = true
 notes = 'fixed by 1.16.3'

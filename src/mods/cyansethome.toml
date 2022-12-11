@@ -3,3 +3,5 @@ links.modrinth = 'https://modrinth.com/mod/cyansethome'
 categories = [
 	'commands/teleportation-homes',
 ]
+metadata.outdated = true
+metadata.abandoned = true

@@ -3,3 +3,5 @@ links.modrinth = 'https://modrinth.com/mod/jsonchat'
 categories = [
 	'chat',
 ]
+metadata.outdated = true
+metadata.abandoned = true

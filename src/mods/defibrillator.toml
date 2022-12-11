@@ -3,3 +3,4 @@ links.modrinth = 'https://modrinth.com/mod/defibrillator'
 categories = [
 	'server-management',
 ]
+metadata.outdated = true

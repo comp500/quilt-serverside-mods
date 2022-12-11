@@ -3,3 +3,5 @@ links.modrinth = 'https://modrinth.com/mod/gamerulify'
 categories = [
 	'server-management',
 ]
+metadata.outdated = true
+metadata.abandoned = true
