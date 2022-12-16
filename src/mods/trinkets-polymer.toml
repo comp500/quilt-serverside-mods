@@ -1,0 +1,5 @@
+name = 'Trinkets (Polymer Port)'
+links.modrinth = 'https://modrinth.com/mod/trinkets-polymer'
+categories = [
+	'tweaks/new-game-mechanics',
+]

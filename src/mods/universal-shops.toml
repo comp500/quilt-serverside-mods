@@ -1,0 +1,6 @@
+name = 'Universal Shops'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/universal-shops'
+links.modrinth = 'https://modrinth.com/mod/universal-shops'
+categories = [
+	'economy-shops',
+]

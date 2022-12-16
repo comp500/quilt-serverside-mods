@@ -1,0 +1,6 @@
+name = "Patbox's Brewery"
+links.modrinth = 'https://modrinth.com/mod/brewery'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/patboxs-brewery'
+categories = [
+	'tweaks/new-game-mechanics',
+]

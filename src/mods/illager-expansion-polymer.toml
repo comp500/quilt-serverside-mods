@@ -1,0 +1,5 @@
+name = 'Illager Expansion (Polymer Port)'
+links.modrinth = 'https://modrinth.com/mod/illager-expansion-polymer'
+categories = [
+	'tweaks/new-game-mechanics',
+]
