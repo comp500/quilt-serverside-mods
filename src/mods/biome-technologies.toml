@@ -1,0 +1,6 @@
+name = 'Biome Technologies'
+links.modrinth = 'https://modrinth.com/mod/biome-technologies'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/biome-technologiestm'
+categories = [
+	'tweaks/new-game-mechanics',
+]
