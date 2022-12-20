@@ -4,4 +4,4 @@ categories = [
 	'bugfixes',
 ]
 metadata.outdated = true
-notes = 'fixed in 1.19.1'
+notes = 'fixed by 1.19.1'
