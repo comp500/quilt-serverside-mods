@@ -3,3 +3,5 @@ links.modrinth = 'https://modrinth.com/mod/antishulkerdupe'
 categories = [
 	'bugfixes',
 ]
+metadata.outdated = true
+notes = 'fixed in 1.19.1'
