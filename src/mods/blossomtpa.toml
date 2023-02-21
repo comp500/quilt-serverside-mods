@@ -1,0 +1,5 @@
+name = 'BlossomTPA'
+links.modrinth = 'https://modrinth.com/mod/blossomtpa'
+categories = [
+	'commands/teleportation-homes',
+]
