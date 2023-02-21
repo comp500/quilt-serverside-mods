@@ -4,3 +4,5 @@ links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/fabrichomes'
 categories = [
 	'commands/teleportation-homes',
 ]
+metadata.outdated = true
+notes = 'succeeded by BlossomHomes'
