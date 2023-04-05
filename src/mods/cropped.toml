@@ -1,0 +1,8 @@
+name = 'Cropped'
+links.modrinth = 'https://modrinth.com/mod/cropped'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/cropped'
+links.github = 'https://github.com/NyakoFox/Cropped'
+categories = [
+        'utility',
+        'tweaks/game-mechanics-tweaks'
+]
