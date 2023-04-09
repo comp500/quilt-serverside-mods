@@ -1,0 +1,6 @@
+name = 'Stellar Tune'
+links.modrinth = 'https://modrinth.com/mod/stellar-tune'
+links.github = 'https://github.com/MayaqqDev/stellar-tune/'
+categories = [
+	'commands',
+]
