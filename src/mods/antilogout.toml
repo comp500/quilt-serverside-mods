@@ -1,0 +1,7 @@
+name = 'AntiLogout'
+links.modrinth = 'https://modrinth.com/mod/noexits'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/antilogout'
+categories = [
+	'tweaks/combat',
+  'tweaks/graves-death'
+]
