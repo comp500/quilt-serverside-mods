@@ -1,0 +1,5 @@
+name = 'Dory'
+links.modrinth = 'https://modrinth.com/mod/dory'
+categories = [
+	'commands',
+]
