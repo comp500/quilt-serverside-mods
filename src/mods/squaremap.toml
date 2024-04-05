@@ -1,0 +1,5 @@
+name = 'squaremap'
+links.modrinth = 'https://modrinth.com/plugin/squaremap'
+categories = [
+	'web-maps',
+]
