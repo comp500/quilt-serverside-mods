@@ -1,0 +1,6 @@
+name = 'Maintenance Mode'
+links.modrinth = 'https://modrinth.com/mod/maintenancemode'
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/maintenance-mode-forge-fabric-quilt'
+categories = [
+        'server-management',
+]
