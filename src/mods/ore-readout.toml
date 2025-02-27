@@ -1,5 +1,0 @@
-name = 'Ore-Readout'
-links.modrinth = 'https://modrinth.com/mod/ore-readout'
-categories = [
-	'server-management/logging-auditing',
-]

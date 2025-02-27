@@ -1,0 +1,5 @@
+name = 'orereadoutV2'
+links.modrinth = 'https://modrinth.com/mod/orereadoutv2'
+categories = [
+	'server-management/logging-auditing',
+]
